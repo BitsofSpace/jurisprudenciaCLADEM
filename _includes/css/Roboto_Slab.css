@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Slab Thin'),
+    local('RobotoSlab-Thin'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-thin-webfont.woff2) format('woff2'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-thin-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Slab Light'),
+    local('RobotoSlab-Light'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-light-webfont.woff2) format('woff2'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-light-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'),
+    local('RobotoSlab-Regular'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-regular-webfont.woff2) format('woff2'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-regular-webfont.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Slab Bold'),
+    local('RobotoSlab-Bold'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-bold-webfont.woff2) format('woff2'),
+    url({{ site.baseurl }}/fonts/robotoslab/robotoslab-bold-webfont.woff) format('woff');
+}

@@ -1,0 +1,31 @@
+@font-face { font-family: "robotoslab"; font-style: normal; font-weight: bold; src:url(../Fonts/robotoslabbold.ttf); }
+@font-face { font-family: "robotoslab"; font-style: normal; font-weight: normal; src:url(../Fonts/robotoslabregular.ttf); }
+
+body,
+p, li, blockquote, figure,
+h1, h2, h3, h4, h5, h6 {
+  margin: 5%;
+  direction: rtl;
+  text-align: right;
+  font-family: "robotoslab", robotoslab,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+code { font-family: monospace; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+a.footnote-ref { vertical-align: super; }
+em, em em em, em em em em em { font-style: italic;}
+em em, em em em em { font-style: normal; }
+

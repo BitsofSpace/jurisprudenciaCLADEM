@@ -1,0 +1,29 @@
+meta:
+  title: 'Jurisprudencia CLADEM'
+  description: "Jurisprudencia CLADEM"
+  keywords:
+    - jurisprudencia
+    - derechos humanos
+    - Latinoamérica
+    - derechos civiles
+navegacion: Mostrar menú
+inicio: Inicio
+volver:
+  modulo: Volver al módulo
+  guia: Volver a la guía
+entrar: Entrar
+cerrar: Cerrar
+anchor:
+  acerca: 'acerca'
+  metodologia: 'metodologia'
+  modulos: 'modulos'
+  gracias: 'agradecimientos'
+nav:
+  - href: '/'
+    text: 'Inicio'
+  - href: '/#acerca'
+    text: 'Acerca de'
+  - href: '/#metodologia'
+    text: 'Metodología'
+  - href: '/#modulos'
+    text: 'Módulos'

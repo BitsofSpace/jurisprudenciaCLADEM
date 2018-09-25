@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Droid Naskh';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Droid Naskh'),
+    local('DroidNaskh'),
+    url({{ site.baseurl }}/fonts/droidnaskh/DroidNaskh-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Naskh';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Droid Naskh Bold'),
+    local('DroidNaskh Bold'),
+    url({{ site.baseurl }}/fonts/droidnaskh/DroidNaskh-Bold.ttf) format('truetype');
+}
+

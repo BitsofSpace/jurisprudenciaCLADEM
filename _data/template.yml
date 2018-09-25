@@ -1,0 +1,12 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: b16c85
+  secondary: ff8360   
+  secondary-dark: 68305a
+  muted: 777
+  celeste: 9bc3d0
+
+# Font Families
+font:
+  primary: '"Roboto Slab",Helvetica,Arial,sans-serif'
+  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'

@@ -1,0 +1,82 @@
+url: https://jurisprudencia.cladem.org
+license:
+  type: 'CC-BY-SA'
+  url: 'https://creativecommons.org/licenses/by-sa/4.0/deed.es'
+piwik:
+  url: https://sinapsis.kefir.red/
+  site_id: 126
+
+# Rellenar acá con datos de CLADEM
+facebook:
+  publisher: "http://es-es.facebook.com/pages/CLADEM/133688246649302"
+  author: "http://es-es.facebook.com/pages/CLADEM/133688246649302"
+twitter:
+  site: "@CLADEM"
+  creator: "@CLADEM"
+
+permalink: /:categories/:title/
+highlighter: none
+
+# Enable pandoc processing of HTML articles
+markdown: pandoc
+pandoc:
+# Toggle to true if you want to skip publishing
+  skip:
+    posts: false
+    categories: false
+    full: false
+# The permalink for bundled articles.  Bundled articles are posts under
+# the same category that produce a single document containing them all
+# as a collection.
+  bundle_permalink: '/:slug/:slug.:output_ext'
+# Page size (between a7 and a0)
+  papersize: 'a5paper'
+# Printing size (between a7 and a0)
+  sheetsize: 'a4paper'
+# Printing layout for sewed binding, booklets and zines
+  imposition: false
+# Printing layout for thermal/glue binding
+  binder: false
+  covers_dir: img/covers
+  full_file: true
+
+# These flags are applied to every format, including HTML
+  flags: '--section-divs --email-obfuscation=references'
+# Flags applied only to HTML
+  site_flags: ''
+  lang:
+    es:
+      pdf: '-V mainfont="Roboto Slab" --include-before-body=_layouts/license.es.tex --include-in-header=_layouts/header.es.tex'
+      latex: '-V mainfont="Roboto Slab" --include-before-body=_layouts/license.es.tex --include-in-header=_layouts/header.es.tex'
+      epub: '--css=epub.es.css -V rights="© 2018 CLADEM. CC-BY-SA 4.0 Internacional https://creativecommons.org/licenses/by-sa/4.0/deed.es"'
+
+# Formats and their specific flags
+  outputs:
+    pdf: '-V fontsize=10pt,twoside
+          -V documentclass=book
+          -V geometry=hcentering
+          -V links-as-notes=true
+          -V subparagraph
+          -V graphics
+          --template=_layouts/pandoc.latex
+          --include-in-header=_layouts/header.tex
+          --pdf-engine=xelatex
+          --table-of-contents'
+    epub: '--epub-chapter-level=2
+           --epub-embed-font=fonts/robotoslab/robotoslabbold.ttf
+           --epub-embed-font=fonts/robotoslab/robotoslabregular.ttf'
+    markdown: ''
+
+plugins:
+  - jekyll-archives
+  - jekyll-pandoc-multiple-formats
+
+jekyll-archives:
+  enabled:
+    - categories
+  permalinks:
+    category: /:name/
+
+exclude:
+  - img/base/
+  - img/covers/
