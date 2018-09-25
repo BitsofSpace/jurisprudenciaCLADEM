@@ -1,24 +1,30 @@
-### Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas
+---
+layout: apartado
+title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
+categories:
+  - "Argentina"
+---
+# Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas
 
-#### 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en enero de 1990.[^DESC-1]
+## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en enero de 1990.[^DESC-1]
 
 235. El Comité examinó el informe inicial de la Argentina sobre los derechos reconocidos en los artículos 13 a 15 del Pacto (E/1988/5/Add.4) en sus sesiones 18ª a 20ª, celebradas los días 26 y 29 de enero de 1990 (E/CN.4/1990/SR. 18 a 20)
 
 _Si bien, el Comité manifestó preocupación por (245) el número inferior de niñas respecto de niños en la enseñanza primaria, no se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
 
-#### 2º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas en noviembre de 1994.[^DESC-2]
+## 2º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas en noviembre de 1994.[^DESC-2]
 
 1. El Comité consideró el segundo informe periódico de la República de Argentina sobre los artículos 6 a 12 del Pacto (E/1990/5/Add.18) en las sesiones 301, 311 y 341 del 22 y 24 de noviembre de 1994 y adoptó las siguientes observaciones finales.
 
 _No se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
 
-#### 3º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas el 1 de diciembre de 1999.[^DESC-3]
+## 3º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas el 1 de diciembre de 1999.[^DESC-3]
 
 _El Comité expresó los siguientes motivos de preocupación (14, 17, 24, 25): que las prestaciones de desempleo excluyan a algunas categorías de trabajadores, como el servicio doméstico; la discriminación a la mujer en materia de empleo e igualdad de remuneración; la salud de las mujeres embarazadas, en especial por las elevadas tasas de mortalidad materna y de embarazo adolescente; el número cada vez mayor de casos de violencia contra la mujer, en particular violencia doméstica._
 
 1. El Comité examinó el segundo informe periódico de la República Argentina (E/1990/6/Add.16) en sus sesiones 33ª, 34ª, 35ª y 36ª, celebradas los días 17, 18 y 19 de noviembre, y aprobó, en su 52ª sesión, celebrada el 1º de diciembre de 1999, las observaciones finales que figuran a continuación.
 
-##### E. Sugerencias y recomendaciones
+### E. Sugerencias y recomendaciones
 
 32. **El Comité pide que el Gobierno de la Argentina adopte medidas para garantizar la igualdad de hecho y de derecho entre el hombre y la mujer en lo que respecta al disfrute de los derechos económicos, sociales y culturales.**
 (…)
@@ -31,11 +37,11 @@ _El Comité expresó los siguientes motivos de preocupación (14, 17, 24, 25): q
 [^DESC-2]: E/C.12/1994/14, 19 de diciembre de 1994
 [^DESC-3]: E/C.12/1/Add.38, 8 de diciembre de 1999
 
-#### 4º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas el 2 de diciembre de 2011.[^DESC-4]
+## 4º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas el 2 de diciembre de 2011.[^DESC-4]
 
 1. El Comité de Derechos Económicos, Sociales y Culturales examinó el reporte del Estado parte en la implementación de la Convención Internacional de los Derechos Económicos, Sociales y Culturales (E/C.12/ARG/3) en sus sesiones 44a a 46a, celebradas el 23 y 24 de Noviembre de 2011 (E/C.12/2011/SR.44-46), y aprobó, en sus sesiones 59a celebradas el 2 de Diciembre de 2011, las observaciones finales que figuran a continuación.
 
-##### C. Principales motivos de preocupación y recomendaciones[^DESC-5]
+### C. Principales motivos de preocupación y recomendaciones[^DESC-5]
 
 (…)
 
