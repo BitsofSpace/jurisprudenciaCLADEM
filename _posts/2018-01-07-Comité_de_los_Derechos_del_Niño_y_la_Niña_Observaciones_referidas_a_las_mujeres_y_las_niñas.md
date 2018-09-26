@@ -1,6 +1,6 @@
 ---
 layout: apartado
-title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
+title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 categories:
   - "Argentina"
 ---
