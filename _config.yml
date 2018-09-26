@@ -72,10 +72,9 @@ plugins:
   - jekyll-pandoc-multiple-formats
 
 jekyll-archives:
-  enabled:
-    - categories
+  enabled: all
   permalinks:
-    category: /:name/
+    category: '/categoria/:name/'
 
 exclude:
   - img/base/
