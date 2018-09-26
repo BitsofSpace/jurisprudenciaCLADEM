@@ -2,7 +2,7 @@
   <ul>
     {% for format in site.pandoc.outputs %}
       {% capture extension %}{{ format | first }}{% endcapture %}
-      <li><a href="{{ page.url }}{{ page.slug }}.{{ extension }}">{{ extension }}</a></li>
+      <li>Descargar en » <a href="{{ page.url }}{{ page.slug }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
 
     {% if site.pandoc.imposition %}
