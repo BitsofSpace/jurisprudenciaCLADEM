@@ -1,8 +1,12 @@
 
 body {
-  font-family: 'Crimson Text', serif;
+  font-family: 'Formata Light', serif;
   max-width: 65%;
   font-size: 120%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Formata Regular', serif;
 }
 
 
