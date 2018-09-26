@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: conclusiones y recomendaciones para Argentina"
 categories:
-  - "Argentina"
+   - "Argentina"
 ---
 # Comité para la Eliminación de la Discriminación Racial: conclusiones y recomendaciones para Argentina
 
@@ -17,7 +17,7 @@ presentada. El segundo informe periódico, presentado el 10 de noviembre de
 1971, fue examinado en el séptimo período de sesiones del Comité (126ª y
 127ª sesiones).
 
-_No se observan recomendaciones con perspectiva de género._
+    _No se observan recomendaciones con perspectiva de género._
 
 
 ## 2º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas en 1975.[^CEDR-2]
@@ -37,7 +37,7 @@ artículo 7 de la Convención. El Estado informante tampoco proporcionaba la
 información prevista en las recomendaciones generales III (sobre relaciones
 con regímenes racistas) y IV (sobre población).
 
-_No se observan recomendaciones con perspectiva de género._
+    _No se observan recomendaciones con perspectiva de género._
 
 
 ## 3º Observaciones finales sobre el cuarto informe presentado por el Estado adoptadas en 1976.[^CEDR-3]
@@ -53,13 +53,8 @@ relaciones con los regímenes racistas del África Meridional. Se señaló, sin
 embargo, que no se había respondido a las restantes preguntas y se subrayó
 que, por consiguiente, seguían siendo válidas las observaciones hechas
 durante el examen del tercer informe.
-
-_No se observan recomendaciones con perspectiva de género._
-
-
-[^CEDR-1]: Suplemento No. 18 (A/90/18), 1973
-[^CEDR-2]: Suplemento No. 18 (A/100/18), 1975
-[^CEDR-3]: Suplemento No. 18 (A/31/18), 1976
+ 
+   _No se observan recomendaciones con perspectiva de género._
 
 ## 4º Observaciones finales sobre el quinto informe presentado por el Estado adoptadas en 1980.[^CEDR-4]
 
@@ -68,10 +63,7 @@ con la declaración introductoria formulada por la representante del Estado
 informante, que complementó y actualizó la información proporcionada en el
 informe.
 
-_No se observan recomendaciones con perspectiva de género._
-
-[^CEDR-4]: Suplemento No.18 (A/35/18), 1980
-
+     _No se observan recomendaciones con perspectiva de género._
 
 ## 5º Observaciones finales sobre el séptimo informe presentado por el Estado adoptadas en 1982.[^CEDR-5]
 
@@ -97,10 +89,7 @@ por ser discriminatorio. El caso, que afectaba los derechos religiosos y
 educacionales de un extranjero, ilustraba por analogía los recursos de que
 disponían todos los habitantes para la aplicación de sus derechos.
 
-_No se observan recomendaciones con perspectiva de género._
-
-[^CEDR-5]: Suplemento No. 18 (A/37/18), 1982
-
+     _No se observan recomendaciones con perspectiva de género._
 
 ## Observaciones finales sobre el octavo informe presentado por el Estado adoptadas en 1984.[^CEDR-6]
 
@@ -121,10 +110,7 @@ medidas políticas, jurídicas y socioeconómicas tomadas para aplicar la
 Convención, refirmar el respeto a las personas y ayudar a los sectores de
 la población de bajo nivel de ingresos.
 
-_No se observan recomendaciones con perspectiva de género._
-
-[^CEDR-6]: Suplemento No. 18 (A/39/18), 1984
-
+      _No se observan recomendaciones con perspectiva de género._
 
 ## 7º Observaciones finales sobre el noveno informe presentado por el Estado adoptadas el 5 de marzo de 1987.[^CEDR-7]
 
@@ -132,9 +118,7 @@ _No se observan recomendaciones con perspectiva de género._
 el Comité examinó el noveno informe periódico de la Argentina
 (CERD/C/149/Add.1).
 
-_No se observan recomendaciones con perspectiva de género._
-
-[^CEDR-7]: Suplemento No.18 (A/42/18), 1987
+     _No se observan recomendaciones con perspectiva de género._
 
 
 ## 8º Observaciones finales sobre el décimo informe presentado por el Estado adoptadas en mayo de 1991.[^CEDR-8]
@@ -147,9 +131,6 @@ examinado por el Comité en sus sesiones 892a. y 894a., celebradas los días
 
 _No se observan recomendaciones con perspectiva de género._
 
-[^CEDR-8]: Suplemento No. 18 (A/46/18), 1992
-
-
 ## 9º Observaciones finales sobre los informes del décimo primero al décimo cuarto presentados por el Estado adoptadas en mayo de 1991.[^CEDR-9]
 
 1. El Comité examinó los informes periódicos 11º a 14º de la Argentina,
@@ -158,7 +139,6 @@ y 1229ª, celebradas el 12 y el 13 de agosto de 1997, y en sus sesiones
 1240ª y 1241ª, celebradas el 20 y el 21 de agosto de 1997 adoptó las
 observaciones finales que figuran a continuación.
 
-[^CEDR-9]: CERD/C/304/Add.39, 18 de septiembre de 1997
 
 ### E. Sugerencias y recomendaciones
 
@@ -172,9 +152,6 @@ _No se observan recomendaciones con perspectiva de género._
 sesiones 1439ª y 1440ª (CERD/C/SR.1439 y 1440), celebradas los días 6 y 7
 de marzo de 2001. En su 1457ª sesión (CERD/C/SR.1457), celebrada el 19 de
 marzo de 2001, aprobó las siguientes observaciones finales.
-
-[^CEDR-10]: CERD/C/304/Add.112, 27 de abril de 2001
-
 
 ### D. Motivos de preocupación y recomendaciones
 
@@ -191,14 +168,9 @@ documento (CERD/C/476/Add.2). En su 1668ª sesión (CERD/C/SR.1668),
 celebrada el 18 de agosto de 2004, el Comité aprobó las siguientes
 observaciones finales.
 
-[^CEDR-10a]: CERD/C/65/CO/1, 10 de diciembre de 2004
-
-
 ### C. Motivos de preocupación y recomendaciones[^CEDR-11]
 
 (…)
-
-[^CEDR-11]: Las recomendaciones se encuentran en negrita.
 
 14. Al Comité le preocupa la información recibida sobre trata de migrantes,
 especialmente de mujeres migrantes explotadas como trabajadoras sexuales.
@@ -219,13 +191,9 @@ documento (CERD/C/ARG/19-20). En su 1999.ª sesión (CERD/C/SR/1999),
 celebrada el 4 de marzo de 2010, el Comité aprobó las siguientes
 observaciones finales.
 
-[^CEDR-12]: CERD/C/ARG/CO/19-20, 29 de marzo de 2010
-
 ### C. Motivos de preocupación y recomendaciones[^CEDR-13] 
 
 (…)
-
-[^CEDR-13]: Las recomendaciones se encuentran en negrita.
 
 28. El Comité nota con preocupación la baja participación de los pueblos
 indígenas en la vida política y su escasa representación en el Parlamento.
@@ -250,13 +218,10 @@ continuación.
 
 (…)
 
-[^CEDR-14]: CERD/C/ARG/CO/21-23, 11 de enero de 2017
 
 ### C. Motivos de preocupación y recomendaciones[^CEDR-15]
 
 (…)
-
-[^CEDR-15]: Las recomendaciones se encuentran en negrita.
 
 ### Múltiples formas de discriminación
 
@@ -277,3 +242,20 @@ afrodescendientes y migrantes, incluidas las personas lesbianas,
 gais, bisexuales, transgénero e intersexuales, y otras minorías. Se
 recomienda también contar con estadísticas desglosadas al
 respecto.**
+
+[^CEDR-1]: Suplemento No. 18 (A/90/18), 1973
+[^CEDR-2]: Suplemento No. 18 (A/100/18), 1975
+[^CEDR-3]: Suplemento No. 18 (A/31/18), 1976
+[^CEDR-4]: Suplemento No.18 (A/35/18), 1980
+[^CEDR-5]: Suplemento No. 18 (A/37/18), 1982
+[^CEDR-6]: Suplemento No. 18 (A/39/18), 1984
+[^CEDR-7]: Suplemento No.18 (A/42/18), 1987
+[^CEDR-8]: Suplemento No. 18 (A/46/18), 1992
+[^CEDR-9]: CERD/C/304/Add.39, 18 de septiembre de 1997
+[^CEDR-10]: CERD/C/304/Add.112, 27 de abril de 2001
+[^CEDR-10a]: CERD/C/65/CO/1, 10 de diciembre de 2004
+[^CEDR-11]: Las recomendaciones se encuentran en negrita.
+[^CEDR-12]: CERD/C/ARG/CO/19-20, 29 de marzo de 2010
+[^CEDR-13]: Las recomendaciones se encuentran en negrita.
+[^CEDR-14]: CERD/C/ARG/CO/21-23, 11 de enero de 2017
+[^CEDR-15]: Las recomendaciones se encuentran en negrita.

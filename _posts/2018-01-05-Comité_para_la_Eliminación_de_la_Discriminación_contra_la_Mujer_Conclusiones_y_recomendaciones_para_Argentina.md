@@ -2,38 +2,29 @@
 layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Conclusiones y recomendaciones para Argentina"
 categories:
-  - "Argentina"
+   - "Argentina"
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Conclusiones y recomendaciones para Argentina
 
 ## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en febrero de 1988.[^CEDMArg-1]
 
-341. El Comité examinó el informe inicial de la Argentina (CEDAW/C/5/Add.39
-y Amend.1) en sus sesiones 112a. y 118a., celebradas el 22 y 25 de febrero
+341. El Comité examinó el informe inicial de la Argentina (CEDAW/C/5/Add.39 y Amend.1) en sus sesiones 112a. y 118a., celebradas el 22 y 25 de febrero
 de 1988, respectivamente (CEDAW/C/SR.112 y 118).
 
 
 ### Interrogantes y Observaciones del Comité[^CEDMArg-2]
 
-356. Se preguntó qué medidas se habían adoptado para dar publicidad a la
-Convención y al informe del país y si se había tomado alguna medida para
-identificar las necesidades de determinados grupos de mujeres, como las
-madres solteras y las mujeres migratorias.
+356. Se preguntó qué medidas se habían adoptado para dar publicidad a la Convención y al informe del país y si se había tomado alguna medida para
+identificar las necesidades de determinados grupos de mujeres, como las madres solteras y las mujeres migratorias.
 
 (…)
 
-[^CEDMArg-1]: Suplemento N. 38 (A 43/38), 16 y 19 de Febrero, 22, 26 y 29 de Febrero y el 2 de Marzo de 1988
-[^CEDMArg-2]: Las recomendaciones se encuentran en negrita.
-
 357. **Se solicitó mayor información sobre la labor y el funcionamiento de las diferentes oficinas públicas que se ocupaban de asuntos de la mujer y se preguntó si la labor de las diferentes instituciones era objeto de coordinación.** Se preguntó si las organizaciones no gubernamentales y las
-oficinas públicas a cargo de los programas destinados a la mujer
-colaboraban en relación con diversas cuestiones, como el cuidado prenatal y
+oficinas públicas a cargo de los programas destinados a la mujer colaboraban en relación con diversas cuestiones, como el cuidado prenatal y
 postnatal, los servicios de aborto, etc.
 
-358. También se preguntó qué mecanismo ofrecía el Gobierno para garantizar
-a la mujer la igualdad de derechos y si en algún caso las mujeres habían
-invocado las disposiciones de la Convención. Se preguntó si las oficinas
-públicas tenían en cuenta las exigencias de la mujer.
+358. También se preguntó qué mecanismo ofrecía el Gobierno para garantizar a la mujer la igualdad de derechos y si en algún caso las mujeres habían
+invocado las disposiciones de la Convención. Se preguntó si las oficinas públicas tenían en cuenta las exigencias de la mujer.
 
 359. Se preguntó por qué se hacía referencia a la legislación de protección
 como una medida para acelerar la igualdad de facto, y cuando ese tipo de
@@ -54,8 +45,6 @@ leyes que penaban la violación incluían la violación por el marido. También
 se señaló que las leyes que penaban el adulterio[^CEDMArg-3] podían ser
 discriminatorias y que en tal caso sería necesario revisarlas y se solicitó
 información sobre la reacción de las organizaciones de mujeres al respecto.**
-
-[^CEDMArg-3]: El delito de adulterio fue derogado por Ley nº 24.453, sancionada el 08/02/95, BO 07/03/95.
 
 361. **Se solicitó información sobre la participación de la mujer en los
 partidos políticos y los sindicatos. Se expresó la esperanza de que la
@@ -165,10 +154,6 @@ y 356ª, celebradas el 22 de julio de 1997 (véase CEDAW/C/SR.355 y 356).
 
 (…)
 
-[^CEDMArg-4]: El Comité se refiere a la Subsecretaría de la mujer en el ámbito del Ministerio de Salud. En la actualidad dicha Subsecretaría no existe.
-[^CEDMArg-5]: Suplemento N. 38 (A/52/38/Rev. 1), 7 a 25 de Julio de 1997
-[^CEDMArg-6]: Las recomendaciones se encuentran en negrita.
-
 295. El Comité expresó inquietud por las consecuencias negativas de las
 reformas económicas para la mujer, y por las enmiendas introducidas
 recientemente en las leyes laborales y de seguridad social.
@@ -216,8 +201,6 @@ la eliminación de todas las formas de discriminación contra la mujer, sus
 recomendaciones generales y la Convención interamericana para la
 prevención, el castigo y la erradicación de la violencia contra la mujer.**
 
-[^CEDMArg-7]: El Código Penal fue reformado respecto de los delitos contra la integridad sexual, anteriormente llamados “delitos contra la honestidad” por Ley nº 25.087 sancionada el 14/04/99, BO 14/05/99.
-
 307. **El Comité sugirió que se mantuvieran y consolidaran los planes del
 Gobierno en materia de igualdad y que sus resultados se evaluaran de forma
 más sistemática. Los esfuerzos que se realicen en esta dirección deberán
@@ -252,8 +235,6 @@ responsabilidades familiares.**
 
 313. **El Comité sugirió que se reglamentaran las relaciones laborales de las
 empleadas domésticas[^CEDMArg-8].**
-
-[^CEDMArg-8]: Mediante Ley Nacional 25.239 se creo el Régimen Especial de Seguridad Social para Empleados del Servicio Domestico, sancionada el 29 de diciembre de 1999 (Decreto reglamentario nº 485/2000, sancionado en junio de 2000). No obstante, las modalidades de la relación laboral no han sido modificadas.
 
 314. **El Comité recomendó que se penalizara el acoso sexual en las
 relaciones laborales en el sector privado.**
@@ -305,10 +286,6 @@ Convención; por ello el Comité decide solicitar al Estado parte, en
 cumplimiento de lo dispuesto en el artículo 18.1, inciso b, de la
 Convención, la presentación de un informe de seguimiento, en enero de 2004
 para que sea analizado por el Comité en junio de 2004.
-
-[^CEDMArg-9]: Mediante Ley nacional 25.250 de reforma laboral denominada Estímulo al Empleo Estable. Incorporación de dos incentivos para el empleo de mujeres, sancionada el 11 de mayo de 2000, se establecieron dos incentivos para la contratación de mujeres Jefas de hogar: 1º reducción de las contribuciones a la Seguridad Social, 2º subsidio destinado al pago de las remuneraciones (Decreto reglamentario nº 568/2000). Por Decreto 147/2001 se aclararon ciertos términos de interpretación del texto legal.
-[^CEDMArg-10]: Suplemento No. 38 (A/57/38), 5 al 23 de agosto de 2002
-[^CEDMArg-11]: Las recomendaciones se encuentran en negrita.
 
 ### Principales esferas de preocupación y recomendaciones
 
@@ -427,9 +404,6 @@ fortaleza la capacidad del mecanismo para llevar a cabo con eficacia
 actividades encaminadas a lograr el adelanto de la mujer y la promoción de
 la igualdad entre los géneros, y a asegurar que las perspectivas de género
 se incorporen en todas las políticas y programas.**
-
-[^CEDMArg-12]: Suplemento No. 38 (A/59/38), 6 a 23 de julio de 2004
-[^CEDMArg-13]: Las recomendaciones se encuentran en negrita.
 
 372. Si bien celebra la adopción y la aplicación de políticas y programas
 sociales y económicos encaminados a contrarrestar los efectos de la crisis
@@ -553,9 +527,6 @@ Facultativo de la Convención[^CEDMArg-15] y a que acepte, lo antes posible, la
 enmienda del párrafo 1 del artículo 20 de la Convención, relativo a la
 fecha de las reuniones del Comité.**
 
-[^CEDMArg-14]: Se ha dictado la Ley Nº 26.150 de creación del Programa Nacional de Educación Sexual Integral, (sancionada: 4 de octubre de 2006), de vigencia sólo para establecimientos educativos públicos, quedando a cargo de cada jurisdicción – nacional y provincial – la implementación de los programas respectivos. En la actualidad, algunas provincias del Estado argentino han sancionado leyes al respecto.Se ha dictado la Ley Nº 26.150 de creación del Programa Nacional de Educación Sexual Integral, (sancionada: 4 de octubre de 2006), de vigencia sólo para establecimientos educativos públicos, quedando a cargo de cada jurisdicción – nacional y provincial – la implementación de los programas respectivos. En la actualidad, algunas provincias del Estado argentino han sancionado leyes al respecto.
-[^CEDMArg-15]: El Protocolo facultativo fue ratificado en marzo de 2007 mediante Ley 26.171.
-
 385. El Comité pide al Estado Parte que en su próximo informe responda a
 las preocupaciones expresadas en las presentes observaciones finales.
 Invita al Estado Parte a que prepare su próximo informe periódico
@@ -596,6 +567,7 @@ el siglo XXI”.**
 
 1. El Comité examinó el sexto informe periódico de la Argentina
 (CEDAW/C/ARG/6) en sus sesiones 926ª y 927ª, celebradas el 13 de julio de
+
 2010. La lista de cuestiones y preguntas figura en el documento
 CEDAW/C/ARG/Q/6, y las respuestas de la Argentina en el documento
 CEDAW/C/ARG/Q/6/Add.1.
@@ -615,9 +587,6 @@ conseguidos. El Comité exhorta al Estado parte a que transmita las
 presentes observaciones finales a todos los ministerios pertinentes, al
 parlamento y a las autoridades judiciales, a fin de que se pongan en
 práctica íntegramente.**
-
-[^CEDMArg-15a]: CEDAW/C/ARG/CO/6, 16 de agosto de 2010
-[^CEDMArg-16]: Las recomendaciones se encuentran en negrita.
 
 ### Parlamento
 
@@ -1093,8 +1062,6 @@ Estado parte haya ratificado la Convención Internacional sobre la
 protección de los derechos de todos los trabajadores migratorios y de sus
 familiares.**
 
-[^CEDMArg-17]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial, la Convención sobre la eliminación de todas las formas de discriminación contra la mujer, la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Convención sobre los Derechos del Niño, la Convención Internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares, la Convención Internacional para la protección de todas las personas contra las desapariciones forzadas y la Convención sobre los derechos de las personas con discapacidad.
-
 ### Seguimiento de las observaciones finales
 
 51. **El Comité pide al Estado parte que le proporcione por escrito, en un
@@ -1155,8 +1122,6 @@ Facultativo y las recomendaciones generales del Comité no sean lo
 suficientemente conocidas en el Estado parte, sobre todo por las
 autoridades públicas.
 
-[^CEDMArg-18]: CEDAW/C/ARG/CO/7, 25 de noviembre de 2016
-[^CEDMArg-19]: Las recomendaciones se encuentran en negrita.
 
 9. **El Comité recomienda que el Estado parte:**
 
@@ -1228,61 +1193,55 @@ solución de controversias. No obstante, preocupan al Comité las barreras
 institucionales, procedimentales y prácticas que dificultan el acceso de
 las mujeres a la justicia, tales como:
 
-a) Los estereotipos discriminatorios, la parcialidad judicial y los escasos
-conocimientos sobre los derechos de la mujer en el poder judicial y la
-policía;
+    a) Los estereotipos discriminatorios, la parcialidad judicial y los escasos conocimientos sobre los derechos de la mujer en el poder judicial y la
+    policía;
 
-b) El uso de la mediación en los casos de violencia de género contra la
-mujer;
+    b) El uso de la mediación en los casos de violencia de género contra la mujer;
 
-c) El acceso limitado a la asistencia letrada y a intérpretes de lenguas
-indígenas;
+    c) El acceso limitado a la asistencia letrada y a intérpretes de lenguas indígenas;
 
-d) Las largas distancias que hay que recorrer para llegar a los tribunales
-en las zonas rurales y remotas;
+    d) Las largas distancias que hay que recorrer para llegar a los tribunales en las zonas rurales y remotas;
 
-e) El limitado acceso de las mujeres a la información sobre sus derechos en
-virtud de la Convención y sobre los recursos jurídicos de que disponen las
-mujeres víctimas de violencia por razón de género, incluidas las víctimas
-de violación conyugal.
+    e) El limitado acceso de las mujeres a la información sobre sus derechos en virtud de la Convención y sobre los recursos jurídicos de que disponen las mujeres víctimas de violencia por razón de género, incluidas las víctimas
+    de violación conyugal.
 
 13. **El Comité, en consonancia con su recomendación general núm. 33 (2015)
 sobre el acceso de la mujer a la justicia, recomienda que el Estado parte:**
 
-a) **Proporcione actividades sistemáticas y obligatorias de desarrollo de la
-capacidad para los magistrados, jueces, fiscales, defensores públicos,
-abogados, agentes del orden, administradores, mediadores y expertos, sobre
-los derechos de la mujer y la aplicación de la Ley 26.485 relativa a la
-violencia contra las mujeres;**
+    a) **Proporcione actividades sistemáticas y obligatorias de desarrollo de la
+    capacidad para los magistrados, jueces, fiscales, defensores públicos,
+    abogados, agentes del orden, administradores, mediadores y expertos, sobre
+    los derechos de la mujer y la aplicación de la Ley 26.485 relativa a la
+    violencia contra las mujeres;**
 
-b) **Fortalezca el papel de la Oficina de la Mujer en la Corte Suprema de
-Justicia para vigilar el respeto de la igualdad de género en la labor del
-poder judicial;**
+    b) **Fortalezca el papel de la Oficina de la Mujer en la Corte Suprema de
+    Justicia para vigilar el respeto de la igualdad de género en la labor del
+    poder judicial;**
 
-c) **Vele por que los casos de violencia contra la mujer, en particular de
-violencia doméstica, no se resuelvan bajo ninguna circunstancia en virtud
-de procedimientos de mediación, y por que las víctimas tengan acceso a vías
-efectivas de recurso y reparación;**
+    c) **Vele por que los casos de violencia contra la mujer, en particular de
+    violencia doméstica, no se resuelvan bajo ninguna circunstancia en virtud
+    de procedimientos de mediación, y por que las víctimas tengan acceso a vías
+    efectivas de recurso y reparación;**
 
-d) **Garantice que la información sobre los recursos jurídicos esté a
-disposición de las mujeres víctimas de violencia por razón de género, entre
-otras cosas en idiomas indígenas y en formatos accesibles para las mujeres
-con discapacidad;**
+    d) **Garantice que la información sobre los recursos jurídicos esté a
+    disposición de las mujeres víctimas de violencia por razón de género, entre
+    otras cosas en idiomas indígenas y en formatos accesibles para las mujeres
+    con discapacidad;**
 
-e) **Ponga en marcha un sistema de tribunales móviles, destinado a facilitar
-que las mujeres que viven en las zonas rurales y apartadas tengan acceso a
-la justicia;**
+    e) **Ponga en marcha un sistema de tribunales móviles, destinado a facilitar
+    que las mujeres que viven en las zonas rurales y apartadas tengan acceso a
+    la justicia;**
 
-f) **Vele por que el nuevo Cuerpo de Abogadas y Abogados para Víctimas de
-Violencia de Género, los Centros de Acceso a Justicia y las agencias
-especializadas del servicio público de asistencia jurídica proporcionen
-asistencia letrada gratuita a todas las mujeres que carezcan de medios
-suficientes en todo el territorio del Estado parte y ofrezcan servicios de
-interpretación a las mujeres indígenas;**
+    f) **Vele por que el nuevo Cuerpo de Abogadas y Abogados para Víctimas de
+    Violencia de Género, los Centros de Acceso a Justicia y las agencias
+    especializadas del servicio público de asistencia jurídica proporcionen
+    asistencia letrada gratuita a todas las mujeres que carezcan de medios
+    suficientes en todo el territorio del Estado parte y ofrezcan servicios de
+    interpretación a las mujeres indígenas;**
 
-g) **Garantice que las víctimas de violencia por razón de género tengan
-acceso a recursos eficaces y oportunos en forma de restitución,
-indemnización o rehabilitación.**
+    g) **Garantice que las víctimas de violencia por razón de género tengan
+    acceso a recursos eficaces y oportunos en forma de restitución,
+    indemnización o rehabilitación.**
 
 ### Mecanismo nacional encargado del adelanto de la mujer
 
@@ -1292,35 +1251,35 @@ mediante el establecimiento de una secretaría permanente que prevé la
 coordinación de sus iniciativas. No obstante, preocupa al Comité lo
 siguiente:
 
-a) Los recursos limitados del Consejo Nacional de las Mujeres para promover
-estrategias de igualdad de género, así como para apoyar su función como
-órgano de coordinación para el Plan Nacional de Acción para la Prevención,
-Asistencia y Erradicación de la Violencia contra las Mujeres (2017-2019);
+    a) Los recursos limitados del Consejo Nacional de las Mujeres para promover
+    estrategias de igualdad de género, así como para apoyar su función como
+    órgano de coordinación para el Plan Nacional de Acción para la Prevención,
+    Asistencia y Erradicación de la Violencia contra las Mujeres (2017-2019);
 
-b) La falta de una coordinación sistemática e institucionalizada entre los
-gobiernos federal y provincial, en particular en relación con el Consejo
-Nacional de las Mujeres y las Áreas Mujer provinciales y municipales en
-todo el territorio;
+    b) La falta de una coordinación sistemática e institucionalizada entre los
+    gobiernos federal y provincial, en particular en relación con el Consejo
+    Nacional de las Mujeres y las Áreas Mujer provinciales y municipales en
+    todo el territorio;
 
-c) La falta de una participación efectiva de las mujeres en el diseño y la
-supervisión de las políticas públicas sobre igualdad de género.
+    c) La falta de una participación efectiva de las mujeres en el diseño y la
+    supervisión de las políticas públicas sobre igualdad de género.
 
 15. **El Comité recomienda que el Estado parte:**
 
-a) **Incremente los recursos humanos, técnicos y financieros del Consejo
-Nacional de las Mujeres y le confiera rango ministerial, a fin de aumentar
-su visibilidad y fortalecer su capacidad para promover y supervisar la
-aplicación de políticas de igualdad de género;**
+    a) **Incremente los recursos humanos, técnicos y financieros del Consejo
+    Nacional de las Mujeres y le confiera rango ministerial, a fin de aumentar
+    su visibilidad y fortalecer su capacidad para promover y supervisar la
+    aplicación de políticas de igualdad de género;**
 
-b) **Refuerce las iniciativas de coordinación permanente entre el Consejo
-Nacional de las Mujeres, los consejos provinciales de las mujeres y las
-oficinas municipales de la mujer, estableciendo líneas claras de
-interacción y mandatos para la presentación de informes en relación con la
-aplicación de planes nacionales en la esfera de la igualdad de género;**
+    b) **Refuerce las iniciativas de coordinación permanente entre el Consejo
+    Nacional de las Mujeres, los consejos provinciales de las mujeres y las
+    oficinas municipales de la mujer, estableciendo líneas claras de
+    interacción y mandatos para la presentación de informes en relación con la
+    aplicación de planes nacionales en la esfera de la igualdad de género;**
 
-c) **Vele por que las organizaciones de mujeres y otras organizaciones no
-gubernamentales participen en el diseño y la supervisión de la aplicación
-de las políticas de igualdad de género.**
+    c) **Vele por que las organizaciones de mujeres y otras organizaciones no
+    gubernamentales participen en el diseño y la supervisión de la aplicación
+    de las políticas de igualdad de género.**
 
 ### Medidas especiales de carácter temporal
 
@@ -1338,18 +1297,18 @@ abarcadas por la Convención, como la educación y el empleo.
 
 17. **El Comité recomienda que el Estado parte:**
 
-a) **Adopte y aplique medidas especiales de carácter temporal, de conformidad
-con el artículo 4 1) de la Convención y su recomendación general núm. 25
-(2004) sobre el tema, a los niveles federal, provincial y municipal, con
-metas y plazos concretos para acelerar la igualdad sustantiva entre las
-mujeres y los hombres en todos los ámbitos en los que las mujeres siguen
-estando en situación de desventaja o insuficientemente representadas, en
-particular las mujeres indígenas y afrodescendientes, las mujeres
-migrantes, las mujeres de edad y las mujeres con discapacidad;**
+    a) **Adopte y aplique medidas especiales de carácter temporal, de conformidad
+    con el artículo 4 1) de la Convención y su recomendación general núm. 25
+    (2004) sobre el tema, a los niveles federal, provincial y municipal, con
+    metas y plazos concretos para acelerar la igualdad sustantiva entre las
+    mujeres y los hombres en todos los ámbitos en los que las mujeres siguen
+    estando en situación de desventaja o insuficientemente representadas, en
+    particular las mujeres indígenas y afrodescendientes, las mujeres
+    migrantes, las mujeres de edad y las mujeres con discapacidad;**
 
-b) **Supervise y evalúe periódicamente los efectos de dichas medidas, y, en
-su próximo informe periódico, proporcione información sobre los resultados
-logrados.**
+    b) **Supervise y evalúe periódicamente los efectos de dichas medidas, y, en
+    su próximo informe periódico, proporcione información sobre los resultados
+    logrados.**
 
 ### Estereotipos y prácticas nocivas
 
@@ -1370,26 +1329,26 @@ abuso sexual en la escuela y el acoso sexual en el lugar de trabajo.
 
 19. **El Comité recomienda que el Estado parte:**
 
-a) **Intensifique sus esfuerzos destinados a erradicar las actitudes y los
-estereotipos sexistas manifestados por las autoridades públicas en los tres
-poderes del Gobierno;**
+    a) **Intensifique sus esfuerzos destinados a erradicar las actitudes y los
+    estereotipos sexistas manifestados por las autoridades públicas en los tres
+    poderes del Gobierno;**
 
-b) **Adopte una estrategia amplia dirigida a las mujeres, los hombres, las
-niñas y los niños para superar la cultura machista y los estereotipos
-discriminatorios en relación con las funciones y las responsabilidades de
-las mujeres y los hombres en la familia y en la sociedad, y vele por que
-esta estrategia aborde también las formas entrecruzadas de discriminación
-contra la mujer, definidas en el párrafo 18 de la recomendación general
-núm. 28 (2010) del Comité relativa a las obligaciones básicas de los
-Estados partes de conformidad con el artículo 2 de la Convención; c)
-Fortalezca la cooperación con las organizaciones de la sociedad civil en la
-lucha contra los estereotipos discriminatorios mediante campañas de
-sensibilización pública, como la campaña “#Ni Una Menos”;**
+    b) **Adopte una estrategia amplia dirigida a las mujeres, los hombres, las
+    niñas y los niños para superar la cultura machista y los estereotipos
+    discriminatorios en relación con las funciones y las responsabilidades de
+    las mujeres y los hombres en la familia y en la sociedad, y vele por que
+    esta estrategia aborde también las formas entrecruzadas de discriminación
+    contra la mujer, definidas en el párrafo 18 de la recomendación general
+    núm. 28 (2010) del Comité relativa a las obligaciones básicas de los
+    Estados partes de conformidad con el artículo 2 de la Convención; c)
+    Fortalezca la cooperación con las organizaciones de la sociedad civil en la
+    lucha contra los estereotipos discriminatorios mediante campañas de
+    sensibilización pública, como la campaña “#Ni Una Menos”;**
 
-d) **Modifique la Ley 26.522, de 10 de octubre de 2009, sobre los Servicios
-de Comunicación Audiovisual, a fin de empoderar al Ombudsman para que
-castigue las violaciones de las disposiciones relativas a los estereotipos
-de género y el sexismo en los medios de comunicación.**
+    d) **Modifique la Ley 26.522, de 10 de octubre de 2009, sobre los Servicios
+    de Comunicación Audiovisual, a fin de empoderar al Ombudsman para que
+    castigue las violaciones de las disposiciones relativas a los estereotipos
+    de género y el sexismo en los medios de comunicación.**
 
 ### Violencia por razón de género contra la mujer
 
@@ -1402,69 +1361,69 @@ la creación de centros de acogida para las mujeres víctimas de violencia
 por razón de género y sus familias en virtud del protocolo marco de
 atención de hogares. No obstante, preocupa al Comité lo siguiente:
 
-a) La persistencia de la violencia por razón de género contra las mujeres
-en el Estado parte, incluida la violencia física, psicológica, sexual y
-económica en los ámbitos público y privado;
+    a) La persistencia de la violencia por razón de género contra las mujeres
+    en el Estado parte, incluida la violencia física, psicológica, sexual y
+    económica en los ámbitos público y privado;
 
-b) Los informes sobre un número cada vez mayor de casos de feminicidio en
-el Estado parte;
+    b) Los informes sobre un número cada vez mayor de casos de feminicidio en
+    el Estado parte;
 
-c) Las disparidades regionales en las medidas de compensación a las
-víctimas de la violencia por razón de género, en particular en lo que
-respecta al número de centros de acogida, el acceso a asesoramiento
-psicosocial, la asistencia letrada y los medios de reparación;
+    c) Las disparidades regionales en las medidas de compensación a las
+    víctimas de la violencia por razón de género, en particular en lo que
+    respecta al número de centros de acogida, el acceso a asesoramiento
+    psicosocial, la asistencia letrada y los medios de reparación;
 
-d) La falta de información sobre la accesibilidad de los centros de acogida
-para las mujeres de edad, las mujeres pertenecientes a minorías étnicas,
-las mujeres migrantes y refugiadas y las mujeres con discapacidad;
+    d) La falta de información sobre la accesibilidad de los centros de acogida
+    para las mujeres de edad, las mujeres pertenecientes a minorías étnicas,
+    las mujeres migrantes y refugiadas y las mujeres con discapacidad;
 
-e) Los delitos motivados por prejuicios contra las personas lesbianas,
-bisexuales, transgénero e intersexuales, en particular los informes de
-hostigamiento por parte de la policía, los asesinatos de mujeres
-transgénero y el asesinato de activistas lesbianas, bisexuales, transgénero
-e intersexuales, y la falta de datos estadísticos sobre el número de
-denuncias de ese tipo de delitos, las investigaciones, los enjuiciamientos
-y las condenas de los autores, así como sobre la reparación proporcionada a
-las víctimas.
+    e) Los delitos motivados por prejuicios contra las personas lesbianas,
+    bisexuales, transgénero e intersexuales, en particular los informes de
+    hostigamiento por parte de la policía, los asesinatos de mujeres
+    transgénero y el asesinato de activistas lesbianas, bisexuales, transgénero
+    e intersexuales, y la falta de datos estadísticos sobre el número de
+    denuncias de ese tipo de delitos, las investigaciones, los enjuiciamientos
+    y las condenas de los autores, así como sobre la reparación proporcionada a
+    las víctimas.
 
 21. **El Comité recomienda que el Estado parte:**
 
-a) **Asigne recursos presupuestarios adecuados para la aplicación eficaz del
-Plan Nacional de Acción para la Prevención, Asistencia y Erradicación de la
-Violencia contra las Mujeres (2017-2019);**
+    a) **Asigne recursos presupuestarios adecuados para la aplicación eficaz del
+    Plan Nacional de Acción para la Prevención, Asistencia y Erradicación de la
+    Violencia contra las Mujeres (2017-2019);**
 
-b) **Mejore la prevención de los feminicidios y asegure la investigación, el
-enjuiciamiento y la condena de los autores de feminicidios;**
+    b) **Mejore la prevención de los feminicidios y asegure la investigación, el
+    enjuiciamiento y la condena de los autores de feminicidios;**
 
-c) **Garantice que se proporcionen recursos técnicos y financieros para el
-Registro Único de Casos de Violencia contra la Mujer a fin de generar datos
-estadísticos actualizados desglosados por sexo, edad, origen étnico y
-relación entre la víctima y el autor del delito, el número de denuncias de
-casos de violencia por razón de género contra mujeres, las investigaciones,
-los enjuiciamientos y las condenas, así como la reparación ofrecida a las
-víctimas y a sus familiares;**
+    c) **Garantice que se proporcionen recursos técnicos y financieros para el
+    Registro Único de Casos de Violencia contra la Mujer a fin de generar datos
+    estadísticos actualizados desglosados por sexo, edad, origen étnico y
+    relación entre la víctima y el autor del delito, el número de denuncias de
+    casos de violencia por razón de género contra mujeres, las investigaciones,
+    los enjuiciamientos y las condenas, así como la reparación ofrecida a las
+    víctimas y a sus familiares;**
 
-d) **Vele por que los centros de acogida para mujeres víctimas de violencia,
-que prestan servicios de asesoramiento jurídico y psicológico,
-rehabilitación y otros servicios de apoyo, sean accesibles para las mujeres
-de las minorías étnicas, las mujeres con discapacidad, las migrantes y las
-refugiadas;**
+    d) **Vele por que los centros de acogida para mujeres víctimas de violencia,
+    que prestan servicios de asesoramiento jurídico y psicológico,
+    rehabilitación y otros servicios de apoyo, sean accesibles para las mujeres
+    de las minorías étnicas, las mujeres con discapacidad, las migrantes y las
+    refugiadas;**
 
-e) **Cree un fondo fiduciario, financiado por fuentes públicas y privadas,
-para proporcionar indemnizaciones y otras formas de reparación, así como
-asistencia letrada a las mujeres víctimas de violencia basada en el género;**
+    e) **Cree un fondo fiduciario, financiado por fuentes públicas y privadas,
+    para proporcionar indemnizaciones y otras formas de reparación, así como
+    asistencia letrada a las mujeres víctimas de violencia basada en el género;**
 
-f) **Adopte criterios y directrices para la prestación de asistencia letrada,
-psicosocial y económica orientada a las víctimas, que reconozca las
-necesidades especiales de las mujeres con discapacidad y que sea
-culturalmente apropiada para las mujeres indígenas;**
+    f) **Adopte criterios y directrices para la prestación de asistencia letrada,
+    psicosocial y económica orientada a las víctimas, que reconozca las
+    necesidades especiales de las mujeres con discapacidad y que sea
+    culturalmente apropiada para las mujeres indígenas;**
 
-g) **Denuncie los atentados contra la dignidad humana y la integridad de las
-personas lesbianas, bisexuales, transgénero e intersexuales por medio,
-entre otras cosas, de iniciativas de concienciación pública sobre sus
-derechos, en colaboración con la sociedad civil; adopte medidas para
-prevenir los delitos motivados por prejuicios; y garantice las
-investigaciones, los enjuiciamientos, las condenas y las reparaciones.**
+    g) **Denuncie los atentados contra la dignidad humana y la integridad de las
+    personas lesbianas, bisexuales, transgénero e intersexuales por medio,
+    entre otras cosas, de iniciativas de concienciación pública sobre sus
+    derechos, en colaboración con la sociedad civil; adopte medidas para
+    prevenir los delitos motivados por prejuicios; y garantice las
+    investigaciones, los enjuiciamientos, las condenas y las reparaciones.**
 
 ### Trata y explotación de la prostitución
 
@@ -1473,59 +1432,59 @@ políticas e institucional para combatir la trata de personas, mediante la
 aprobación de un programa nacional a este respecto. No obstante, el Comité
 observa con preocupación lo siguiente:
 
-a) El hecho de que el Estado parte sea utilizado como país de origen,
-tránsito y destino de la trata de mujeres, en particular de mujeres
-procedentes de Bolivia (Estado Plurinacional de), el Brasil, el Paraguay,
-el Perú y la República Dominicana;
+    a) El hecho de que el Estado parte sea utilizado como país de origen,
+    tránsito y destino de la trata de mujeres, en particular de mujeres
+    procedentes de Bolivia (Estado Plurinacional de), el Brasil, el Paraguay,
+    el Perú y la República Dominicana;
 
-b) La falta de armonización entre la legislación provincial y federal en la
-tipificación como delito de la trata de personas con fines de trabajo
-forzoso y prostitución forzada, lo que provoca demoras en el enjuiciamiento
-y la condena de los traficantes;
+    b) La falta de armonización entre la legislación provincial y federal en la
+    tipificación como delito de la trata de personas con fines de trabajo
+    forzoso y prostitución forzada, lo que provoca demoras en el enjuiciamiento
+    y la condena de los traficantes;
 
-c) La falta de información sobre la aplicación de un enfoque que tenga en
-cuenta las cuestiones de género en la identificación de las víctimas de la
-trata y otras formas de explotación;
+    c) La falta de información sobre la aplicación de un enfoque que tenga en
+    cuenta las cuestiones de género en la identificación de las víctimas de la
+    trata y otras formas de explotación;
 
-d) Las denuncias de complicidad de funcionarios públicos en los casos de
-trata de personas con fines de explotación sexual y explotación de la
-prostitución;
+    d) Las denuncias de complicidad de funcionarios públicos en los casos de
+    trata de personas con fines de explotación sexual y explotación de la
+    prostitución;
 
-e) La existencia de niñas en la prostitución, así como la falta de
-políticas eficaces de prevención y de medidas para investigar, enjuiciar y
-condenar a todos los autores implicados en casos de prostitución de niñas.
+    e) La existencia de niñas en la prostitución, así como la falta de
+    políticas eficaces de prevención y de medidas para investigar, enjuiciar y
+    condenar a todos los autores implicados en casos de prostitución de niñas.
 
 23. **El Comité recomienda que el Estado parte:**
 
-a) **Aplique eficazmente el Programa Nacional para la Lucha contra la Trata y
-Explotación de Personas y para la Protección y Asistencia a las Víctimas, y
-reúna y analice datos desglosados sobre la trata y la explotación de las
-mujeres en prostitución a nivel interno y transfronterizo;**
+    a) **Aplique eficazmente el Programa Nacional para la Lucha contra la Trata y
+    Explotación de Personas y para la Protección y Asistencia a las Víctimas, y
+    reúna y analice datos desglosados sobre la trata y la explotación de las
+    mujeres en prostitución a nivel interno y transfronterizo;**
 
-b) **Armonice con prontitud, en todos los niveles de la jurisdicción, la
-legislación que tipifica la trata, y ajuste las normas y prácticas
-provinciales y municipales a las normas federales e internacionales sobre
-la trata de personas y la explotación de la prostitución;**
+    b) **Armonice con prontitud, en todos los niveles de la jurisdicción, la
+    legislación que tipifica la trata, y ajuste las normas y prácticas
+    provinciales y municipales a las normas federales e internacionales sobre
+    la trata de personas y la explotación de la prostitución;**
 
-c) **Desarrolle la capacidad del poder judicial y la policía para realizar,
-teniendo en cuenta las cuestiones de género, investigaciones de casos de
-trata y explotación de la prostitución, aplique estrictamente las
-disposiciones de la legislación penal para enjuiciar y castigar debidamente
-a los autores, e intensifique los esfuerzos encaminados a promover la
-cooperación bilateral, regional e internacional para prevenir la trata,
-entre otras cosas intercambiando información y armonizando los
-procedimientos jurídicos para enjuiciar a los responsables de la trata, en
-particular en los Estados de origen;**
+    c) **Desarrolle la capacidad del poder judicial y la policía para realizar,
+    teniendo en cuenta las cuestiones de género, investigaciones de casos de
+    trata y explotación de la prostitución, aplique estrictamente las
+    disposiciones de la legislación penal para enjuiciar y castigar debidamente
+    a los autores, e intensifique los esfuerzos encaminados a promover la
+    cooperación bilateral, regional e internacional para prevenir la trata,
+    entre otras cosas intercambiando información y armonizando los
+    procedimientos jurídicos para enjuiciar a los responsables de la trata, en
+    particular en los Estados de origen;**
 
-d) **Establezca un mecanismo de remisión e identificación, aumente la
-financiación de los centros de acogida y proporcione asesoramiento,
-servicios de rehabilitación y asistencia psicosocial a las mujeres y las
-niñas víctimas de la trata y la explotación de la prostitución;**
+    d) **Establezca un mecanismo de remisión e identificación, aumente la
+    financiación de los centros de acogida y proporcione asesoramiento,
+    servicios de rehabilitación y asistencia psicosocial a las mujeres y las
+    niñas víctimas de la trata y la explotación de la prostitución;**
 
-e) **Combata la entrada de niñas en la prostitución y su explotación, en
-particular luchando contra la pobreza, como una de sus causas, e
-investigue, enjuicie y condene a todos los autores de delitos conexos,
-incluidos los que demandan servicios en este ámbito.**
+    e) **Combata la entrada de niñas en la prostitución y su explotación, en
+    particular luchando contra la pobreza, como una de sus causas, e
+    investigue, enjuicie y condene a todos los autores de delitos conexos,
+    incluidos los que demandan servicios en este ámbito.**
 
 24. Preocupa también al Comité la insuficiencia de medidas estructurales
 para promover el empoderamiento económico de las mujeres y las niñas, dado
@@ -1551,44 +1510,44 @@ algunas provincias, como Córdoba, Santiago del Estero, Río Negro y Buenos
 Aires, han aprobado leyes que exigen esa paridad. No obstante, al Comité le
 sigue preocupando lo siguiente:
 
-a) La representación insuficiente de las mujeres en los sindicatos, el
-poder ejecutivo, en particular en los puestos de adopción de decisiones, y
-en el sector privado, así como en la dirección de las administraciones
-provinciales y municipales;
+    a) La representación insuficiente de las mujeres en los sindicatos, el
+    poder ejecutivo, en particular en los puestos de adopción de decisiones, y
+    en el sector privado, así como en la dirección de las administraciones
+    provinciales y municipales;
 
-b) Los obstáculos a los que se enfrentan las mujeres en la vida política y
-pública, como la desigualdad en la distribución de las tareas domésticas y
-de crianza de los hijos entre las mujeres y los hombres, la violencia y el
-acoso contra las mujeres que participan en la vida política, y las
-estructuras patriarcales dentro de los partidos políticos.
+    b) Los obstáculos a los que se enfrentan las mujeres en la vida política y
+    pública, como la desigualdad en la distribución de las tareas domésticas y
+    de crianza de los hijos entre las mujeres y los hombres, la violencia y el
+    acoso contra las mujeres que participan en la vida política, y las
+    estructuras patriarcales dentro de los partidos políticos.
 
 27. **El Comité recomienda que el Estado parte:**
 
-a) **Apruebe los proyectos de ley que establecen la paridad de género en el
-poder ejecutivo (núm. 485/15), en el Tribunal Supremo (núms. 474-D-2015,
-169-D-2016, 403-D-2016, 905-D-2016 y 1091-D-2016) y en los cargos electivos
-(núms. 1655-D-2015, 1198/16, 1192/16, 1063/16, 1032/16 y 488/16);**
+    a) **Apruebe los proyectos de ley que establecen la paridad de género en el
+    poder ejecutivo (núm. 485/15), en el Tribunal Supremo (núms. 474-D-2015,
+    169-D-2016, 403-D-2016, 905-D-2016 y 1091-D-2016) y en los cargos electivos
+    (núms. 1655-D-2015, 1198/16, 1192/16, 1063/16, 1032/16 y 488/16);**
 
-b) **Adopte medidas para aplicar la Ley 25.674, de 28 de noviembre de 2002,
-por la que se crea un “cupo sindical femenino”, a fin de garantizar la
-representación de la mujer en los cargos sindicales y en el sector privado;**
+    b) **Adopte medidas para aplicar la Ley 25.674, de 28 de noviembre de 2002,
+    por la que se crea un “cupo sindical femenino”, a fin de garantizar la
+    representación de la mujer en los cargos sindicales y en el sector privado;**
 
-c) **Adopte medidas para acelerar la participación plena y en condiciones de
-igualdad de las mujeres en los órganos elegidos y designados de las
-administraciones provinciales y municipales, mediante la eliminación de los
-obstáculos a que se enfrentan las mujeres en la vida política y pública;**
+    c) **Adopte medidas para acelerar la participación plena y en condiciones de
+    igualdad de las mujeres en los órganos elegidos y designados de las
+    administraciones provinciales y municipales, mediante la eliminación de los
+    obstáculos a que se enfrentan las mujeres en la vida política y pública;**
 
-d) **Intensifique las campañas de concienciación dirigidas a los políticos,
-periodistas, maestros y el público en general, a fin de reforzar la premisa
-de que la participación plena, equitativa, libre y democrática de las
-mujeres en pie de igualdad con los hombres en la vida política y pública es
-un requisito para el logro de la plena efectividad de los derechos humanos
-de la mujer;**
+    d) **Intensifique las campañas de concienciación dirigidas a los políticos,
+    periodistas, maestros y el público en general, a fin de reforzar la premisa
+    de que la participación plena, equitativa, libre y democrática de las
+    mujeres en pie de igualdad con los hombres en la vida política y pública es
+    un requisito para el logro de la plena efectividad de los derechos humanos
+    de la mujer;**
 
-e) **Adopte medidas para promover las candidaturas de mujeres, como la
-prestación de apoyo financiero para la realización de campañas y el fomento
-de la capacidad de las mujeres sobre estrategias de campaña, aptitudes de
-liderazgo y negociación.**
+    e) **Adopte medidas para promover las candidaturas de mujeres, como la
+    prestación de apoyo financiero para la realización de campañas y el fomento
+    de la capacidad de las mujeres sobre estrategias de campaña, aptitudes de
+    liderazgo y negociación.**
 
 ### Educación
 
@@ -1597,117 +1556,117 @@ liderazgo y negociación.**
 nota de las medidas en el marco de los programas “Progresar” y “Conectar
 Igualdad”. No obstante, el Comité observa con preocupación lo siguiente:
 
-a) El elevado número de niñas que abandonan la escuela debido a embarazos
-precoces y la escasa aplicación del Programa Nacional de Educación Sexual
-Integral en las provincias;
+    a) El elevado número de niñas que abandonan la escuela debido a embarazos
+    precoces y la escasa aplicación del Programa Nacional de Educación Sexual
+    Integral en las provincias;
 
-b) La insuficiente representación de las mujeres y las niñas en disciplinas
-dominadas tradicionalmente por los hombres, como las matemáticas, la
-ingeniería y las nuevas tecnologías de la información;
+    b) La insuficiente representación de las mujeres y las niñas en disciplinas
+    dominadas tradicionalmente por los hombres, como las matemáticas, la
+    ingeniería y las nuevas tecnologías de la información;
 
-c) El escaso índice de matriculación y las consecuentes elevadas tasas de
-analfabetismo entre las mujeres y las niñas indígenas, debido a las
-obligaciones domésticas y de cuidado de otras personas a las que tienen que
-hacer frente, su contratación como trabajadoras en hoteles o como
-trabajadoras sexuales, y la prioridad que se concede a los niños en materia
-de escolarización.
+    c) El escaso índice de matriculación y las consecuentes elevadas tasas de
+    analfabetismo entre las mujeres y las niñas indígenas, debido a las
+    obligaciones domésticas y de cuidado de otras personas a las que tienen que
+    hacer frente, su contratación como trabajadoras en hoteles o como
+    trabajadoras sexuales, y la prioridad que se concede a los niños en materia
+    de escolarización.
 
 29. **El Comité recomienda que el Estado parte:**
 
-a) **Vele por la aplicación de la Ley 26.150, de 23 de octubre de 2006, que
-establece la creación del Programa Nacional de Educación Sexual Integral en
-todas las provincias y su incorporación en el programa escolar ordinario,
-así como la capacitación de maestros para impartir el programa de un modo
-adecuado a la edad en todos los niveles de la educación, con el fin de
-promover un comportamiento sexual responsable y de prevenir embarazos en la
-adolescencia y enfermedades de transmisión sexual;**
+    a) **Vele por la aplicación de la Ley 26.150, de 23 de octubre de 2006, que
+    establece la creación del Programa Nacional de Educación Sexual Integral en
+    todas las provincias y su incorporación en el programa escolar ordinario,
+    así como la capacitación de maestros para impartir el programa de un modo
+    adecuado a la edad en todos los niveles de la educación, con el fin de
+    promover un comportamiento sexual responsable y de prevenir embarazos en la
+    adolescencia y enfermedades de transmisión sexual;**
 
-b) **Facilite la reincorporación a la escuela de las madres jóvenes, en
-particular mediante la concesión de becas;**
+    b) **Facilite la reincorporación a la escuela de las madres jóvenes, en
+    particular mediante la concesión de becas;**
 
-c) **Promueva la elección por las mujeres y las niñas de disciplinas y
-profesiones no tradicionales (como las matemáticas, la ingeniería y las
-nuevas tecnologías de la información) y otras especialidades técnicas y
-profesionales, proporcionándoles, por ejemplo, orientación y asesoramiento
-profesionales;**
+    c) **Promueva la elección por las mujeres y las niñas de disciplinas y
+    profesiones no tradicionales (como las matemáticas, la ingeniería y las
+    nuevas tecnologías de la información) y otras especialidades técnicas y
+    profesionales, proporcionándoles, por ejemplo, orientación y asesoramiento
+    profesionales;**
 
-d) **Adopte y aplique medidas concretas, como medidas especiales de carácter
-temporal, de conformidad con el artículo 4 1) de la Convención y la
-recomendación general núm. 25 del Comité, para acelerar la igualdad de
-acceso de las niñas y las mujeres indígenas a todos los niveles de la
-educación, y mejore la infraestructura escolar en las zonas rurales y
-apartadas a fin de facilitar el acceso a la educación.**
+    d) **Adopte y aplique medidas concretas, como medidas especiales de carácter
+    temporal, de conformidad con el artículo 4 1) de la Convención y la
+    recomendación general núm. 25 del Comité, para acelerar la igualdad de
+    acceso de las niñas y las mujeres indígenas a todos los niveles de la
+    educación, y mejore la infraestructura escolar en las zonas rurales y
+    apartadas a fin de facilitar el acceso a la educación.**
 
 ### Empleo
 
 30. Preocupa al Comité lo siguiente:
 
-a) La persistente desigualdad salarial por razón de género, especialmente
-en el sector privado, que afecta sobre todo a las mujeres con un alto nivel
-educativo;
+    a) La persistente desigualdad salarial por razón de género, especialmente
+    en el sector privado, que afecta sobre todo a las mujeres con un alto nivel
+    educativo;
 
-b) El desempleo y la concentración de mujeres, en particular mujeres
-migrantes, en el sector no estructurado de la economía;
+    b) El desempleo y la concentración de mujeres, en particular mujeres
+    migrantes, en el sector no estructurado de la economía;
 
-c) La falta de datos desglosados por sexo sobre el trabajo doméstico y la
-ausencia de mecanismos de supervisión para controlar las condiciones
-laborales de las trabajadoras domésticas, en cumplimiento de las leyes;
+    c) La falta de datos desglosados por sexo sobre el trabajo doméstico y la
+    ausencia de mecanismos de supervisión para controlar las condiciones
+    laborales de las trabajadoras domésticas, en cumplimiento de las leyes;
 
-d) El limitado acceso de las mujeres a los puestos de toma de decisiones en
-empresas privadas y la falta de medidas para facilitar la conciliación de
-la vida familiar y laboral;
+    d) El limitado acceso de las mujeres a los puestos de toma de decisiones en
+    empresas privadas y la falta de medidas para facilitar la conciliación de
+    la vida familiar y laboral;
 
-e) La persistencia de la explotación del trabajo infantil en el Estado
-parte, incluso en el servicio doméstico y el sector privado (por ejemplo,
-bares, restaurantes), y la falta de información sobre las estrategias en
-los planos provincial y municipal para luchar contra el trabajo infantil;
+    e) La persistencia de la explotación del trabajo infantil en el Estado
+    parte, incluso en el servicio doméstico y el sector privado (por ejemplo,
+    bares, restaurantes), y la falta de información sobre las estrategias en
+    los planos provincial y municipal para luchar contra el trabajo infantil;
 
-f) El acceso limitado a oportunidades de empleo que tienen las mujeres que
-sufren formas entrecruzadas de discriminación y estigmatización social,
-como las mujeres transgénero.
+    f) El acceso limitado a oportunidades de empleo que tienen las mujeres que
+    sufren formas entrecruzadas de discriminación y estigmatización social,
+    como las mujeres transgénero.
 
 31. **El Comité recomienda que el Estado parte:**
 
-a) **Aplique el principio de igualdad de remuneración por trabajo de igual
-valor, junto con una clasificación de puestos de trabajo y métodos de
-evaluación analíticos y neutros en cuanto al género y estudios periódicos
-de la remuneración;**
+    a) **Aplique el principio de igualdad de remuneración por trabajo de igual
+    valor, junto con una clasificación de puestos de trabajo y métodos de
+    evaluación analíticos y neutros en cuanto al género y estudios periódicos
+    de la remuneración;**
 
-b) **Cree más oportunidades para que las mujeres, incluidas las migrantes,
-puedan acceder a empleos estructurados, por ejemplo promoviendo el reparto
-equitativo de las tareas domésticas y familiares entre hombres y mujeres,
-prestando servicios de guardería suficientes y adecuados y aumentando los
-incentivos para que los hombres ejerzan su derecho a la licencia parental,
-y adopte un plan, con plazos establecidos, para aplicar la Recomendación
-sobre la transición de la economía informal a la economía formal, 2015
-(núm. 204) de la Organización Internacional del Trabajo, con miras a
-facilitar el acceso de la mujer a la economía formal;**
+    b) **Cree más oportunidades para que las mujeres, incluidas las migrantes,
+    puedan acceder a empleos estructurados, por ejemplo promoviendo el reparto
+    equitativo de las tareas domésticas y familiares entre hombres y mujeres,
+    prestando servicios de guardería suficientes y adecuados y aumentando los
+    incentivos para que los hombres ejerzan su derecho a la licencia parental,
+    y adopte un plan, con plazos establecidos, para aplicar la Recomendación
+    sobre la transición de la economía informal a la economía formal, 2015
+    (núm. 204) de la Organización Internacional del Trabajo, con miras a
+    facilitar el acceso de la mujer a la economía formal;**
 
-c) **Vigile las condiciones laborales de las trabajadoras domésticas, en
-particular mediante inspecciones periódicas de los hogares privados, y vele
-por que las trabajadoras domésticas estén cubiertas por planes de seguridad
-social;**
+    c) **Vigile las condiciones laborales de las trabajadoras domésticas, en
+    particular mediante inspecciones periódicas de los hogares privados, y vele
+    por que las trabajadoras domésticas estén cubiertas por planes de seguridad
+    social;**
 
-d) **Recabe información sobre la representación de las mujeres en el sector
-privado, elabore estrategias para promover a mujeres en puestos de toma de
-decisiones capacitándolas en aptitudes de gestión, y adopte medidas
-legislativas y no legislativas para facilitar la conciliación de las
-responsabilidades laborales y de cuidados de personas, por ejemplo,
-fomentando acuerdos sobre horarios flexibles;**
+    d) **Recabe información sobre la representación de las mujeres en el sector
+    privado, elabore estrategias para promover a mujeres en puestos de toma de
+    decisiones capacitándolas en aptitudes de gestión, y adopte medidas
+    legislativas y no legislativas para facilitar la conciliación de las
+    responsabilidades laborales y de cuidados de personas, por ejemplo,
+    fomentando acuerdos sobre horarios flexibles;**
 
-e) **Lleve a cabo un nuevo estudio sobre el trabajo infantil, cumpla
-estrictamente la legislación sobre la edad mínima de trabajo, y emprenda
-campañas de sensibilización para hacer frente al trabajo infantil, en
-particular el trabajo doméstico de las niñas;**
+    e) **Lleve a cabo un nuevo estudio sobre el trabajo infantil, cumpla
+    estrictamente la legislación sobre la edad mínima de trabajo, y emprenda
+    campañas de sensibilización para hacer frente al trabajo infantil, en
+    particular el trabajo doméstico de las niñas;**
 
-f) **Acelere la aprobación de programas a nivel nacional, provincial y
-municipal para promover el acceso a las oportunidades de empleo de las
-mujeres que experimentan problemas entrecruzados de estigma social y
-discriminación;**
+    f) **Acelere la aprobación de programas a nivel nacional, provincial y
+    municipal para promover el acceso a las oportunidades de empleo de las
+    mujeres que experimentan problemas entrecruzados de estigma social y
+    discriminación;**
 
-g) **Extienda a otras provincias y municipios las buenas prácticas en
-relación con el empleo de mujeres transgénero aplicadas en la provincia de
-Buenos Aires.**
+    g) **Extienda a otras provincias y municipios las buenas prácticas en
+    relación con el empleo de mujeres transgénero aplicadas en la provincia de
+    Buenos Aires.**
 
 ### Salud
 
@@ -1728,87 +1687,86 @@ sometido a abortos.
 
 33. **El Comité insta al Estado parte a que:**
 
-a) **Reduzca la tasa de mortalidad materna, garantizando que las mujeres
-tengan acceso a servicios apropiados (incluidos servicios obstétricos de
-urgencia) en relación con el embarazo, como atención prenatal, de
-maternidad y postnatal, y aumente las partidas presupuestarias para la
-prestación de servicios ginecológicos y obstétricos en las zonas rurales y
-apartadas;**
+    a) **Reduzca la tasa de mortalidad materna, garantizando que las mujeres
+    tengan acceso a servicios apropiados (incluidos servicios obstétricos de
+    urgencia) en relación con el embarazo, como atención prenatal, de
+    maternidad y postnatal, y aumente las partidas presupuestarias para la
+    prestación de servicios ginecológicos y obstétricos en las zonas rurales y
+    apartadas;**
 
-b) **Inicie procedimientos de rendición de cuentas para velar por que todas
-las provincias aprueben protocolos sobre la práctica del aborto no punible,
-en consonancia con la decisión de la Corte Suprema de Justicia de 2012 y el
-protocolo para la atención integral de las personas con derecho a la
-interrupción legal del embarazo;**
+    b) **Inicie procedimientos de rendición de cuentas para velar por que todas
+    las provincias aprueben protocolos sobre la práctica del aborto no punible,
+    en consonancia con la decisión de la Corte Suprema de Justicia de 2012 y el
+    protocolo para la atención integral de las personas con derecho a la
+    interrupción legal del embarazo;**
 
-c) **Vele por que las mujeres tengan acceso a servicios de aborto legal y sin
-riesgo y de atención posterior al aborto, y defina y aplique requisitos
-estrictos de justificación para prevenir el uso general de la objeción de
-conciencia por los médicos que se niegan a practicar abortos, considerando
-en particular los casos de embarazo temprano como consecuencia de violación
-o incesto que pueden equivaler a tortura;**
+    c) **Vele por que las mujeres tengan acceso a servicios de aborto legal y sin
+    riesgo y de atención posterior al aborto, y defina y aplique requisitos
+    estrictos de justificación para prevenir el uso general de la objeción de
+    conciencia por los médicos que se niegan a practicar abortos, considerando
+    en particular los casos de embarazo temprano como consecuencia de violación
+    o incesto que pueden equivaler a tortura;**
 
-d) **Acelere la aprobación del proyecto de ley relativo a la interrupción
-voluntaria del embarazo aumentando el acceso legal al aborto, no solo en
-los casos de violación y de riesgo para la vida o la salud de la madre,
-sino también en otras circunstancias, como en los casos de incesto y riesgo
-de graves malformaciones del feto.**
+    d) **Acelere la aprobación del proyecto de ley relativo a la interrupción
+    voluntaria del embarazo aumentando el acceso legal al aborto, no solo en
+    los casos de violación y de riesgo para la vida o la salud de la madre,
+    sino también en otras circunstancias, como en los casos de incesto y riesgo
+    de graves malformaciones del feto.**
 
 34. Además, al Comité le preocupa lo siguiente:
 
-a) La elevada tasa de embarazos precoces en el Estado parte;
+    a) La elevada tasa de embarazos precoces en el Estado parte;
 
-b) El acceso limitado a los servicios de salud mental, en particular de las
-mujeres que viven en las zonas rurales y las mujeres con bajos ingresos, y
-las disparidades regionales en la aplicación de la Ley de Derecho a la
-Protección de la Salud Mental (núm. 26.657), que prevé la
-desinstitucionalización, la rehabilitación y la reinserción del paciente en
-la comunidad;
+    b) El acceso limitado a los servicios de salud mental, en particular de las
+    mujeres que viven en las zonas rurales y las mujeres con bajos ingresos, y
+    las disparidades regionales en la aplicación de la Ley de Derecho a la
+    Protección de la Salud Mental (núm. 26.657), que prevé la
+    desinstitucionalización, la rehabilitación y la reinserción del paciente en
+    la comunidad;
 
-c) La ausencia de estrategias específicas para garantizar el acceso a una
-atención sanitaria de calidad para las mujeres de edad;
+    c) La ausencia de estrategias específicas para garantizar el acceso a una
+    atención sanitaria de calidad para las mujeres de edad;
 
-d) El acceso limitado a servicios especializados de salud, en particular
-los servicios de salud sexual y reproductiva, para las mujeres con
-discapacidad;
+    d) El acceso limitado a servicios especializados de salud, en particular
+    los servicios de salud sexual y reproductiva, para las mujeres con
+    discapacidad;
 
-e) El elevado consumo de tabaco entre las niñas en comparación con los
-niños.
+    e) El elevado consumo de tabaco entre las niñas en comparación con los niños.
 
 35. **El Comité recomienda que el Estado parte:**
 
-a) **Garantice el acceso a servicios de asesoramiento y educación sobre los
-derechos sexuales y reproductivos de las niñas y los niños adolescentes,
-realice campañas de sensibilización sobre los métodos anticonceptivos
-modernos y aumente el acceso a métodos anticonceptivos seguros y
-asequibles;**
+    a) **Garantice el acceso a servicios de asesoramiento y educación sobre los
+    derechos sexuales y reproductivos de las niñas y los niños adolescentes,
+    realice campañas de sensibilización sobre los métodos anticonceptivos
+    modernos y aumente el acceso a métodos anticonceptivos seguros y
+    asequibles;**
 
-b) **Elabore estrategias a nivel local en colaboración con los maestros y la
-sociedad civil con el fin de promover la planificación familiar y superar
-las barreras culturales que impiden el uso de anticonceptivos;**
+    b) **Elabore estrategias a nivel local en colaboración con los maestros y la
+    sociedad civil con el fin de promover la planificación familiar y superar
+    las barreras culturales que impiden el uso de anticonceptivos;**
 
-c) **Adopte una estrategia que incluya metas con plazos concretos e
-indicadores para facilitar el acceso de las mujeres de todo el Estado parte
-a los servicios de salud mental, y difunda información sobre los servicios
-de salud mental disponibles;**
+    c) **Adopte una estrategia que incluya metas con plazos concretos e
+    indicadores para facilitar el acceso de las mujeres de todo el Estado parte
+    a los servicios de salud mental, y difunda información sobre los servicios
+    de salud mental disponibles;**
 
-d) **Diseñe políticas y programas a nivel nacional y provincial para
-garantizar el acceso de las mujeres de edad a la atención de la salud;**
+    d) **Diseñe políticas y programas a nivel nacional y provincial para
+    garantizar el acceso de las mujeres de edad a la atención de la salud;**
 
-e) **Vele por que se publique información sobre la salud y los derechos
-sexuales y reproductivos de las mujeres con discapacidad en formatos
-accesibles a ellas;**
+    e) **Vele por que se publique información sobre la salud y los derechos
+    sexuales y reproductivos de las mujeres con discapacidad en formatos
+    accesibles a ellas;**
 
-f) **Adopte medidas para garantizar que los servicios de salud, en particular
-los servicios ginecológicos, sean accesibles para las mujeres con
-discapacidad, sobre todo mediante inversiones en centros de salud y
-equipamiento y la sensibilización de los profesionales de la atención de la
-salud sobre los derechos y la dignidad de las mujeres con discapacidad;**
+    f) **Adopte medidas para garantizar que los servicios de salud, en particular
+    los servicios ginecológicos, sean accesibles para las mujeres con
+    discapacidad, sobre todo mediante inversiones en centros de salud y
+    equipamiento y la sensibilización de los profesionales de la atención de la
+    salud sobre los derechos y la dignidad de las mujeres con discapacidad;**
 
-g) **Ratifique el Convenio Marco de la Organización Mundial de la Salud para
-el Control del Tabaco, reduzca el elevado consumo de tabaco entre los
-adolescentes, en particular las niñas, y haga frente a las consecuencias
-sanitarias.**
+    g) **Ratifique el Convenio Marco de la Organización Mundial de la Salud para
+    el Control del Tabaco, reduzca el elevado consumo de tabaco entre los
+    adolescentes, en particular las niñas, y haga frente a las consecuencias
+    sanitarias.**
 
 ### Empoderamiento económico de la mujer
 
@@ -1838,46 +1796,46 @@ biológica, y que las mujeres tengan los mismos derechos que los hombres a
 acceder a la tierra, celebrar contratos y administrar bienes. No obstante,
 al Comité le preocupa lo siguiente:
 
-a) La pobreza entre las mujeres de las zonas rurales y su dependencia de
-las transferencias públicas, y el acceso limitado a la justicia, la
-educación y los servicios de salud, especialmente en las zonas más
-desfavorecidas;
+    a) La pobreza entre las mujeres de las zonas rurales y su dependencia de
+    las transferencias públicas, y el acceso limitado a la justicia, la
+    educación y los servicios de salud, especialmente en las zonas más
+    desfavorecidas;
 
-b) Los efectos negativos en el acceso de las mujeres rurales a la tierra
-del Decreto Ejecutivo núm. 820/2016, de 29 de junio de 2016, que elimina
-algunas restricciones a la adquisición y el arrendamiento de tierras
-rurales por personas físicas y jurídicas extranjeras;
+    b) Los efectos negativos en el acceso de las mujeres rurales a la tierra
+    del Decreto Ejecutivo núm. 820/2016, de 29 de junio de 2016, que elimina
+    algunas restricciones a la adquisición y el arrendamiento de tierras
+    rurales por personas físicas y jurídicas extranjeras;
 
-c) El riesgo que corren las mujeres de las zonas rurales de desalojo
-forzoso y violencia y acoso sexual y por razón de género, en el contexto de
-grandes proyectos de desarrollo económico;
+    c) El riesgo que corren las mujeres de las zonas rurales de desalojo
+    forzoso y violencia y acoso sexual y por razón de género, en el contexto de
+    grandes proyectos de desarrollo económico;
 
-d) Los efectos desproporcionados del cambio climático y otros desastres
-naturales en las mujeres de las zonas rurales.
+    d) Los efectos desproporcionados del cambio climático y otros desastres
+    naturales en las mujeres de las zonas rurales.
 
 39. **El Comité, en consonancia con su recomendación general núm. 34 (2015)
 sobre los derechos de la mujer rural, recomienda que el Estado parte:**
 
-a) **Diseñe programas específicos destinados a garantizar el desarrollo
-sostenible y a combatir las situaciones de pobreza a las que se enfrentan
-las mujeres de las zonas rurales, mediante la asignación de recursos
-específicos, la creación de oportunidades de empleo, la adopción de medidas
-de protección social y la ejecución de programas de enseñanza específicos
-para las mujeres de las zonas rurales;**
+    a) **Diseñe programas específicos destinados a garantizar el desarrollo
+    sostenible y a combatir las situaciones de pobreza a las que se enfrentan
+    las mujeres de las zonas rurales, mediante la asignación de recursos
+    específicos, la creación de oportunidades de empleo, la adopción de medidas
+    de protección social y la ejecución de programas de enseñanza específicos
+    para las mujeres de las zonas rurales;**
 
-b) **Adopte salvaguardias y supervise los procesos de adquisición y
-arrendamiento de tierras rurales con el fin de proteger la titularidad de
-tierras de las mujeres y facilitar la participación de las mujeres en los
-ingresos derivados de proyectos de desarrollo a gran escala;**
+    b) **Adopte salvaguardias y supervise los procesos de adquisición y
+    arrendamiento de tierras rurales con el fin de proteger la titularidad de
+    tierras de las mujeres y facilitar la participación de las mujeres en los
+    ingresos derivados de proyectos de desarrollo a gran escala;**
 
-c) **Adopte políticas para impedir el desalojo forzoso y prevenir la
-violencia, la estigmatización y los ataques contra las mujeres de las zonas
-rurales en el contexto de grandes proyectos de desarrollo económico;**
+    c) **Adopte políticas para impedir el desalojo forzoso y prevenir la
+    violencia, la estigmatización y los ataques contra las mujeres de las zonas
+    rurales en el contexto de grandes proyectos de desarrollo económico;**
 
-d) **Vele por que las mujeres rurales estén representadas en los procesos de
-toma de decisiones a todos los niveles en el sector agrícola, en particular
-en lo que respecta a las políticas relativas a la reducción del riesgo de
-desastres, la gestión posterior a los desastres y el cambio climático.**
+    d) **Vele por que las mujeres rurales estén representadas en los procesos de
+    toma de decisiones a todos los niveles en el sector agrícola, en particular
+    en lo que respecta a las políticas relativas a la reducción del riesgo de
+    desastres, la gestión posterior a los desastres y el cambio climático.**
 
 ### Mujeres indígenas
 
@@ -1886,49 +1844,49 @@ condición social, las mujeres indígenas enfrentan formas entrecruzadas de
 discriminación en el Estado parte, además de odio racial, violencia,
 pobreza y marginación. En concreto, le preocupa lo siguiente:
 
-a) La falta de reconocimiento y protección de la tenencia y la titularidad
-de la tierra de las mujeres indígenas, los desalojos forzosos de las
-tierras tradicionales indígenas en regiones como Gran Chaco y la exclusión
-de las mujeres indígenas de los procesos de toma de decisiones relativas al
-uso de la tierra;
+    a) La falta de reconocimiento y protección de la tenencia y la titularidad
+    de la tierra de las mujeres indígenas, los desalojos forzosos de las
+    tierras tradicionales indígenas en regiones como Gran Chaco y la exclusión
+    de las mujeres indígenas de los procesos de toma de decisiones relativas al
+    uso de la tierra;
 
-b) El acceso limitado de las mujeres indígenas al agua, incluida el agua
-potable y el saneamiento, debido a la falta de infraestructura, en
-particular en comunidades indígenas aisladas, como la comunidad wichi de
-Miraflores (Chaco);
+    b) El acceso limitado de las mujeres indígenas al agua, incluida el agua
+    potable y el saneamiento, debido a la falta de infraestructura, en
+    particular en comunidades indígenas aisladas, como la comunidad wichi de
+    Miraflores (Chaco);
 
-c) Los efectos negativos del uso de plaguicidas, fertilizantes y productos
-agroquímicos en la salud de las mujeres y las niñas indígenas que son
-contratadas como trabajadoras agrícolas;
+    c) Los efectos negativos del uso de plaguicidas, fertilizantes y productos
+    agroquímicos en la salud de las mujeres y las niñas indígenas que son
+    contratadas como trabajadoras agrícolas;
 
-d) La falta de mecanismos eficaces de consulta y participación en los
-beneficios para garantizar que las mujeres indígenas den su consentimiento
-libre, previo e informado a los proyectos de desarrollo en sus territorios.
+    d) La falta de mecanismos eficaces de consulta y participación en los
+    beneficios para garantizar que las mujeres indígenas den su consentimiento
+    libre, previo e informado a los proyectos de desarrollo en sus territorios.
 
 41. **El Comité recomienda que el Estado parte:**
 
-a) **Adopte medidas para reconocer oficialmente la tenencia y la titularidad
-de la tierra de las mujeres indígenas, y promueva el diálogo a nivel de la
-comunidad destinado a eliminar las normas y costumbres discriminatorias que
-limitan los derechos de propiedad de la tierra de las mujeres indígenas;**
+    a) **Adopte medidas para reconocer oficialmente la tenencia y la titularidad
+    de la tierra de las mujeres indígenas, y promueva el diálogo a nivel de la
+    comunidad destinado a eliminar las normas y costumbres discriminatorias que
+    limitan los derechos de propiedad de la tierra de las mujeres indígenas;**
 
-b) **Prevenga los desalojos forzosos de las mujeres indígenas fortaleciendo
-las garantías jurídicas y procesales, y asegure que las mujeres indígenas
-participen de forma significativa en los procesos de toma de decisiones
-relativos al uso de las tierras indígenas tradicionales;**
+    b) **Prevenga los desalojos forzosos de las mujeres indígenas fortaleciendo
+    las garantías jurídicas y procesales, y asegure que las mujeres indígenas
+    participen de forma significativa en los procesos de toma de decisiones
+    relativos al uso de las tierras indígenas tradicionales;**
 
-c) **Vele por que las mujeres indígenas tengan un acceso adecuado a agua
-potable y asequible para uso personal y doméstico, así como para el riego;**
+    c) **Vele por que las mujeres indígenas tengan un acceso adecuado a agua
+    potable y asequible para uso personal y doméstico, así como para el riego;**
 
-d) **Examine las actuales negligencias en la tramitación de las denuncias
-presentadas por mujeres indígenas ante el Ministerio de Salud sobre el uso
-nocivo de plaguicidas, fertilizantes y productos agroquímicos, y garantice
-que esos casos se resuelvan de manera oportuna y apropiada, de conformidad
-con la recomendación general núm. 34 del Comité;**
+    d) **Examine las actuales negligencias en la tramitación de las denuncias
+    presentadas por mujeres indígenas ante el Ministerio de Salud sobre el uso
+    nocivo de plaguicidas, fertilizantes y productos agroquímicos, y garantice
+    que esos casos se resuelvan de manera oportuna y apropiada, de conformidad
+    con la recomendación general núm. 34 del Comité;**
 
-e) **Establezca un mecanismo eficaz de consulta y participación en los
-beneficios para garantizar el consentimiento libre, previo e informado de
-las mujeres indígenas relativo al uso de sus tierras y recursos naturales.**
+    e) **Establezca un mecanismo eficaz de consulta y participación en los
+    beneficios para garantizar el consentimiento libre, previo e informado de
+    las mujeres indígenas relativo al uso de sus tierras y recursos naturales.**
 
 ### Mujeres migrantes, refugiadas y solicitantes de asilo
 
@@ -1959,51 +1917,51 @@ resultados de esos programas.**
 44. El Comité toma nota del Programa de Género del Servicio Penitenciario
 Federal, pero sigue preocupado por lo siguiente:
 
-a) El número de mujeres en prisión preventiva;
+    a) El número de mujeres en prisión preventiva;
 
-b) Los registros corporales invasivos realizados a las mujeres en las
-cárceles y la falta de información sobre el uso de sistemas de vigilancia
-electrónica a nivel provincial;
+    b) Los registros corporales invasivos realizados a las mujeres en las
+    cárceles y la falta de información sobre el uso de sistemas de vigilancia
+    electrónica a nivel provincial;
 
-c) El acceso limitado de las mujeres reclusas a la educación, la
-capacitación para el empleo, las oportunidades de trabajo y los servicios
-de salud;
+    c) El acceso limitado de las mujeres reclusas a la educación, la
+    capacitación para el empleo, las oportunidades de trabajo y los servicios
+    de salud;
 
-d) Las denuncias de malos tratos a mujeres privadas de libertad, como actos
-de violencia física y psicológica por oficiales de prisiones y la reclusión
-en régimen de aislamiento;
+    d) Las denuncias de malos tratos a mujeres privadas de libertad, como actos
+    de violencia física y psicológica por oficiales de prisiones y la reclusión
+    en régimen de aislamiento;
 
-e) Los retrasos en la aplicación de la Ley 26.472, de 12 de enero de 2009,
-sobre las alternativas a la detención para las mujeres embarazadas y las
-madres con hijos menores de 5 años de edad.
+    e) Los retrasos en la aplicación de la Ley 26.472, de 12 de enero de 2009,
+    sobre las alternativas a la detención para las mujeres embarazadas y las
+    madres con hijos menores de 5 años de edad.
 
 45. **El Comité recuerda las Reglas de las Naciones Unidas para el
 Tratamiento de las Reclusas y Medidas No Privativas de la Libertad para las
 Mujeres Delincuentes (Reglas de Bangkok) (resolución 65/229 de la Asamblea
 General, anexo) y recomienda que el Estado parte:**
 
-a) **Adopte medidas para limitar el uso de la detención preventiva de
-mujeres, entre otras cosas, ampliando el recurso a medidas cautelares;**
+    a) **Adopte medidas para limitar el uso de la detención preventiva de
+    mujeres, entre otras cosas, ampliando el recurso a medidas cautelares;**
 
-b) **Prohíba los registros corporales invasivos a las mujeres por
-funcionarios de prisiones y elabore programas obligatorios de desarrollo de
-la capacidad para el personal penitenciario sobre la igualdad de género y
-la dignidad y los derechos de la mujer;**
+    b) **Prohíba los registros corporales invasivos a las mujeres por
+    funcionarios de prisiones y elabore programas obligatorios de desarrollo de
+    la capacidad para el personal penitenciario sobre la igualdad de género y
+    la dignidad y los derechos de la mujer;**
 
-c) **Asigne recursos humanos, técnicos y financieros para ampliar la
-cobertura de la educación, los programas de empleo y los servicios de salud
-para incluir también a las mujeres en prisión preventiva;**
+    c) **Asigne recursos humanos, técnicos y financieros para ampliar la
+    cobertura de la educación, los programas de empleo y los servicios de salud
+    para incluir también a las mujeres en prisión preventiva;**
 
-d) **Dé prioridad a la aplicación de las recomendaciones formuladas por el
-Subcomité para la Prevención de la Tortura y Otros Tratos o Penas Crueles,
-Inhumanos o Degradantes (CAT/OP/ARG/1) y acelere la investigación de los
-presuntos casos de malos tratos y otros casos de violencia por razón de
-género ejercida contra las mujeres privadas de libertad;**
+    d) **Dé prioridad a la aplicación de las recomendaciones formuladas por el
+    Subcomité para la Prevención de la Tortura y Otros Tratos o Penas Crueles,
+    Inhumanos o Degradantes (CAT/OP/ARG/1) y acelere la investigación de los
+    presuntos casos de malos tratos y otros casos de violencia por razón de
+    género ejercida contra las mujeres privadas de libertad;**
 
-e) **Acelere la aplicación de la Ley 26.472, de 12 de enero de 2009, y
-proporcione alternativas a la detención para las mujeres embarazadas y las
-madres con niños de corta edad, teniendo en cuenta el interés superior del
-niño.**
+    e) **Acelere la aplicación de la Ley 26.472, de 12 de enero de 2009, y
+    proporcione alternativas a la detención para las mujeres embarazadas y las
+    madres con niños de corta edad, teniendo en cuenta el interés superior del
+    niño.**
 
 ### Igualdad en el matrimonio y en las relaciones familiares
 
@@ -2076,4 +2034,23 @@ cumplimiento de las recomendaciones que figuran en los párrafos 27 a); 33
 b) y d) y 41 d) de este documento.**
 
 
-
+[^CEDMArg-1]: Suplemento N. 38 (A 43/38), 16 y 19 de Febrero, 22, 26 y 29 de Febrero y el 2 de Marzo de 1988
+[^CEDMArg-2]: Las recomendaciones se encuentran en negrita.
+[^CEDMArg-3]: El delito de adulterio fue derogado por Ley nº 24.453, sancionada el 08/02/95, BO 07/03/95.
+[^CEDMArg-4]: El Comité se refiere a la Subsecretaría de la mujer en el ámbito del Ministerio de Salud. En la actualidad dicha Subsecretaría no existe.
+[^CEDMArg-5]: Suplemento N. 38 (A/52/38/Rev. 1), 7 a 25 de Julio de 1997
+[^CEDMArg-6]: Las recomendaciones se encuentran en negrita.
+[^CEDMArg-7]: El Código Penal fue reformado respecto de los delitos contra la integridad sexual, anteriormente llamados “delitos contra la honestidad” por Ley nº 25.087 sancionada el 14/04/99, BO 14/05/99.
+[^CEDMArg-8]: Mediante Ley Nacional 25.239 se creo el Régimen Especial de Seguridad Social para Empleados del Servicio Domestico, sancionada el 29 de diciembre de 1999 (Decreto reglamentario nº 485/2000, sancionado en junio de 2000). No obstante, las modalidades de la relación laboral no han sido modificadas.
+[^CEDMArg-9]: Mediante Ley nacional 25.250 de reforma laboral denominada Estímulo al Empleo Estable. Incorporación de dos incentivos para el empleo de mujeres, sancionada el 11 de mayo de 2000, se establecieron dos incentivos para la contratación de mujeres Jefas de hogar: 1º reducción de las contribuciones a la Seguridad Social, 2º subsidio destinado al pago de las remuneraciones (Decreto reglamentario nº 568/2000). Por Decreto 147/2001 se aclararon ciertos términos de interpretación del texto legal.
+[^CEDMArg-10]: Suplemento No. 38 (A/57/38), 5 al 23 de agosto de 2002
+[^CEDMArg-11]: Las recomendaciones se encuentran en negrita.
+[^CEDMArg-12]: Suplemento No. 38 (A/59/38), 6 a 23 de julio de 2004
+[^CEDMArg-13]: Las recomendaciones se encuentran en negrita.
+[^CEDMArg-14]: Se ha dictado la Ley Nº 26.150 de creación del Programa Nacional de Educación Sexual Integral, (sancionada: 4 de octubre de 2006), de vigencia sólo para establecimientos educativos públicos, quedando a cargo de cada jurisdicción – nacional y provincial – la implementación de los programas respectivos. En la actualidad, algunas provincias del Estado argentino han sancionado leyes al respecto.Se ha dictado la Ley Nº 26.150 de creación del Programa Nacional de Educación Sexual Integral, (sancionada: 4 de octubre de 2006), de vigencia sólo para establecimientos educativos públicos, quedando a cargo de cada jurisdicción – nacional y provincial – la implementación de los programas respectivos. En la actualidad, algunas provincias del Estado argentino han sancionado leyes al respecto.
+[^CEDMArg-15]: El Protocolo facultativo fue ratificado en marzo de 2007 mediante Ley 26.171.
+[^CEDMArg-15a]: CEDAW/C/ARG/CO/6, 16 de agosto de 2010
+[^CEDMArg-16]: Las recomendaciones se encuentran en negrita.
+[^CEDMArg-17]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial, la Convención sobre la eliminación de todas las formas de discriminación contra la mujer, la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Convención sobre los Derechos del Niño, la Convención Internacional sobre la protección de los derechos de todos los trabajadores migratorios y de sus familiares, la Convención Internacional para la protección de todas las personas contra las desapariciones forzadas y la Convención sobre los derechos de las personas con discapacidad.
+[^CEDMArg-18]: CEDAW/C/ARG/CO/7, 25 de noviembre de 2016
+[^CEDMArg-19]: Las recomendaciones se encuentran en negrita.
