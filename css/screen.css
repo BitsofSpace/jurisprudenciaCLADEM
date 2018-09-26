@@ -26,6 +26,22 @@ h1 {
   text-align: center;
 }
 
+.subtitulo {
+  font-size: 1.3rem;
+  margin-top: 50px;
+  line-height: 100%;
+  color: #531731;
+  text-align: center;
+}
+
+.fecha {
+  font-size: 1.8rem;
+  margin-top: 50px;
+  line-height: 100%;
+  color: #531731;
+  text-align: center;
+}
+
 /*section h1 {
   font-size: 250%;
 }*/
@@ -45,8 +61,9 @@ h2 {
 }
 
 .centrado {
-  display: flex;
-  justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h3 {

@@ -2,15 +2,40 @@
 layout: default
 ---
 <header>
-  <h1 class="portada centrado">{{ site.title }}</h1>
-  <div class="centrado">
-  <p>Descargar publicación completa »
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1 class="portada centrado">{{ site.title }}</h1>
+      <h2 class="subtitulo centrado">
+Comités Monitores de Derechos Humanos de Naciones Unidas (CCPR), Consejo de Derechos Humanos de Naciones Unidas (CDH), Comisión Interamericana de Derechos Humanos (CIDH), Mecanismo de Seguimiento de la Convención de Belém do Pará (MESECVI)</h2>
+      <h2 class="fecha centrado">2018</h2>
+      <h3 class="subtitulo centrado">Un proyecto realizado por CLADEM</h3>
+      <img src="{{ site.baseurl }}/img/cladem-30-anhos-100px.jpg" class="img-fluid centrado" alt="Responsive image">
+  </div>
+</div>
+
+</header>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h3 class="subtitulo centrado">
+      Descarga la publicación completa »
   {% for format in site.pandoc.outputs %}
     {% capture extension %}{{ format | first }}{% endcapture %}
       <a href="{{ site.baseurl }}/{{ site.title | slugify }}/{{ site.title | slugify }}.{{ extension }}">{{ extension }}</a>
   {% endfor %}
+     </h3>
   </div>
-</header>
+  <div class="row">
+    <div class="col-md-12">
+      <h2 class="fecha centrado">
+      O léela en línea
+     </h2>
+  </div>
+</div>
+
 
 {% for category in site.categories %}
   <dl>
