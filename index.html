@@ -1,21 +1,20 @@
 ---
 layout: default
 ---
-
 <header>
-  <h1 class="title">{{ site.title }}</h1>
-
+  <h1 class="portada centrado">{{ site.title }}</h1>
+  <div class="centrado">
+  <p>Descargar publicación completa »
   {% for format in site.pandoc.outputs %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd>
       <a href="{{ site.baseurl }}/{{ site.title | slugify }}/{{ site.title | slugify }}.{{ extension }}">{{ extension }}</a>
-    </dd>
   {% endfor %}
+  </div>
 </header>
 
 {% for category in site.categories %}
   <dl>
-    <dt><a href="{{ site.baseurl }}{{ category[0] | to_category_url }}">{{ category[0] }}</a></dt>
+    <dt class="lista-grande"><a href="{{ site.baseurl }}{{ category[0] | to_category_url }}">{{ category[0] }}</a></dt>
   </dl>
 {% endfor %}
 

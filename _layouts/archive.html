@@ -3,26 +3,26 @@ layout: default
 ---
 
 <header>
-  <h1 class="title">{{ site.title }}</h1>
-  <h2 class="category">{{ page.title }}</h2>
-
+  <h1 class="title centrado">{{ site.title }}</h1>
+  <h2 class="category centrado">{{ page.title }}</h2>
+  <div class="centrado">
+  <p>Descargar informe completo »
   {% for format in site.pandoc.outputs %}
     {% capture extension %}{{ format | first }}{% endcapture %}
-    <dd>
-      <a href="{{ site.baseurl }}/{{ page.title | slugify }}/{{ page.title | slugify }}.{{ extension }}">{{ extension }}</a>
-    </dd>
-  {% endfor %}
+     <a href="{{ site.baseurl }}/{{ page.title | slugify }}/{{ page.title | slugify }}.{{ extension }}">{{ extension }}</a>
+  {% endfor %}</p>
+  </div>
 </header>
 
 {% for post in page.posts reversed %}
   <dl>
     <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
     <dd class="author">{{ post.author }}</dd>
-
+    <dd><small class=destacado"><a href="{{ post.url }}">LEER EN LÍNEA // </a></small></dd>
     {% for format in site.pandoc.outputs %}
       {% capture extension %}{{ format | first }}{% endcapture %}
       <dd>
-        <a href="{{ post.url }}{{ post.slug }}.{{ extension }}">{{ extension }}</a>
+        <small>Descargar » <a href="{{ post.url }}{{ post.slug }}.{{ extension }}">{{ extension }}</a></small>
       </dd>
     {% endfor %}
   </dl>
