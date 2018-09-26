@@ -4,7 +4,7 @@ layout: default
 
 <header>
   <h1 class="title">{{ site.title }}</h1>
-  <h2 class="author">{{ site.author }}</h2>
+  <h2 class="category">{{ page.title }}</h2>
 </header>
 
 {% for post in page.posts %}
@@ -15,20 +15,8 @@ layout: default
     {% for format in site.pandoc.outputs %}
       {% capture extension %}{{ format | first }}{% endcapture %}
       <dd>
-        <a href="{{ post.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a>
+        <a href="{{ post.url }}{{ post.slug }}.{{ extension }}">{{ extension }}</a>
       </dd>
     {% endfor %}
   </dl>
 {% endfor %}
-
-{% if site.archives %}
-  <ul>
-    {% for archive in site.archives %}
-      <li>
-        <a href="{{ archive.url }}">
-          {{ archive.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-{% endif %}

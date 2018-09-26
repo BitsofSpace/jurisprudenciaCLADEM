@@ -2,15 +2,15 @@
   <ul>
     {% for format in site.pandoc.outputs %}
       {% capture extension %}{{ format | first }}{% endcapture %}
-      <li><a href="{{ page.url | remove:'.html' }}.{{ extension }}">{{ extension }}</a></li>
+      <li><a href="{{ page.url }}{{ page.slug }}.{{ extension }}">{{ extension }}</a></li>
     {% endfor %}
 
     {% if site.pandoc.imposition %}
-      <li><a href="{{ page.url | remove:'.html' }}-imposed.pdf">imposition</a></li>
+      <li><a href="{{ page.url }}{{ page.slug }}-imposed.pdf">imposition</a></li>
     {% endif %}
 
     {% if site.pandoc.binder %}
-      <li><a href="{{ page.url | remove:'.html' }}-binder.pdf">binder</a></li>
+      <li><a href="{{ page.url }}{{ page.slug }}-binder.pdf">binder</a></li>
     {% endif %}
   </ul>
 </nav>
