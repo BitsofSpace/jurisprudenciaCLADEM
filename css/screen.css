@@ -198,6 +198,7 @@ tbody tr:nth-child(odd) {
 
 li {
   font-size: 1rem;
+  text-align: justify;
 }
 
 strong {
@@ -206,4 +207,8 @@ strong {
 
 em {
   font-style: italic;
+}
+
+p {
+  padding-top: 2rem;
 }
