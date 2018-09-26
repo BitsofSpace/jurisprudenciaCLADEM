@@ -70,7 +70,7 @@ pandoc:
            --epub-embed-font=fonts/Formata-Light.otf
            --epub-embed-font=fonts/Formata-Italic.otf
            --epub-embed-font=fonts/Formata-BoldItalic.otf
-           --epub-embed-font=fonts/Formata-Bold.otf'
+           --epub-embed-font=fonts/Formata-Bold.otf
            --css=epub.css -V rights="© 2018 CLADEM. CC-BY-SA 4.0 Internacional https://creativecommons.org/licenses/by-sa/4.0/deed.es"'
 
 plugins:
