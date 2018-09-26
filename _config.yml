@@ -4,7 +4,7 @@ title: Jurisprudencia CLADEM
 tagline:
 author:
 email:
-lang:
+lang: es
 url: https://jurisprudencia.cladem.org
 license:
   type: 'CC-BY-SA'
@@ -71,7 +71,6 @@ pandoc:
     epub: '--epub-chapter-level=2
            --epub-embed-font=fonts/robotoslab/robotoslabbold.ttf
            --epub-embed-font=fonts/robotoslab/robotoslabregular.ttf'
-    markdown: ''
 
 plugins:
   - jekyll-archives
