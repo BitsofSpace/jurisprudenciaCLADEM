@@ -181,7 +181,7 @@ marzo de 2001, aprobó las siguientes observaciones finales.
 _No se observan recomendaciones con perspectiva de género._
 
 
-## 11º Observaciones finales sobre los informes del décimo sexto al décimo octavo presentados por el Estado adoptadas el 18 de agosto de 2004.[^CEDR-11]
+## 11º Observaciones finales sobre los informes del décimo sexto al décimo octavo presentados por el Estado adoptadas el 18 de agosto de 2004.[^CEDR-10a]
 
 1. El Comité examinó en sus sesiones 1656ª y 1657ª (CERD/C/SR.1656 y 1657),
 celebradas los días 10 y 11 de agosto de 2004, los informes periódicos 16º,
@@ -191,7 +191,7 @@ documento (CERD/C/476/Add.2). En su 1668ª sesión (CERD/C/SR.1668),
 celebrada el 18 de agosto de 2004, el Comité aprobó las siguientes
 observaciones finales.
 
-[^CEDR-10]: CERD/C/65/CO/1, 10 de diciembre de 2004
+[^CEDR-10a]: CERD/C/65/CO/1, 10 de diciembre de 2004
 
 
 ### C. Motivos de preocupación y recomendaciones[^CEDR-11]
@@ -210,8 +210,7 @@ Estado Parte facilite en su próximo informe periódico más información sobre
 la vulnerable situación de las mujeres migrantes e indígenas.
 
 
-## 12º Observaciones finales sobre el décimo noveno y vigésimo informe presentado
-por el Estado adoptadas en febrero de 2010.[^CEDR-12] 
+## 12º Observaciones finales sobre el décimo noveno y vigésimo informe presentado por el Estado adoptadas en febrero de 2010.[^CEDR-12] 
 
 1. El Comité examinó en sus sesiones 1977.ª y 1978.ª (CERD/C/SR.1977 y
 1978), celebradas los días 17 y 18 de febrero de 2010, los informes
@@ -254,6 +253,7 @@ continuación.
 [^CEDR-14]: CERD/C/ARG/CO/21-23, 11 de enero de 2017
 
 ### C. Motivos de preocupación y recomendaciones[^CEDR-15]
+
 (…)
 
 [^CEDR-15]: Las recomendaciones se encuentran en negrita.
@@ -267,6 +267,13 @@ bisexuales, transgénero e intersexuales, y otras minorías continúan
 enfrentándose a múltiples formas de discriminación en todas las áreas de la
 vida social, política, económica y cultural (art. 2, párr. 2).
 
-36. **El Comité recomienda que el Estado parte tome en cuenta su recomendación general núm. 25 (2000) sobre las dimensiones de la discriminación racial relacionadas con el género, e incluya una perspectiva de género en todas sus políticas y estrategias para hacer frente a las múltiples formas de discriminación que afectan, en especial, a las mujeres pertenecientes a pueblos indígenas, afrodescendientes y migrantes, incluidas las personas lesbianas, gais, bisexuales, transgénero e intersexuales, y otras minorías. Se recomienda también contar con estadísticas desglosadas al respecto.**
-
-
+36. **El Comité recomienda que el Estado parte tome en cuenta su
+recomendación general núm. 25 (2000) sobre las dimensiones de la
+discriminación racial relacionadas con el género, e incluya una
+perspectiva de género en todas sus políticas y estrategias para
+hacer frente a las múltiples formas de discriminación que afectan,
+en especial, a las mujeres pertenecientes a pueblos indígenas,
+afrodescendientes y migrantes, incluidas las personas lesbianas,
+gais, bisexuales, transgénero e intersexuales, y otras minorías. Se
+recomienda también contar con estadísticas desglosadas al
+respecto.**
