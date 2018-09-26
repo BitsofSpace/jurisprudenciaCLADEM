@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 categories:
-  - "Argentina"
+   - "Argentina"
 ---
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
 
@@ -46,8 +46,8 @@ a continuación.
 
 24. El Comité recomienda al Estado Parte que:
 
-a) Mejore su sistema de reunión de datos para que incluya, desagregándolas,
-todas las esferas abarcadas por la Convención.
+    a) Mejore su sistema de reunión de datos para que incluya, desagregándolas,
+    todas las esferas abarcadas por la Convención.
 
 (…)
 
@@ -62,33 +62,33 @@ disposiciones conexas de la misma, el Comité recomienda al Estado Parte que
 revise su legislación para aumentar la edad mínima de las mujeres para
 contraer matrimonio y equipararla a la de los varones.
 
-(…)
+    (…)
 
 ### 3. Principios generales
 
 28. El Comité recomienda al Estado Parte que:
 
-a) Integre adecuadamente los principios generales de la Convención,
-enunciados en los artículos 2[^55] (…) en todas las leyes que atañan a los
-niños;
+    a) Integre adecuadamente los principios generales de la Convención,
+    enunciados en los artículos 2[^55] (…) en todas las leyes que atañan a los
+    niños;
 
-(…)
+    (…)
 
 [^55]: El art. 2 refiere al respeto de los derechos de la Convención sin distinción de ningún
 tipo, incluyendo al sexo.
 
 30. El Comité recomienda al Estado Parte que:
 
-a) Vigile la situación de los niños, en particular la de los que pertenecen
-a los citados grupos vulnerables, que están expuestos a la discriminación;
-y
+    a) Vigile la situación de los niños, en particular la de los que pertenecen
+    a los citados grupos vulnerables, que están expuestos a la discriminación;
+    y
 
-b) Elabore, sobre la base de los resultados de esa labor de vigilancia,
-estrategias integradas en las que se prevean medidas concretas con
-objetivos bien definidos para poner fin a todas las formas de
-discriminación.
+    b) Elabore, sobre la base de los resultados de esa labor de vigilancia,
+    estrategias integradas en las que se prevean medidas concretas con
+    objetivos bien definidos para poner fin a todas las formas de
+    discriminación.
 
-(…)
+    (…)
 
 ### 5. Entorno familiar y otros tipos de tutela
 
@@ -97,28 +97,28 @@ discriminación.
 45. Teniendo en cuenta el artículo 19 de la Convención, el Comité
 recomienda al Estado Parte que:
 
-a) Realice estudios sobre la violencia doméstica, la violencia contra los
-niños, el maltrato y el abuso, incluido el abuso sexual, y extienda el
-sistema de reunión de datos a todo el país para llevar un registro de los
-casos de violencia física y mental y de descuido de que son víctimas los
-niños, para evaluar la magnitud, el alcance y la naturaleza de esas
-prácticas;
+    a) Realice estudios sobre la violencia doméstica, la violencia contra los
+    niños, el maltrato y el abuso, incluido el abuso sexual, y extienda el
+    sistema de reunión de datos a todo el país para llevar un registro de los
+    casos de violencia física y mental y de descuido de que son víctimas los
+    niños, para evaluar la magnitud, el alcance y la naturaleza de esas
+    prácticas;
 
-(…)
+    (…)
 
-c) Investigue eficazmente los casos de violencia doméstica y de maltrato y
-abuso de niños, incluido el abuso sexual en la familia, en el marco de una
-investigación y un procedimiento judicial que tengan en cuenta los
-intereses del niño, para mejorar la protección de las víctimas infantiles,
-que incluya la protección de su derecho a la vida privada;
+    c) Investigue eficazmente los casos de violencia doméstica y de maltrato y
+    abuso de niños, incluido el abuso sexual en la familia, en el marco de una
+    investigación y un procedimiento judicial que tengan en cuenta los
+    intereses del niño, para mejorar la protección de las víctimas infantiles,
+    que incluya la protección de su derecho a la vida privada;
 
-d) Refuerce las medidas para prestar servicios de apoyo a los niños en los
-procesos judiciales y favorecer la recuperación física y psicológica y la
-reintegración social de las víctimas de violaciones, abusos, descuido,
-malos tratos y violencia, de conformidad con el artículo 39 de la
-Convención.
+    d) Refuerce las medidas para prestar servicios de apoyo a los niños en los
+    procesos judiciales y favorecer la recuperación física y psicológica y la
+    reintegración social de las víctimas de violaciones, abusos, descuido,
+    malos tratos y violencia, de conformidad con el artículo 39 de la
+    Convención.
 
-(…)
+    (…)
 
 ### 6. Salud básica y bienestar
 
@@ -126,17 +126,17 @@ Convención.
 
 47. El Comité recomienda al Estado Parte que:
 
-(…)
+    (…)
 
-b) Para reducir aún más las tasas de mortalidad y morbilidad infantiles y
-de mortalidad materna, adopte medidas para aplicar la Ley de salud
-reproductiva y procreación responsable, de julio de 2000; y
+    b) Para reducir aún más las tasas de mortalidad y morbilidad infantiles y
+    de mortalidad materna, adopte medidas para aplicar la Ley de salud
+    reproductiva y procreación responsable, de julio de 2000; y
 
-c) Preste servicios adecuados de atención sanitaria prenatal y postnatal y
-organice campañas para informar a los padres acerca de la salud básica y la
-nutrición del niño, las ventajas del amamantamiento, la higiene y el
-saneamiento ambiental, la planificación de la familia y la salud
-reproductiva, especialmente en las provincias.
+    c) Preste servicios adecuados de atención sanitaria prenatal y postnatal y
+    organice campañas para informar a los padres acerca de la salud básica y la
+    nutrición del niño, las ventajas del amamantamiento, la higiene y el
+    saneamiento ambiental, la planificación de la familia y la salud
+    reproductiva, especialmente en las provincias.
 
 (…)
 
@@ -144,24 +144,24 @@ reproductiva, especialmente en las provincias.
 
 51. El Comité recomienda al Estado Parte que:
 
-a) Revise y reactive sus programas de lucha contra el VIH/SIDA e
-intensifique sus esfuerzos para promover las políticas de salud del
-adolescente. Debería prestarse debidamente atención a la salud reproductiva
-y se debería potenciar aún más el programa de educación sanitaria y sexual
-en las escuelas.
+    a) Revise y reactive sus programas de lucha contra el VIH/SIDA e
+    intensifique sus esfuerzos para promover las políticas de salud del
+    adolescente. Debería prestarse debidamente atención a la salud reproductiva
+    y se debería potenciar aún más el programa de educación sanitaria y sexual
+    en las escuelas.
 
-(…)
+    (…)
 
-c) Adopte nuevas medidas, como la asignación de recursos humanos y
-financieros suficientes, para evaluar la eficacia de los programas de
-formación en materia de educación sanitaria, en particular en lo que
-respecta a la salud reproductiva, y para establecer servicios de
-asesoramiento, atención y rehabilitación de carácter confidencial, que
-tengan en cuenta los intereses de los adolescentes y a los que se pueda
-recurrir sin el consentimiento de los padres cuando así lo exija el interés
-superior del menor.
+    c) Adopte nuevas medidas, como la asignación de recursos humanos y
+    financieros suficientes, para evaluar la eficacia de los programas de
+    formación en materia de educación sanitaria, en particular en lo que
+    respecta a la salud reproductiva, y para establecer servicios de
+    asesoramiento, atención y rehabilitación de carácter confidencial, que
+    tengan en cuenta los intereses de los adolescentes y a los que se pueda
+    recurrir sin el consentimiento de los padres cuando así lo exija el interés
+    superior del menor.
 
-(…)
+    (…)
 
 ### 8. Medidas especiales de protección
 
@@ -170,19 +170,19 @@ superior del menor.
 61. Teniendo en cuenta los artículos 32 a 36 de la Convención, el Comité
 recomienda al Estado Parte que:
 
-a) Realice un estudio sobre la cuestión de la explotación sexual comercial
-y la trata de niños para evaluar su alcance y sus causas y elaborar medidas
-eficaces de control y otras medidas preventivas;
+    a) Realice un estudio sobre la cuestión de la explotación sexual comercial
+    y la trata de niños para evaluar su alcance y sus causas y elaborar medidas
+    eficaces de control y otras medidas preventivas;
 
-b) Combata y elimine la explotación sexual comercial y la trata de niños,
-entre otras cosas poniendo en práctica el Plan Nacional de Acción y
-elaborando programas de integración social y políticas y programas de
-rehabilitación y recuperación de las víctimas infantiles, de conformidad
-con la Declaración y Programa de Acción y el Compromiso Mundial a probados
-en los Congresos Mundiales contra la Explotación Sexual Comercial de los
-Niños de 1996 y 2001.
+    b) Combata y elimine la explotación sexual comercial y la trata de niños,
+    entre otras cosas poniendo en práctica el Plan Nacional de Acción y
+    elaborando programas de integración social y políticas y programas de
+    rehabilitación y recuperación de las víctimas infantiles, de conformidad
+    con la Declaración y Programa de Acción y el Compromiso Mundial a probados
+    en los Congresos Mundiales contra la Explotación Sexual Comercial de los
+    Niños de 1996 y 2001.
 
-(…)
+    (…)
 
 ### 9. Protocolos Facultativos
 
@@ -356,11 +356,11 @@ urbanos o en situación de calle en el país y los niños de origen migrante.
 32. **El Comité insta al Estado parte a incrementar sus esfuerzos de lucha
 contra:**
 
-a) **La discriminación, la exclusión social, el maltrato físico y psicológico
-y el abuso sexual de los grupos de niños vulnerables, en particular los
-niños indígenas; y**
+    a) **La discriminación, la exclusión social, el maltrato físico y psicológico
+    y el abuso sexual de los grupos de niños vulnerables, en particular los
+    niños indígenas; y**
 
-(…)
+    (…)
 
 33. **El Comité pide además que en el próximo informe periódico se incluya
 información específica sobre los programas y medidas aplicados por el
@@ -371,7 +371,7 @@ Racial, la Xenofobia y las Formas Conexas de Intolerancia, en 2001,
 teniendo en cuenta la Observación general Nº 1 (2001) del Comité, relativa
 a los propósitos de la educación.**
 
-(…)
+    (…)
 
 #### 3. Derechos y libertades civiles (artículos 7, 8, 13 a 17, 19 y 37 a) de la Convención)
 
@@ -382,32 +382,32 @@ a los propósitos de la educación.**
 48. **Con referencia al Estudio de las Naciones Unidas sobre la violencia
 contra los niños (A/61/299), el Comité recomienda al Estado parte que:**
 
-a) **Adopte todas las medidas necesarias para dar curso a las recomendaciones
-que figuran en el informe del Experto independiente para el estudio de las
-Naciones Unidas sobre la violencia contra los niños, teniendo en cuenta a
-la vez los resultados y recomendaciones de las consultas regionales para
-América Latina celebradas en Buenos Aires del 30 de mayo al 1º de junio de
-2005. En particular, el Comité recomienda al Estado parte que preste
-especial atención a las siguientes recomendaciones:**
+    a) **Adopte todas las medidas necesarias para dar curso a las recomendaciones
+    que figuran en el informe del Experto independiente para el estudio de las
+    Naciones Unidas sobre la violencia contra los niños, teniendo en cuenta a
+    la vez los resultados y recomendaciones de las consultas regionales para
+    América Latina celebradas en Buenos Aires del 30 de mayo al 1º de junio de
+    2005. En particular, el Comité recomienda al Estado parte que preste
+    especial atención a las siguientes recomendaciones:**
 
-* **Prohibir por ley todas las formas de violencia contra los niños, incluidos los castigos corporales, en todos los ámbitos;**
+    * **Prohibir por ley todas las formas de violencia contra los niños, incluidos los castigos corporales, en todos los ámbitos;**
 
-* **Dar prioridad a la prevención y promover los valores no violentos y la concienciación;**
+    * **Dar prioridad a la prevención y promover los valores no violentos y la concienciación;**
 
-* **Garantizar la responsabilidad y poner fin a la impunidad;**
+    * **Garantizar la responsabilidad y poner fin a la impunidad;**
 
-* **Atender a la dimensión de género de la violencia contra los niños;**
+    * **Atender a la dimensión de género de la violencia contra los niños;**
 
-* **Planear y realizar a nivel nacional labores sistemáticas de reunión de datos e investigación sobre la violencia contra las mujeres, los niños y los adolescentes.**
+    * **Planear y realizar a nivel nacional labores sistemáticas de reunión de datos e investigación sobre la violencia contra las mujeres, los niños y los adolescentes.**
 
-b) **Utilice esas recomendaciones como instrumento de acción, en colaboración
-con la sociedad civil y en particular con la participación de los niños,
-para lograr que todos los niños estén protegidos contra todas las formas de
-violencia física, sexual y psicológica y ganar impulso para realizar
-intervenciones prácticas y, cuando proceda, con plazos fijados para
-prevenir la violencia y los abusos mencionados y reprimirlos.**
+    b) **Utilice esas recomendaciones como instrumento de acción, en colaboración
+    con la sociedad civil y en particular con la participación de los niños,
+    para lograr que todos los niños estén protegidos contra todas las formas de
+    violencia física, sexual y psicológica y ganar impulso para realizar
+    intervenciones prácticas y, cuando proceda, con plazos fijados para
+    prevenir la violencia y los abusos mencionados y reprimirlos.**
 
-(…)
+    (…)
 
 ##### Malos tratos y descuido
 
@@ -444,7 +444,7 @@ tramitar, investigar y enjuiciar las denuncias sobre violencia y descuido
 de niños de una manera favorable al niño y que permita aplicar una
 perspectiva de género.**
 
-(…)
+    (…)
 
 ##### Salud y acceso a los servicios de salud
 
@@ -467,27 +467,27 @@ una violación, prevista en el artículo 86 del Código Penal.
 
 59. **El Comité recomienda al Estado parte que:**
 
-a) **Incremente sus esfuerzos para promover la salud materna e
-infantil, incluso durante el embarazo y el parto;**
+    a) **Incremente sus esfuerzos para promover la salud materna e
+    infantil, incluso durante el embarazo y el parto;**
 
-(…)
+    (…)
 
-c) **Realice un estudio de los factores determinantes del elevado porcentaje
-y las tasas estables de mortalidad materna y neonatal, y trate urgentemente
-de eliminarlos;**
+    c) **Realice un estudio de los factores determinantes del elevado porcentaje
+    y las tasas estables de mortalidad materna y neonatal, y trate urgentemente
+    de eliminarlos;**
 
-d) **Adopte medidas urgentes para reducir la mortalidad materna relacionadas
-con el aborto, en particular velando por que la profesión médica conozca y
-practique el aborto no punible, especialmente en el caso de las niñas y
-mujeres víctimas de violación, sin intervención de los tribunales y a
-petición de ellas;**
+    d) **Adopte medidas urgentes para reducir la mortalidad materna relacionadas
+    con el aborto, en particular velando por que la profesión médica conozca y
+    practique el aborto no punible, especialmente en el caso de las niñas y
+    mujeres víctimas de violación, sin intervención de los tribunales y a
+    petición de ellas;**
 
-e) **Enmiende el artículo 86 del Código Penal en el ámbito nacional
-para prevenir las disparidades en la legislación provincial vigente y en la
-nueva en lo que respecta al aborto legal; y**
+    e) **Enmiende el artículo 86 del Código Penal en el ámbito nacional
+    para prevenir las disparidades en la legislación provincial vigente y en la
+    nueva en lo que respecta al aborto legal; y**
 
-f) **Solicite asistencia técnica al UNICEF y a la Organización Mundial de
-la Salud, entre otras entidades.**
+    f) **Solicite asistencia técnica al UNICEF y a la Organización Mundial de
+    la Salud, entre otras entidades.**
 
 ##### Lactancia materna
 
@@ -536,7 +536,7 @@ esa cuestión. El Comité recomienda especialmente al Estado parte que se
 ocupe de la prevención de los problemas relacionados con la salud y los
 estilos de vida de los adolescentes, en consulta con éstos.**
 
-(…)
+    (…)
 
 #### 7. Medidas especiales de protección (artículos 22, 38, 39, 40, 37 b) y d), 30, y 32 a 36 de la Convención)
 
@@ -558,26 +558,26 @@ trata, que podría generar impunidad.
 
 76. **El Comité recomienda al Estado parte que:**
 
-a) **Ponga en práctica el Plan Nacional de Acción contra la trata, la
-explotación sexual y los abusos sexuales;**
+    a) **Ponga en práctica el Plan Nacional de Acción contra la trata, la
+    explotación sexual y los abusos sexuales;**
 
-b) **Refuerce las medidas legislativas para resolver los problemas de
-abuso sexual y explotación sexual;**
+    b) **Refuerce las medidas legislativas para resolver los problemas de
+    abuso sexual y explotación sexual;**
 
-c) **Adopte medidas apropiadas para garantizar el pronto enjuiciamiento
-de los autores de delitos sexuales cometidos contra niños;**
+    c) **Adopte medidas apropiadas para garantizar el pronto enjuiciamiento
+    de los autores de delitos sexuales cometidos contra niños;**
 
-d) **Vele por que los niños víctimas de explotación o abuso sexual no
-sean criminalizados ni penalizados; y**
+    d) **Vele por que los niños víctimas de explotación o abuso sexual no
+    sean criminalizados ni penalizados; y**
 
-e) **Siga implementando programas y políticas apropiados de prevención
-y recuperación y reintegración social de los niños víctimas, de conformidad
-con la Declaración y el Programa de Acción y el Compromiso Mundial
-aprobados en los congresos mundiales contra la explotación sexual comercial
-de los niños de 1996, 2001 y 2008, así como los resultados de las demás
-conferencias internacionales sobre esta cuestión.**
+    e) **Siga implementando programas y políticas apropiados de prevención
+    y recuperación y reintegración social de los niños víctimas, de conformidad
+    con la Declaración y el Programa de Acción y el Compromiso Mundial
+    aprobados en los congresos mundiales contra la explotación sexual comercial
+    de los niños de 1996, 2001 y 2008, así como los resultados de las demás
+    conferencias internacionales sobre esta cuestión.**
 
-(…)
+    (…)
 
 ##### Protección de los testigos y las víctimas de delitos
 

@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 categories:
-  - "Argentina"
+   - "Argentina"
 ---
 # Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas
 
@@ -10,13 +10,13 @@ categories:
 
 235. El Comité examinó el informe inicial de la Argentina sobre los derechos reconocidos en los artículos 13 a 15 del Pacto (E/1988/5/Add.4) en sus sesiones 18ª a 20ª, celebradas los días 26 y 29 de enero de 1990 (E/CN.4/1990/SR. 18 a 20)
 
-_Si bien, el Comité manifestó preocupación por (245) el número inferior de niñas respecto de niños en la enseñanza primaria, no se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
+     _Si bien, el Comité manifestó preocupación por (245) el número inferior de niñas respecto de niños en la enseñanza primaria, no se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
 
 ## 2º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas en noviembre de 1994.[^DESC-2]
 
 1. El Comité consideró el segundo informe periódico de la República de Argentina sobre los artículos 6 a 12 del Pacto (E/1990/5/Add.18) en las sesiones 301, 311 y 341 del 22 y 24 de noviembre de 1994 y adoptó las siguientes observaciones finales.
 
-_No se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
+   _No se relevan observaciones ni recomendaciones referidas a las mujeres y las niñas._
 
 ## 3º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas el 1 de diciembre de 1999.[^DESC-3]
 
@@ -33,10 +33,6 @@ _El Comité expresó los siguientes motivos de preocupación (14, 17, 24, 25): q
 
 39. **El Comité insta al Estado Parte a intensificar su lucha contra el problema de la violencia contra la mujer, en particular la violencia doméstica.**
 
-[^DESC-1]: (15 de enero a 2 de febrero 1990); E/1990/23 - E/C.12/1990/3, par.
-[^DESC-2]: E/C.12/1994/14, 19 de diciembre de 1994
-[^DESC-3]: E/C.12/1/Add.38, 8 de diciembre de 1999
-
 ## 4º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas el 2 de diciembre de 2011.[^DESC-4]
 
 1. El Comité de Derechos Económicos, Sociales y Culturales examinó el reporte del Estado parte en la implementación de la Convención Internacional de los Derechos Económicos, Sociales y Culturales (E/C.12/ARG/3) en sus sesiones 44a a 46a, celebradas el 23 y 24 de Noviembre de 2011 (E/C.12/2011/SR.44-46), y aprobó, en sus sesiones 59a celebradas el 2 de Diciembre de 2011, las observaciones finales que figuran a continuación.
@@ -46,9 +42,6 @@ _El Comité expresó los siguientes motivos de preocupación (14, 17, 24, 25): q
 (…)
 
 14. El Comité reitera su preocupación por las desigualdades persistentes en el goce de los derechos económicos, sociales y culturales entre hombres y mujeres, en particular en el ámbito del empleo (E/C.12/1/Add.38 párr. 17) (arts. 3 y 10).
-
-[^DESC-4]: E/C.12/ARG/CO/3, 2 de diciembre de 2011.
-[^DESC-5]: Las recomendaciones se encuentran en negrita.
 
 **El Comité insta al Estado parte a que refuerce las medidas legislación y otras para luchar con eficacia para la igualdad de derechos entre hombres y mujeres en la práctica y para combatir todas las formas de discriminación contra la mujer. En este sentido, el Comité recuerda su Observación General N º 16 (2005) sobre la igualdad de derechos de hombres y mujeres en el goce de los derechos económicos, sociales y culturales. El Comité reitera su recomendación anterior de que el Estado Parte intensifique sus esfuerzos para promover la igualdad de género en todas las esferas de la vida. Con respecto al empleo, el Comité alienta al Estado Parte a que considere las opciones legales, la capacitación y servicios que permitan a hombres y mujeres reconciliar sus responsabilidades profesionales y familiares. También exhorta al Estado parte a promover el empleo de las mujeres en el sector formal de la economía.**
 
@@ -79,3 +72,8 @@ _El Comité expresó los siguientes motivos de preocupación (14, 17, 24, 25): q
 **El Comité recomienda al Estado parte que ratifique y aplique el Convenio Marco para el Control del Tabaco y desarrollar una efectiva concientización pública y las políticas fiscales y precios para reducir el consumo de tabaco, en particular dirigido a las mujeres y los jóvenes.**
 
 
+[^DESC-1]: (15 de enero a 2 de febrero 1990); E/1990/23 - E/C.12/1990/3, par.
+[^DESC-2]: E/C.12/1994/14, 19 de diciembre de 1994
+[^DESC-3]: E/C.12/1/Add.38, 8 de diciembre de 1999
+[^DESC-4]: E/C.12/ARG/CO/3, 2 de diciembre de 2011.
+[^DESC-5]: Las recomendaciones se encuentran en negrita.
