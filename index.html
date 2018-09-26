@@ -9,7 +9,7 @@ layout: default
 
 {% for category in site.categories %}
   <dl>
-    <dt><a href="{{ site.baseurl }}/{{ category | slugify }}">{{ category }}</a></dt>
+    <dt><a href="{{ site.baseurl }}/{{ category[0] | slugify }}/">{{ category[0] }}</a></dt>
   </dl>
 {% endfor %}
 
