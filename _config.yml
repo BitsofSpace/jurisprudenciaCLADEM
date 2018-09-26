@@ -1,3 +1,11 @@
+# Site's metadata
+logo:
+title: Jurisprudencia CLADEM
+tagline:
+author:
+email:
+lang:
+
 url: https://jurisprudencia.cladem.org
 license:
   type: 'CC-BY-SA'
