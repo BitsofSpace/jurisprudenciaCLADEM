@@ -1,6 +1,6 @@
 # Site's metadata
 logo:
-title: Jurisprudencia CLADEM
+title: Jurisprudencia sobre derechos humanos de las mujeres
 tagline:
 author:
 email:
@@ -68,8 +68,11 @@ pandoc:
           --pdf-engine=xelatex
           --table-of-contents'
     epub: '--epub-chapter-level=2
-           --epub-embed-font=fonts/robotoslab/robotoslabbold.ttf
-           --epub-embed-font=fonts/robotoslab/robotoslabregular.ttf'
+           --epub-embed-font=fonts/Formata-Regular.otf
+           --epub-embed-font=fonts/Formata-Light.otf
+           --epub-embed-font=fonts/Formata-Italic.otf
+           --epub-embed-font=fonts/Formata-BoldItalic.otf
+           --epub-embed-font=fonts/Formata-Bold.otf'
 
 plugins:
   - jekyll-archives
