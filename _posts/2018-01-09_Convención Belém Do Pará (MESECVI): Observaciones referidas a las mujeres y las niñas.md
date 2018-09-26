@@ -1,3 +1,9 @@
+---
+layout: apartado
+title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
+categories:
+  - "Argentina"
+---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 
 ## 1º INFORME FINAL SOBRE ARGENTINA[^65] - 26 marzo 2012
