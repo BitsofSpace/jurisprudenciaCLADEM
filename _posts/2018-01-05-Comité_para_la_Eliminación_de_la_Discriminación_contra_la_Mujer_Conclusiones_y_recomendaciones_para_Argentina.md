@@ -81,7 +81,12 @@ un cargo parlamentario. También se señaló que las mujeres constituían el
 si dichos cursos constituían una medida de emergencia para reducir las
 tasas de deserción escolar.
 
-364. **Se pidieron aclaraciones sobre la participación de la Subsecretaría en las actividades del Ministerio de Salud. Se pidieron detalles sobre el sistema general de atención de la salud, el derecho de aborto y el seguro médico para las madres solteras. También se preguntó si las empleadas domésticas recibían prestaciones sociales y si existían prestaciones de desempleo.**
+364. **Se pidieron aclaraciones sobre la participación de la
+Subsecretaría en las actividades del Ministerio de Salud. Se
+pidieron detalles sobre el sistema general de atención de la salud,
+el derecho de aborto y el seguro médico para las madres solteras.
+También se preguntó si las empleadas domésticas recibían
+prestaciones sociales y si existían prestaciones de desempleo.**
 
 365. Algunos miembros del Comité formularon observaciones sobre la
 declaración contenida en el informe acerca del efecto de las nuevas
@@ -587,7 +592,7 @@ tercer período extraordinario de sesiones de la Asamblea General titulado
 “La mujer en el año 2000: igualdad entre los géneros, desarrollo y paz para
 el siglo XXI”.**
 
-## 5º Observaciones finales sobre el sexto informe presentado por el Estado adoptadas el 13 de julio de 2010.[^CEDMArg-15]
+## 5º Observaciones finales sobre el sexto informe presentado por el Estado adoptadas el 13 de julio de 2010.[^CEDMArg-15a]
 
 1. El Comité examinó el sexto informe periódico de la Argentina
 (CEDAW/C/ARG/6) en sus sesiones 926ª y 927ª, celebradas el 13 de julio de
@@ -611,7 +616,7 @@ presentes observaciones finales a todos los ministerios pertinentes, al
 parlamento y a las autoridades judiciales, a fin de que se pongan en
 práctica íntegramente.**
 
-[^CEDMArg-15]: CEDAW/C/ARG/CO/6, 16 de agosto de 2010
+[^CEDMArg-15a]: CEDAW/C/ARG/CO/6, 16 de agosto de 2010
 [^CEDMArg-16]: Las recomendaciones se encuentran en negrita.
 
 ### Parlamento
