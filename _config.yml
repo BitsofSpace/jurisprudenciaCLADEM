@@ -51,9 +51,6 @@ pandoc:
   flags: '--section-divs --email-obfuscation=references'
 # Flags applied only to HTML
   site_flags: ''
-  lang:
-    es:
-      epub: '--css=epub.es.css -V rights="© 2018 CLADEM. CC-BY-SA 4.0 Internacional https://creativecommons.org/licenses/by-sa/4.0/deed.es"'
 
 # Formats and their specific flags
   outputs:
@@ -74,6 +71,7 @@ pandoc:
            --epub-embed-font=fonts/Formata-Italic.otf
            --epub-embed-font=fonts/Formata-BoldItalic.otf
            --epub-embed-font=fonts/Formata-Bold.otf'
+           --css=epub.css -V rights="© 2018 CLADEM. CC-BY-SA 4.0 Internacional https://creativecommons.org/licenses/by-sa/4.0/deed.es"'
 
 plugins:
   - jekyll-archives
