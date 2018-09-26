@@ -6,8 +6,7 @@ categories:
 ---
 # Comité para la Eliminación de la Discriminación Racial: conclusiones y recomendaciones para Argentina
 
-## 1º Observaciones finales sobre el primer y segundo informes presentado por el
-Estado adoptadas el 10 de noviembre de 1971.[^CEDR-1]
+## 1º Observaciones finales sobre el primer y segundo informes presentado por el Estado adoptadas el 10 de noviembre de 1971.[^CEDR-1]
 
 84. El Comité, en su tercer período de sesiones, examinó el informe inicial
 de Argentina, de fecha 30 de diciembre de 1969, juntamente con un informe
@@ -175,11 +174,12 @@ observaciones finales.
 14. Al Comité le preocupa la información recibida sobre trata de migrantes,
 especialmente de mujeres migrantes explotadas como trabajadoras sexuales.
 
-El Comité insta al Estado Parte a elaborar políticas amplias y a asignar
-recursos suficientes para prevenir, investigar y castigar esos delitos, así
-como a prestar asistencia y apoyo a las víctimas, y recomienda que el
-Estado Parte facilite en su próximo informe periódico más información sobre
-la vulnerable situación de las mujeres migrantes e indígenas.
+    El Comité insta al Estado Parte a elaborar políticas amplias y a
+    asignar recursos suficientes para prevenir, investigar y castigar
+    esos delitos, así como a prestar asistencia y apoyo a las víctimas,
+    y recomienda que el Estado Parte facilite en su próximo informe
+    periódico más información sobre la vulnerable situación de las
+    mujeres migrantes e indígenas.
 
 
 ## 12º Observaciones finales sobre el décimo noveno y vigésimo informe presentado por el Estado adoptadas en febrero de 2010.[^CEDR-12] 
@@ -198,13 +198,13 @@ observaciones finales.
 28. El Comité nota con preocupación la baja participación de los pueblos
 indígenas en la vida política y su escasa representación en el Parlamento.
 
-El Comité, tomando en cuenta el inciso d del párrafo 4 de su Recomendación
-general N.º 23, aprobada en 1997, relativa a los derechos de los pueblos
-indígenas, recomienda que el Estado parte redoble sus esfuerzos para
-asegurar la plena participación de los indígenas, en especial de la mujer,
-en los asuntos públicos, y que tome medidas efectivas para asegurar que
-todos los pueblos indígenas participen en todos los niveles de la
-administración pública.
+    El Comité, tomando en cuenta el inciso d del párrafo 4 de su
+    Recomendación general N.º 23, aprobada en 1997, relativa a los
+    derechos de los pueblos indígenas, recomienda que el Estado parte
+    redoble sus esfuerzos para asegurar la plena participación de los
+    indígenas, en especial de la mujer, en los asuntos públicos, y que
+    tome medidas efectivas para asegurar que todos los pueblos indígenas
+    participen en todos los niveles de la administración pública.
 
 
 ## 13º Observaciones finales sobre los informes periódicos 21º a 23º combinados de la Argentina[^CEDR-14]
