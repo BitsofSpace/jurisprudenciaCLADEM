@@ -150,7 +150,7 @@ li p {
 }
 
 li p {
-  display: inline;
+  text-indent: 0;
 }
 
 blockquote span.citation:before {
