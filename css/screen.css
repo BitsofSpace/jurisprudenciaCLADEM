@@ -200,3 +200,15 @@ tbody tr:nth-child(odd) {
   padding: 0;
   text-indent: 0;
 }
+
+li {
+  font-size: 1rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
