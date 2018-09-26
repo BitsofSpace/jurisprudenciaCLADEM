@@ -1,5 +1,5 @@
 {% for category in page.categories %}
-  <a href="{{ site.baseurl }}/categoria/{{ category | slugify }}/"
+  <a href="{{ site.baseurl }}{{ category | to_category_url }}"
      title="{{ category }}">{{ category }}</a>
   {% if category != page.categories.last %}
     /
