@@ -55,7 +55,7 @@ pandoc:
 # Formats and their specific flags
   outputs:
     pdf: '-V fontsize=10pt,twoside
-          -V mainfont="Formata Light"
+          -V mainfont="fonts/Formata-Light.otf"
           -V documentclass=book
           -V geometry=hcentering
           -V links-as-notes=true
