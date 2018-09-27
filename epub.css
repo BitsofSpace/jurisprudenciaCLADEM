@@ -1,5 +1,6 @@
-@font-face { font-family: "Formata Regular"; font-style: normal; font-weight: bold; src:url(../fonts/Formata-Regular.otf); }
-@font-face { font-family: "Formata Light"; font-style: normal; font-weight: normal; src:url(../fonts/Formata-Light.otf); }
+---
+@font-face { font-family: "Formata Regular"; font-style: normal; font-weight: bold; src:url({{ site.baseurl }}/fonts/Formata-Regular.otf); }
+@font-face { font-family: "Formata Light"; font-style: normal; font-weight: normal; src:url({{ site.baseurl }}/fonts/Formata-Light.otf); }
 
 body,
 p, li, blockquote, figure,
@@ -28,4 +29,4 @@ ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 a.footnote-ref { vertical-align: super; }
 em, em em em, em em em em em { font-style: italic;}
 em em, em em em em { font-style: normal; }
-
+---
