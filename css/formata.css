@@ -1,35 +1,33 @@
----
 @font-face {
   font-family: 'Formata Regular';
   font-style: normal;
   font-weight: 400;
-  src: local('Formata Regular'), local('Formata-Regular'), url({{ site.baseurl }}/fonts/Formata-Regular.otf) format('otf');
+  src: local('Formata Regular'), local('Formata-Regular'), url(../fonts/Formata-Regular.otf) format('otf');
 }
 @font-face {
   font-family: 'Formata Light';
   font-style: normal;
   font-weight: 400;
-  src: local('Formata Light'), local('Formata-Light'), url({{ site.baseurl }}/fonts/Formata-Light.otf) format('otf');
+  src: local('Formata Light'), local('Formata-Light'), url(../fonts/Formata-Light.otf) format('otf');
 }
 
 @font-face {
   font-family: 'Formata';
   font-style: normal;
   font-weight: 700;
-  src: local('Formata Bold'), local('Formata-Bold'), url({{ site.baseurl }}/fonts/Formata-Bold.otf) format('otf');
+  src: local('Formata Bold'), local('Formata-Bold'), url(../fonts/Formata-Bold.otf) format('otf');
 }
 
 @font-face {
   font-family: 'Formata';
   font-style: italic;
   font-weight: 400;
-  src: local('Formata Italic'), local('Formata-Italic'), url({{ site.baseurl }}/fonts/Formata-Italic.otf) format('otf');
+  src: local('Formata Italic'), local('Formata-Italic'), url(../fonts/Formata-Italic.otf) format('otf');
 }
 
 @font-face {
   font-family: 'Formata';
   font-style: italic;
   font-weight: 700;
-  src: local('Formata Bold Italic'), local('Formata-BoldItalic'), url({{ site.baseurl }}/fonts/Formata-BoldItalic.otf) format('otf');
+  src: local('Formata Bold Italic'), local('Formata-BoldItalic'), url(../fonts/Formata-BoldItalic.otf) format('otf');
 }
----
