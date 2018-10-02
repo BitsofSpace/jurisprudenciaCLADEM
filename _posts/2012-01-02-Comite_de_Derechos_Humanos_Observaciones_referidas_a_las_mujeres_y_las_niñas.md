@@ -246,3 +246,46 @@ comunidades indígenas (arts. 16, 24 y 27)
 	inscripción de sus hijos e hijas sin orden judicial. También debe llevar a
 	cabo campañas para el registro de las personas adultas que todavía no han
 	sido registradas.**
+
+[^659] CCPR/C/79/Add.48, 3 de octubre de 1995
+[^660] Artículo 61 - DE LA PLANIFICACIÓN FAMILIAR Y DE LA SALUD MATERNO
+INFANTIL El Estado reconoce el derecho de las personas a decidir libre y
+responsablemente el número y la frecuencia del nacimiento de sus hijos, así
+como a recibir, en coordinación con los organismos pertinentes educación,
+orientación científica y servicios adecuados, en la materia. Se
+establecerán planes especiales de salud reproductiva y salud materna
+infantil para la población de escasos recursos.
+[^661] CCPR/C/PRY/CO/2, 31 de octubre de 2005
+[^662] Las recomendaciones se encuentran en negrita.
+[^663] Por Ley N° 1.160/97 se sancionó el Código Penal, que derogó el que
+estuvo vigente hasta ese momento, que databa de 1910. La reforma introdujo
+la penalización de diversas formas de violencia contra la mujer que no
+existían previamente (acoso sexual, coacción sexual, violencia
+intrafamiliar, trata, etc.). La derogación fue parcial, porque los
+artículos relativos a la penalización del aborto y sus agravantes y
+atenuantes permanecieron vigentes de acuerdo al Código de 1910,
+incompatibles con la Constitución paraguaya de 1992 y con los tratados
+internacionales de derechos humanos. Por Ley N° 213/93 se sancionó el
+Código Laboral, que derogó el de 1961. En 1995, por Ley N° 496, se
+introdujeron varias modificaciones al Código, muchas de ellas relativas a
+la no discriminación de las mujeres en el trabajo. Sin embargo, continuaron
+vigentes las cláusulas discriminatorias hacia el trabajo doméstico
+remunerado.
+[^664] Desde 1997, el Gobierno puso en marcha el I Plan Nacional de Salud
+Sexual y Reproductiva (1997-2001), y posteriormente, el II Plan Nacional de
+Salud Sexual y Reproductiva 2003-2008 fue aprobado por Resolución N° 223/03
+del Ministerio de Salud Pública y declarado de interés nacional y puesta en
+vigencia por Decreto del Poder Ejecutivo N° 1702/04. Desde el 2002, a
+instancias de la Comisión de Equidad, Género y Desarrollo Social se incluye
+en el Presupuesto General de la Nación rubros al Programa de Salud Sexual y
+Reproductiva del Ministerio de Salud Pública y Bienestar Social. Por Ley N°
+2.907/06 que obliga a financiar de manera segura y estable los programas
+Disponibilidad Asegurada de Insumos Anticonceptivos y Aprovisionamiento del
+Kit de Partos, en los rubros de adquisición, mantenimiento, distribución de
+los productos e instrumentales químicos y medicinales. Esta ley garantiza
+el derecho de toda mujer a recibir en forma gratuita el Kit de Parto y los
+insumos de Planificación Familiar. Sin embargo, los servicios públicos de
+salud reproductiva siguen siendo insuficientes y poco accesibles, sobre
+todo en áreas rurales.
+[^665] CCPR/C/PRY/CO/3, 29 de abril de 2013
+[^666] Las recomendaciones se encuentran en negrita.
