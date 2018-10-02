@@ -293,14 +293,14 @@ el ámbito laboral entre hombres y mujeres (art. 3).
     de derechos del hombre y la mujer al disfrute de los derechos económicos,
     sociales y culturales, el Comité recomienda al Estado parte que:**
 
-    a) **Tome medidas para modificar la percepción del papel de los sexos en la
+    a. **Tome medidas para modificar la percepción del papel de los sexos en la
     sociedad, entre otras cosas, mediante campañas de sensibilización sobre el
     igual reparto de las responsabilidades familiares entre hombres y mujeres,
     y sobre la igualdad de oportunidades de carrera como resultado de la
     educación y la formación en materias distintas de aquellas en que
     tradicionalmente predomina uno u otro de los sexos;**
 
-    b) **Tome medidas para cerrar la persistente brecha salarial de género
+    b. **Tome medidas para cerrar la persistente brecha salarial de género
     combatiendo la segregación vertical y horizontal en el empleo, que hace que
     las mujeres ocupen puestos de trabajo mal remunerados y tropiecen con
     obstáculos para acceder a las oportunidades de carrera en las mismas
@@ -347,13 +347,13 @@ en el trabajo doméstico (art. 7).
 
     **El Comité recomienda al Estado parte que:**
 
-    a) **Adopte las medidas necesarias para garantizar a los trabajadores
+    a. **Adopte las medidas necesarias para garantizar a los trabajadores
     domésticos las mismas condiciones laborales que a los demás trabajadores;**
 
-    b) **Establezca un mecanismo de inspección laboral efectivo para la
+    b. **Establezca un mecanismo de inspección laboral efectivo para la
     supervisión de las condiciones de trabajo de los trabajadores domésticos;**
 
-    c) **Establezca mecanismos eficaces para denunciar los abusos y la
+    c. **Establezca mecanismos eficaces para denunciar los abusos y la
     explotación, teniendo en cuenta la vulnerabilidad en que se encuentran
     muchos trabajadores domésticos.**
 
@@ -407,15 +407,15 @@ salud sexual y reproductiva e información adecuados (art. 12).
 
     **El Comité recomienda al Estado parte que:**
 
-    a) **Agilice la adopción del proyecto de ley sobre la interrupción voluntaria
+    a. **Agilice la adopción del proyecto de ley sobre la interrupción voluntaria
     del embarazo y garantice su compatibilidad con derechos fundamentales como
     el de la salud y la vida de la mujer, considerando la ampliación de las
     circunstancias permitidas;**
 
-    b) **Redoble sus esfuerzos para asegurar la accesibilidad, disponibilidad y
+    b. **Redoble sus esfuerzos para asegurar la accesibilidad, disponibilidad y
     asequibilidad de los servicios de salud sexual y reproductiva, incluyendo
     la entrega de contraceptivos de emergencia;**
 
-    c) **Amplíe y refuerce la educación, integral y apropiada a cada edad, sobre
+    c. **Amplíe y refuerce la educación, integral y apropiada a cada edad, sobre
     salud sexual y reproductiva en los programas escolares de la enseñanza
     primaria y secundaria para ambos sexos.**
