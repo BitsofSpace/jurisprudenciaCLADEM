@@ -2,7 +2,7 @@
 layout: apartado
 title: "Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas"
 categories:
-   - "El Salvador"
+   - "El_Salvador"
 ---
 # Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas
 

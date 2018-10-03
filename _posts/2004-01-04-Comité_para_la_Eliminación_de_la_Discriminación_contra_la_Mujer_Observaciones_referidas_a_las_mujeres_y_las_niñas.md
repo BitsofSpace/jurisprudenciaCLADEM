@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas"
 categories:
-   - "Costa Rica"
+   - "Costa_Rica"
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 

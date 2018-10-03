@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Formata Regular';
+  src: url('../../Formata-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'Formata Light';
+  src: url('../../Formata-Light.otf') format('opentype');
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Formata Bold';
+  src: url('../../Formata-Bold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+

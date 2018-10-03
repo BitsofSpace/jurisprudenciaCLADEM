@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 categories:
-   - "El Salvador"
+   - "El_Salvador"
 ---
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
 

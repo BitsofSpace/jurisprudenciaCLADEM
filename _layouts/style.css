@@ -1,0 +1,2 @@
+{% include css/formata.css %}
+{{ content }}

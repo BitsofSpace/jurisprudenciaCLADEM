@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas"
 categories:
- - "El Salvador"
+ - "El_Salvador"
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 

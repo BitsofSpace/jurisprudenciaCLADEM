@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 categories:
-   - "Costa Rica"
+   - "Costa_Rica"
 ---
 # Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
 

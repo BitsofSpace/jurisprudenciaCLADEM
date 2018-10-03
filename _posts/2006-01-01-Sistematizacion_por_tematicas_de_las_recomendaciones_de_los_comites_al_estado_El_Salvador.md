@@ -2,7 +2,7 @@
 layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado El Salvador"
 categories:
-   - "El Salvador"
+   - "El_Salvador"
 ---
 # SISTEMATIZACIÓN POR TEMÁTICAS DE LAS RECOMENDACIONES DE LOS COMITÉS AL ESTADO EL SALVADOR
 

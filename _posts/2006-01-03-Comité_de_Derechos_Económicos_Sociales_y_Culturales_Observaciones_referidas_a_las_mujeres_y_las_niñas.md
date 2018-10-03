@@ -2,7 +2,7 @@
 layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 categories:
-   - "El Salvador"
+   - "El_Salvador"
 ---
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas
 
