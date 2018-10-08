@@ -60,16 +60,17 @@ pandoc:
           -V links-as-notes=true
           -V subparagraph
           -V graphics
+          -V mainfont="Formata"
           --include-before-body=_layouts/license.tex
           --include-in-header=_layouts/header.tex
           --pdf-engine=xelatex
           --table-of-contents'
     epub: '--epub-chapter-level=2
-           --epub-embed-font=fonts/Formata-Regular.otf
-           --epub-embed-font=fonts/Formata-Light.otf
-           --epub-embed-font=fonts/Formata-Italic.otf
-           --epub-embed-font=fonts/Formata-BoldItalic.otf
-           --epub-embed-font=fonts/Formata-Bold.otf
+           --epub-embed-font=fonts/formata/Formata-Regular.otf
+           --epub-embed-font=fonts/formata/Formata-Light.otf
+           --epub-embed-font=fonts/formata/Formata-Italic.otf
+           --epub-embed-font=fonts/formata/Formata-BoldItalic.otf
+           --epub-embed-font=fonts/formata/Formata-Bold.otf
            --css=epub.css -V rights="© 2018 CLADEM. CC-BY-SA 4.0 Internacional https://cladem.org"'
 
 plugins:

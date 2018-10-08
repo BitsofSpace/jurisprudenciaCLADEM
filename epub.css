@@ -1,6 +1,7 @@
 ---
-@font-face { font-family: "Formata Regular"; font-style: normal; font-weight: bold; src:url(fonts/Formata-Regular.otf); }
-@font-face { font-family: "Formata Light"; font-style: normal; font-weight: normal; src:url(fonts/Formata-Light.otf); }
+---
+@font-face { font-family: "Formata Regular"; font-style: normal; font-weight: bold; src:url(fonts/formata/Formata-Regular.otf); }
+@font-face { font-family: "Formata Light"; font-style: normal; font-weight: normal; src:url(fonts/formata/Formata-Light.otf); }
 
 body,
 p, li, blockquote, figure,
