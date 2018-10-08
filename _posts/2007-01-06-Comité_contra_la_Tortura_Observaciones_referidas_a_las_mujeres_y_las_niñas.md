@@ -1,6 +1,7 @@
 ---
 layout: apartado
 title: "Comité contra la Tortura: Observaciones referidas a las mujeres y las niñas"
+cover: img/portada.png
 categories:
    - "Guatemala"
 ---

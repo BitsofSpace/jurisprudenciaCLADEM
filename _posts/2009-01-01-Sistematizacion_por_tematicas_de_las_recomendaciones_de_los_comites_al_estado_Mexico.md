@@ -1,6 +1,7 @@
 ---
 layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado de México"
+cover: img/portada.png
 categories:
    - "México"
 ---

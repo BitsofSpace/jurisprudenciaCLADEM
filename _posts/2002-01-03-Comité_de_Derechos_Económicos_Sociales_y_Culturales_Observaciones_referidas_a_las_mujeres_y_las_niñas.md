@@ -1,6 +1,7 @@
 ---
 layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas"
+cover: img/portada.png
 categories:
    - "Bolivia"
 ---

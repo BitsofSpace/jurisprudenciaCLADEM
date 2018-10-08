@@ -1,6 +1,7 @@
 ---
 layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
+cover: img/portada.png
 categories:
    - "Costa_Rica"
 ---
