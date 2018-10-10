@@ -3,7 +3,7 @@ layout: apartado
 title: "Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "El_Salvador"
+   - "El-Salvador"
 ---
 # Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas
 

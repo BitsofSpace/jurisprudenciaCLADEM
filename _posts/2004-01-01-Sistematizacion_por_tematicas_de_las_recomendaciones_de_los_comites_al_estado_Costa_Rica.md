@@ -3,7 +3,7 @@ layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado Costa Rica"
 cover: img/portada.png
 categories:
-   - "Costa_Rica"
+   - "Costa-Rica"
 ---
 # SISTEMATIZACIÓN POR TEMÁTICAS DE LAS RECOMENDACIONES DE LOS COMITÉS AL ESTADO COSTA RICA
 

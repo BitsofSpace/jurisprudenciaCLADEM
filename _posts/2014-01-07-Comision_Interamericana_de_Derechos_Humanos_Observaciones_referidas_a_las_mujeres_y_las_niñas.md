@@ -3,7 +3,7 @@ layout: apartado
 title: "Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "República-Dominicana"
 ---
 
 # Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas

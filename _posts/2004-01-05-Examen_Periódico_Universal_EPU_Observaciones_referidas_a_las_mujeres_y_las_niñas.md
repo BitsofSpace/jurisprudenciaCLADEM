@@ -3,7 +3,7 @@ layout: apartado
 title: "Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Costa_Rica"
+   - "Costa-Rica"
 ---
 # Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas
 

@@ -3,7 +3,7 @@ layout: apartado
 title: "Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "República-Dominicana"
 ---
 
 # Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas

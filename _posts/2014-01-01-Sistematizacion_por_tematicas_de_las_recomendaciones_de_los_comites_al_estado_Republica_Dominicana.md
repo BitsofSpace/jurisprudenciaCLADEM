@@ -3,7 +3,7 @@ layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado República Dominicana"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "República-Dominicana"
 ---
 # Sistematización por temáticas de las recomendaciones de los comités al estado República Dominicana
 
