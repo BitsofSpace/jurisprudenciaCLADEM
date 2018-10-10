@@ -146,4 +146,4 @@ mujeres y para tener información de calidad que permita hacer análisis
 sobre impacto de la inversión en la respuesta nacional al problema de la
 violencia.
 
-[^778] OEA/Ser.L/II.7.10; MESECVI-IV/doc.86/12
+[^778]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.86/12

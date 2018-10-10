@@ -64,4 +64,4 @@ propósito.
 
 
 
-[^501] OEA/Ser.L/II.7.10; MESECVI-IV/doc.79/12
+[^501]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.79/12

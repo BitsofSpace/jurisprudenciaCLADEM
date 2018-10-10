@@ -124,11 +124,11 @@ violencia contra las mujeres indígenas (art. 2, párr. 2).
 	afrodescendientes. Se recomienda también contar con estadísticas
 	desagregadas al respecto.**
 
-[^455] Suplemento No.18 (A/39/18), 1984
-[^456] Suplemento No. 18 (A/50/18), 1996
-[^457] CERD/C/SLV/CO/13, 21 de marzo de 2006
-[^458] Las recomendaciones se encuentran en negrita.
-[^459] CERD/C/SLV/CO/14-15, 14 de septiembre de 2010
-[^460] Las recomendaciones se encuentran en negrita.
-[^461] CERD/C/SLV/CO/16-17, 25 de septiembrede 2014
-[^462] Las recomendaciones se encuentran en negrita.
+[^455]: Suplemento No.18 (A/39/18), 1984
+[^456]: Suplemento No. 18 (A/50/18), 1996
+[^457]: CERD/C/SLV/CO/13, 21 de marzo de 2006
+[^458]: Las recomendaciones se encuentran en negrita.
+[^459]: CERD/C/SLV/CO/14-15, 14 de septiembre de 2010
+[^460]: Las recomendaciones se encuentran en negrita.
+[^461]: CERD/C/SLV/CO/16-17, 25 de septiembrede 2014
+[^462]: Las recomendaciones se encuentran en negrita.

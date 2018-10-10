@@ -291,23 +291,23 @@ reduciendo el trabajo infantil y velar por que se sancione a quienes
 empleen a niños o niñas en contravención a las disposiciones legislativas
 relativas al trabajo infantil.**
 
-[^338] Suplemento No. 44 (A/32/44), 30 de septiembre de 1977
-[^339] Suplemento No. 40 (A/33/40), 22 de noviembre de 1978
-[^340] Suplemento No. 40 (A/43/40), 28 de septiembre de 1988
-[^341] Suplemento No. 40 (A/47/40), 9 de octubre de 1992
-[^342] En la actualidad esa restricción ya ha sido abolida.
-[^343] Formalmente no persiste ninguna restricción al respecto.
-[^344] CCPR/C/79/Add.92, 18 de agosto de 1998
-[^345] Las recomendaciones se encuentran en negrita.
-[^346] A pesar de la Ley 103 contra la Violencia a la mujer y la familia, la
+[^338]: Suplemento No. 44 (A/32/44), 30 de septiembre de 1977
+[^339]: Suplemento No. 40 (A/33/40), 22 de noviembre de 1978
+[^340]: Suplemento No. 40 (A/43/40), 28 de septiembre de 1988
+[^341]: Suplemento No. 40 (A/47/40), 9 de octubre de 1992
+[^342]: En la actualidad esa restricción ya ha sido abolida.
+[^343]: Formalmente no persiste ninguna restricción al respecto.
+[^344]: CCPR/C/79/Add.92, 18 de agosto de 1998
+[^345]: Las recomendaciones se encuentran en negrita.
+[^346]: A pesar de la Ley 103 contra la Violencia a la mujer y la familia, la
 creación de las Comisarías de la Mujer, La Declaración de la violencia
 contra la mujer como una cuestión de salud pública, se siguen manteniendo
 las prácticas violentas en contra de la mujer.
-[^347] Deuda Pendiente. A partir del año 2000 se iniciaron programa para
+[^347]: Deuda Pendiente. A partir del año 2000 se iniciaron programa para
 atención a adolescentes embarazadas en las casas públicas de asistencia en
 salud, sin embargo esto han dado pocos resultados.
-[^348] Deuda pendiente.
-[^349] CCPR/C/ECU/CO/5, 4 de noviembre de 2008
-[^350] Las recomendaciones se encuentran en negrita.
-[^351] CCPR/C/ECU/CO/6, 11 de agosto de 2016
-[^352] Las recomendaciones se encuentran en negrita.
+[^348]: Deuda pendiente.
+[^349]: CCPR/C/ECU/CO/5, 4 de noviembre de 2008
+[^350]: Las recomendaciones se encuentran en negrita.
+[^351]: CCPR/C/ECU/CO/6, 11 de agosto de 2016
+[^352]: Las recomendaciones se encuentran en negrita.

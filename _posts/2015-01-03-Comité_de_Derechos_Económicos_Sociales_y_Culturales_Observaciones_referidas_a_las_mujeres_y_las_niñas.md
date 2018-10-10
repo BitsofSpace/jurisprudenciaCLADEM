@@ -313,10 +313,10 @@ Ley núm. 18987 sobre Interrupción Voluntaria del Embarazo, le preocupan:
 general núm. 22 (2016) sobre el derecho a la salud sexual y reproductiva.**
 
 
-[^849] 30 de mayo de 1994 (E/C.12/1994/3)
-[^850] En su 25ª sesión (décimo período de sesiones), celebrada el 19 de
+[^849]: 30 de mayo de 1994 (E/C.12/1994/3)
+[^850]: En su 25ª sesión (décimo período de sesiones), celebrada el 19 de
 mayo de 1994.
-[^851] Las medidas adoptadas fueron a través de:
+[^851]: Las medidas adoptadas fueron a través de:
 Ley Nº 18.104 del 15.03.2007 de” igualdad de derechos y oportunidades
 entre hombres y mujeres en la República”.
 Ley Nº 18.065 del 5.12.2006” normas para la regulación del trabajo
@@ -333,23 +333,23 @@ Ley Nº 17.817 de 8.08 2004 art. 2 relativa a la lucha contra el
 racismo, xenofobia y la discriminación.
 En el 2004 se aprobó el Plan Nacional de Lucha contra la Violencia
 Doméstica.
-[^852] 22 de diciembre de 1997; E/C.12/1/Add.18
-[^853] Se cumplió parcialmente con la aprobación de la Ley Nº 17.823 del
+[^852]: 22 de diciembre de 1997; E/C.12/1/Add.18
+[^853]: Se cumplió parcialmente con la aprobación de la Ley Nº 17.823 del
 7.09.2004” Código de la Niñez y Adolescencia”
-[^854] Se destaca para esta recomendación: Ley Nº 18.104 del 15.03.2007 de
+[^854]: Se destaca para esta recomendación: Ley Nº 18.104 del 15.03.2007 de
 igualdad de oportunidades y derechos; Ley Nº 16.045 del 2.06.89 y su
 decreto reglamentario Nº 37/97 del 5 .2.1997 que prohíbe toda
 discriminación que viole el principio de igualdad de trato y oportunidades
 para ambos sexos en cualquier sector.
 En el año 2006 se aprobó el Plan nacional de Igualdad de Oportunidades
 y derechos.
-[^855] Las medidas jurídicas adoptadas con relación a los delitos de
+[^855]: Las medidas jurídicas adoptadas con relación a los delitos de
 violencia contra la mujeres son: Ley Nº 16.707 del 12.7.95 “Ley de
 Seguridad Ciudadana” por la que se incorporó al Código Penal el art.321bis
 el delito de violencia doméstica; Ley Nº 17.514 del 12.7.2002 “sobre
 prevención, detección temprana , atención y erradicación de la violencia
 doméstica”
-[^856] E/C.12/URY/CO/3.4, 1º de diciembre de 2010
-[^857] Las recomendaciones se encuentran en negrita.
-[^858] E/C.12/URY/CO/5, 20 de julio de 2017
-[^859] Las recomendaciones se encuentran en negrita.
+[^856]: E/C.12/URY/CO/3.4, 1º de diciembre de 2010
+[^857]: Las recomendaciones se encuentran en negrita.
+[^858]: E/C.12/URY/CO/5, 20 de julio de 2017
+[^859]: Las recomendaciones se encuentran en negrita.

@@ -1003,24 +1003,24 @@ propósitos de la educación, el Comité recomienda al Estado parte que:**
 	intercultural.**
 
 
-[^750] CRC/C/15/Add.8, 18 de octubre de 1993
-[^751] Las recomendaciones se encuentran en negrita.
-[^752] Ley 26763 publicada el 25 de marzo de 1997, se incorpora el accionar
+[^750]: CRC/C/15/Add.8, 18 de octubre de 1993
+[^751]: Las recomendaciones se encuentran en negrita.
+[^752]: Ley 26763 publicada el 25 de marzo de 1997, se incorpora el accionar
 preventivo y se establecen políticas para la erradicación de la violencia.
 En: Reporte alternativo de la Convención de Derechos del niño, niña y
 adolescente. CLADEM. 2005. Asimismo, mediante Decreto Supremo nº 002-98-
 JUS. Aprueban reglamento del TUO de la ley de protección frente a la
 violencia familiar No 26260.g
-[^753] En las Observaciones finales del Comité de los Derechos del Niño del
+[^753]: En las Observaciones finales del Comité de los Derechos del Niño del
 2000 menciona: Teniendo en cuenta su preocupación por la situación del
 trabajo infantil (ibíd., párr. 156), el Comité celebra la firma de un
 memorando de entendimiento entre el Estado Parte y la Organización
 Internacional del Trabajo y su Programa Internacional para la Abolición del
 Trabajo Infantil (IPEc., así como las actividades emprendidas en virtud de
 este programa.
-[^754] CRC/C/15/Add.120, 22 de febrero de 2000
-[^755] Las recomendaciones se encuentran en negrita.
-[^756] Ley sobre los Desplazamientos Internos (Ley N° 28223 – publicada el
+[^754]: CRC/C/15/Add.120, 22 de febrero de 2000
+[^755]: Las recomendaciones se encuentran en negrita.
+[^756]: Ley sobre los Desplazamientos Internos (Ley N° 28223 – publicada el
 28 de abril de 2004):
 Esta norma busca reconocer el status jurídico del desplazado, su naturaleza
 legal y la atención de los diversos problemas jurídicos derivados de dicha
@@ -1059,7 +1059,7 @@ Desplazadas tendrá como fuente la Base de
 Datos de la CVR y el Censo por la Paz elaborado por el MIMDES.
 Fuente: http://www.pucp.edu.pe/idehpucp//index.php?option=com_content&task=view&id=6
 4&Itemid=102
-[^757] 41Como parte de la campaña de identificación de niños y niñas, se
+[^757]: 41Como parte de la campaña de identificación de niños y niñas, se
 viene promoviendo la distribución del Documento Nacional de Identidad (DNI)
 para menores de edad, medida impulsada por el RENIEC desde el 21 de mayo
 del 2003 según Resolución Jefatural 185-2003. En: Informe sobre la
@@ -1067,7 +1067,7 @@ aplicación de la Convención internacional sobre los derechos de los niños,
 niñas y adolescentes en el Perú (2005).Presentado por el GIN ante el Comité
 de Derechos del Niño de la ONU, Junio 2005.
 www.risolidaria.org.pe/modulo/upload/infancia/derechos/49141400doc.pdf
-[^758] La Ley N° 28330, modifica diversos artículos del Código de los Niños
+[^758]: La Ley N° 28330, modifica diversos artículos del Código de los Niños
 y Adolescentes, respecto al proceso de investigación tutelar otorgando
 competencia para realizar el proceso de investigación tutelar al MIMDES, en
 su calidad de Ente Rector del Sistema de atención Integral del Niño, Niña y
@@ -1075,14 +1075,14 @@ Adolescente. Sin embargo hasta la fecha esta competencia no ha sido asumida
 por el MIMDES. En: Perú. Reporte alternativo de la Convención de Derechos
 del niño, niña y adolescente. CLADEM2005. http://www.cladem.org/espanol/regionales/monitoreo%5Fconvenios/Ni%F1ezperuen
 e2006.asp
-[^759] Ley 27637 del el 16 de enero del año 2005, Ley que crea hogares de
+[^759]: Ley 27637 del el 16 de enero del año 2005, Ley que crea hogares de
 refugio temporales para menores de edad víctimas de violación sexual, casas
 que serán dirigidas y administradas por el Programa Nacional Contra la
 Violencia Familiar y Sexual del Ministerio de la Mujer y Desarrollo Social
-[^760] Se aprueba el Plan de Igualdad de Oportunidades entre Mujeres y
+[^760]: Se aprueba el Plan de Igualdad de Oportunidades entre Mujeres y
 Varones 2005-2011 que señala en general la atención del embarazo y parto,
 también menciona la paternidad responsable.
-[^761] Plan de Acción por la Infancia y la Adolescencia 2002-2010, el
+[^761]: Plan de Acción por la Infancia y la Adolescencia 2002-2010, el
 Objetivo Estratégico N° 3 referido a crear espacios de participación para
 los y las adolescentes de 12 a 17 años de edad y promover su desarrollo
 pleno, contiene el Resultado N° 11 que propone reducir la Tasa de embarazo
@@ -1095,12 +1095,12 @@ la población de madres adolescentes ha ido en aumento. En: Perú. Reporte
 alternativo de la Convención de Derechos del niño, niña y adolescente.
 CLADEM 2005. Peru. http://www.cladem.org/espanol/regionales/monitoreo%5Fconvenios/Ni%F1ezperuen
 e2006.asp
-[^762] Se aprueba en el Congreso la Ley N° 28243 que amplia y modifica la
+[^762]: Se aprueba en el Congreso la Ley N° 28243 que amplia y modifica la
 Ley N° 26626 sobre el virus de inmunodeficiencia humana VIH, en junio del
 2004. Señala la respuesta integral al VIH desde aspectos biológicos y
 psicológicos comprendiendo a la familia y a la sociedad. Además agrega que
 el suministro de medicamentos es gratuito.
-[^763] En el Reporte alternativo de la Convención de Derechos del niño, niña
+[^763]: En el Reporte alternativo de la Convención de Derechos del niño, niña
 y adolescente. CLADEM. 2005., se establece lo siguiente:
 “El Programa Nacional de Educación Sexual, se crea en 1996, como parte del
 Ministerio de Educación, en el marco de la política nacional de población,
@@ -1163,7 +1163,7 @@ educación en condiciones de igualdad con programas especiales que
 garanticen la igualdad de oportunidades y equidad de género. En su artículo
 3º por su parte, señala que la sociedad tiene la responsabilidad de
 contribuir a la educación y el derecho a participar en su desarrollo”
-[^764] El artículo 51 del Código del Niño y Adolescente, referente a la edad
+[^764]: El artículo 51 del Código del Niño y Adolescente, referente a la edad
 mínima para el ingreso al trabajo y las edades requeridas para trabajar en
 determinadas actividades, fue modificado por la Ley 27571 de diciembre de
 2001, la que establece como edad mínima requerida para autorizar el trabajo
@@ -1171,19 +1171,19 @@ a los adolescentes los 14 años, a excepción de las labores agrícolas no
 industriales (15 años); las labores industriales, comerciales o minera (16
 años) y las labores de pesca industrial (17 años). En:
 www.crin.org/docs/Peru_GIN_NGO_Report.doc
-[^765] El Estado Peruano ratificó el Convenio No 138º de la OIT, sobre la
+[^765]: El Estado Peruano ratificó el Convenio No 138º de la OIT, sobre la
 edad mínima de admisión al empleo, 13 de noviembre del 2002, y el Convenio
 No 182º (1999) de la OIT, sobre la prohibición de los peores formas de
 trabajo infantil y la acción inmediata para su eliminación, el 10 de enero
 del 2002.
-[^766] El Plan Nacional de Prevención y Eliminación Progresiva del Trabajo
+[^766]: El Plan Nacional de Prevención y Eliminación Progresiva del Trabajo
 Infantil y sus Peores Formas (PLANPETI) 2006-2010, fue promulgado por
 Decreto Supremo Nº 008-2005-TR, el 30 de septiembre de 2005.
-[^767] Mediante Decreto Supremo N° 008-2001-PROMUDEH, se crea el Programa
+[^767]: Mediante Decreto Supremo N° 008-2001-PROMUDEH, se crea el Programa
 Nacional Contra la Violencia Familiar y Sexual al interior del Ministerio
 de Promoción de la Mujer y del Desarrollo Humano. En el año 2005, se
 aprueba el Plan Nacional contra la Violencia Familiar y Sexual.
-[^768] El Reporte alternativo de la Convención de Derechos del niño, niña y
+[^768]: El Reporte alternativo de la Convención de Derechos del niño, niña y
 adolescente. CLADEM. 2005, se establece lo siguiente: “El Ministerio de la
 Mujer a través de la Dirección de la Niñez y Adolescencia conformó la Red
 Ahora contra la Explotación Sexual Comercial Infantil.
@@ -1211,15 +1211,15 @@ encargada de implementar las acciones señaladas en el Plan Nacional
 indicado. El Plan Nacional de Acción por la Infancia y Adolescencia plantea
 el año 2010 como la fecha en que “se habrá erradicado el abuso sexual de
 niñas, niños y adolescentes” en el Perú.”
-[^769] El 23 de enero del 2002, el Estado peruano ratifica el Protocolo para
+[^769]: El 23 de enero del 2002, el Estado peruano ratifica el Protocolo para
 prevenir, reprimir y sanciona la trata de personas, especialmente de
 mujeres y niños, complementa la Convención de las Naciones Unidas contra la
 Delincuencia Organizada Transnacional. (Observación final del 2005, párrafo
 3d.
-[^770] CRC/C/PER/CO/3, 14 de marzo de 2006
-[^771] Las recomendaciones se encuentran en negrita.
-[^772] La Ley de Igualdad de Oportunidades No publicada el entre Mujeres y
+[^770]: CRC/C/PER/CO/3, 14 de marzo de 2006
+[^771]: Las recomendaciones se encuentran en negrita.
+[^772]: La Ley de Igualdad de Oportunidades No publicada el entre Mujeres y
 Hombres No reconoce expresamente la vigencia y protección de los derechos
 sexuales y los derechos reproductivos
-[^773] CRC/C/PER/CO/4-5, 2 de marzo de 2016
-[^774] Las recomendaciones se encuentran en negrita.
+[^773]: CRC/C/PER/CO/4-5, 2 de marzo de 2016
+[^774]: Las recomendaciones se encuentran en negrita.

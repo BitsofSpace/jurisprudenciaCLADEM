@@ -239,9 +239,9 @@ las niñas y mujeres (arts.13 y 14).
 	programas específicos para prevenir la deserción escolar y enfrentar las
 	causas de la misma.**
 
-[^445] Las recomendaciones se encuentran en negrita.
-[^446] E/C.12/1/Add.4, 28 de mayo de 1996
-[^447] Desde 1998 no se había dado un aumento del salario mínimo, fue hasta
+[^445]: Las recomendaciones se encuentran en negrita.
+[^446]: E/C.12/1/Add.4, 28 de mayo de 1996
+[^447]: Desde 1998 no se había dado un aumento del salario mínimo, fue hasta
 el año 2003 que por Decreto Legislativo Nº 37 de 23 de mayo, que entró en
 vigencia el nuevo salario mínimo en forma diferenciada: Sector comercio y
 servicios $158.40; Sector maquila, textiles y confección $151.20; Sector
@@ -250,21 +250,21 @@ manteniéndose en $74.06. A partir del 1º de septiembre de 2006 se aprobaron
 nuevos incrementos: 10% sectores agropecuario, de industria, comercio y
 servicios; 4% para trabajadoras y trabajadoras de la industria de maquila,
 textil y confección.
-[^448] Mediante Decreto Legislativo Nº 32 publicado en el D.O. Nº135 Tomo
+[^448]: Mediante Decreto Legislativo Nº 32 publicado en el D.O. Nº135 Tomo
 348 de 19 de junio de 2000, se ratificó el Convenio 100 de la OIT.
-[^449] E/C.12/SLV/CO/2 27 de junio de 2007
-[^450] El Ministerio de Trabajo y Previsión Social ha creado la Unidad
+[^449]: E/C.12/SLV/CO/2 27 de junio de 2007
+[^450]: El Ministerio de Trabajo y Previsión Social ha creado la Unidad
 Especial de Género y Prevención de actos laborales discriminatorios, la que
 realiza inspecciones en los centros de trabajo haciendo recomendaciones
 cuando se detectan violaciones al Código de Trabajo o en casos de acoso
 sexual. Se da asesoría a las trabajadoras afectadas.
-[^451] Como mecanismo adecuado para la vigilancia del Convenio 182 de la
+[^451]: Como mecanismo adecuado para la vigilancia del Convenio 182 de la
 OIT, se elaboró el Plan Nacional 2006-2009, que contempla los compromisos
 de las instituciones que conforman el Comité para la Erradicación de las
 Peores Formas de Trabajo Infantil (2005).
-[^452] El Ministerio de Salud desarrolló el 27 de junio de este año una
+[^452]: El Ministerio de Salud desarrolló el 27 de junio de este año una
 Campaña en el Día Nacional para la prueba del VIH, habiéndose realizado la
 prueba 57,461 personas, de las cuales 378 resultaron positivas entre ellas
 una mujer embarazada, un niño y 2 trabajadoras del sexo.
-[^453] E/C.12/SLV/CO/3-5, 19 de junio de 2014
-[^454] Las recomendaciones se encuentran en negrita.
+[^453]: E/C.12/SLV/CO/3-5, 19 de junio de 2014
+[^454]: Las recomendaciones se encuentran en negrita.

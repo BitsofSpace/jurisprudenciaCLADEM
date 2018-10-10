@@ -54,5 +54,5 @@ detectores de metales (arts. 2, 12 y 16).
 
 
 
-[^694] CAT/C/PRY/CO/7, 5 de septiembre de 2017
-[^695] Las recomendaciones se encuentran en negrita.
+[^694]: CAT/C/PRY/CO/7, 5 de septiembre de 2017
+[^695]: Las recomendaciones se encuentran en negrita.

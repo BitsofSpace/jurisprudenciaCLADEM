@@ -264,5 +264,5 @@ celebrará en junio de 2014:**
 	98.98 **Garantizar el reconocimiento pleno y efectivo de los derechos
 	sexuales y reproductivos (Francia.;**
 
-[^833] A/HRC/13/3, 4 de enero de 2010
-[^834] A/HRC/26/15, 4 de abril de 2014
+[^833]: A/HRC/13/3, 4 de enero de 2010
+[^834]: A/HRC/26/15, 4 de abril de 2014

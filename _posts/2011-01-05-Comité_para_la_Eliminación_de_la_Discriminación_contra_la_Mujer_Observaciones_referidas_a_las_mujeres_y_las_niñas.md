@@ -1075,12 +1075,12 @@ contra la mujer. El documento específico debe limitarse a 40 páginas,
 mientras que el documento básico común no debe tener más de 60 a 80
 páginas.**
 
-[^643] Suplemento No. 45 (A/40/45), 1985
-[^644] Suplemento No. 38 (A/53/38/Rev.1), 1998
-[^645] Las recomendaciones se encuentran en negrita.
-[^646] CEDAW/C/PAN/CO/7, 5 de febrero de 2010
-[^647] Las recomendaciones se encuentran en negrita.
-[^648] El Pacto Internacional de Derechos Económicos, Sociales y Culturales,
+[^643]: Suplemento No. 45 (A/40/45), 1985
+[^644]: Suplemento No. 38 (A/53/38/Rev.1), 1998
+[^645]: Las recomendaciones se encuentran en negrita.
+[^646]: CEDAW/C/PAN/CO/7, 5 de febrero de 2010
+[^647]: Las recomendaciones se encuentran en negrita.
+[^648]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales,
 el Pacto Internacional de Derechos Civiles y Políticos, la Convención
 Internacional sobre la Eliminación de todas las Formas de Discriminación
 Racial, la Convención sobre la eliminación de todas las formas de

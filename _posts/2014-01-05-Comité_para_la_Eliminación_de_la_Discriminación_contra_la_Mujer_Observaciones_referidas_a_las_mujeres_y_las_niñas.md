@@ -1087,52 +1087,52 @@ y e., y 35, apartados b., c., d., g. y h).**
 
 
 
-[^814] Suplemento No. 38 (A/43/38), 16 y 19 de Febrero, el 22, 26 y 29 de
+[^814]: Suplemento No. 38 (A/43/38), 16 y 19 de Febrero, el 22, 26 y 29 de
 Febrero y el 2 de Marzo de 1988
-[^815] 19 de enero a 6 de febrero de 1998, Suplemento No. 38 (A/53/38/Rev.1)
-[^816] Una recomendación a la recomendación: ¿Cómo se pueden llamar crímenes
+[^815]: 19 de enero a 6 de febrero de 1998, Suplemento No. 38 (A/53/38/Rev.1)
+[^816]: Una recomendación a la recomendación: ¿Cómo se pueden llamar crímenes
 pasionales y no de género?, ¿se podría atribuir esta calificación a
 cualquier otro tipo penal como el desfalco, el hurto de los bienes
 públicos, todos por pasiones? Resulta absurdo que el Comité de la CEDAW,
 como instancia llamada a proteger los derechos de las mujeres, replique
 estos conceptos que tienden a justificar la violencia basada en género.
-[^817] Conjuntamente con la Ley 137-03 sobre Tráfico y Trata, se estructuró
+[^817]: Conjuntamente con la Ley 137-03 sobre Tráfico y Trata, se estructuró
 un Programa de Apoyo a la Mujer Migrante: Comité Interinstitucional para la
 Protección a la Mujer Migrante (CIPROM).
-[^818] Dos nuevas legislaciones fueron incorporadas en seguimiento a la
+[^818]: Dos nuevas legislaciones fueron incorporadas en seguimiento a la
 cuotas: El artículo 68 de la Ley 275-97 fue modificado para llevar a 33% la
 cuota en el año 2001; y se establecen las leyes 12-00 y 13-00, para
 establecer cuotas en el nivel congresional y municipal. Para esto último
 fue necesario modificar además la Ley Municipal 3455, que actualmente ha
 sido abrogada.
-[^819] 6 a 23 de julio de 2004, Suplemento No. 38 (A/59/38)
-[^820] Existe un Plan de Erradicación de la Pobreza, sin embargo no
+[^819]: 6 a 23 de julio de 2004, Suplemento No. 38 (A/59/38)
+[^820]: Existe un Plan de Erradicación de la Pobreza, sin embargo no
 considera la perspectiva de género, ni las jefaturas femeninas. Este fue
 definido en el año 2003 y ha sido modificado a partir de nuevas prioridades
 de los programas de gobiernos de los partidos políticos que dirigen el
 Estado.
-[^821] El 6 de septiembre del 2006, de acuerdo a las disposiciones de los
+[^821]: El 6 de septiembre del 2006, de acuerdo a las disposiciones de los
 artículos 100, 128 y 398 del Código Procesal Penal, se estableció que la no
 comparecencia de las partes no puede ser interpretada como un
 desistimiento. Por otro lado, sin embargo, el recurso de la conciliación
 continúa siendo frecuente en las prácticas judiciales en el tratamiento de
 violencia basada en género.
-[^822] Fue aprobada la Ley de migración pero sin considerar estos elementos.
+[^822]: Fue aprobada la Ley de migración pero sin considerar estos elementos.
 Sin embargo, esta situación es capítulo de discusión en la Constitución de
 la República Dominicana que actualmente está en proceso de revisión, y que
 mantiene la disposición de que la mujer sigue la condición de su marido.
 Ver Art. 11 párrafo 3.
 http://www.suprema.gov.do/novedades/sentencias/inconstitucionalleydemigracio
 ncertificada.htm.
-[^823] Fue adoptada una ley sobre Derechos de las Trabajadoras Domésticas,
+[^823]: Fue adoptada una ley sobre Derechos de las Trabajadoras Domésticas,
 Ley No 103-99:
 http://portal.set.gov.do/legislacion/resolucion2005_part2.asp.
-[^824] El Estado ha creado un mecanismo de difusión para la prevención del
+[^824]: El Estado ha creado un mecanismo de difusión para la prevención del
 VIH/Sida dirigida a toda la población con programas específicos a jóvenes
 COPRESIDA (Consejo Presidencial del Sida., esta entidad ha hecho algunas
 campañas sobre la estrategia nacional sobre prevención que consiste en uso
 de preservativos y la fidelidad así como el retraso de la primera relación
 sexual. Lo que evidencia una desvinculación con la autonomía de las mujeres
 y de la visión de Derechos sexuales y reproductivos.
-[^825] CEDAW/C/DOM/CO/6-7, 30 de julio de 2013
-[^826] Las recomendaciones se encuentran en negrita.
+[^825]: CEDAW/C/DOM/CO/6-7, 30 de julio de 2013
+[^826]: Las recomendaciones se encuentran en negrita.

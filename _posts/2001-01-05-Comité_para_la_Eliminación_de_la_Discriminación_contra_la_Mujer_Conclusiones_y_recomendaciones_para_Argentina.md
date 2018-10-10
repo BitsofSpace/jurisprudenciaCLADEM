@@ -2029,10 +2029,7 @@ aplicación.**
 
 ### Seguimiento de las observaciones finales
 
-53. **El Comité solicita al Estado parte que le proporcione por escrito, en
-un plazo de dos años, información sobre las medidas adoptadas en
-cumplimiento de las recomendaciones que figuran en los párrafos 27 a.; 33
-b. y d. y 41 d. de este documento.**
+53. **El Comité solicita al Estado parte que le proporcione por escrito, en un plazo de dos años, información sobre las medidas adoptadas en cumplimiento de las recomendaciones que figuran en los párrafos 27 a.; 33 b. y d. y 41 d. de este documento.**
 
 
 [^CEDMArg-1]: Suplemento N. 38 (A 43/38), 16 y 19 de Febrero, 22, 26 y 29 de Febrero y el 2 de Marzo de 1988

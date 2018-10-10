@@ -210,7 +210,7 @@ mujeres y niños, que complementa la Convención de las Naciones Unidas
 contra la Delincuencia Organizada Transnacional (Protocolo de Palermo).**
 
 
-[^551] CCPR/C/HND/CO/1, 13 de diciembre de 2006
-[^552] Las recomendaciones se encuentran en negrita.
-[^553] CCPR/C/HND/CO/2, 22 de agosto de 2017
-[^554] Las recomendaciones se encuentran en negrita.
+[^551]: CCPR/C/HND/CO/1, 13 de diciembre de 2006
+[^552]: Las recomendaciones se encuentran en negrita.
+[^553]: CCPR/C/HND/CO/2, 22 de agosto de 2017
+[^554]: Las recomendaciones se encuentran en negrita.

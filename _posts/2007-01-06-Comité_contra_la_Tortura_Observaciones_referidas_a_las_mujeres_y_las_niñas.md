@@ -133,5 +133,5 @@ encontrar una solución integral al problema del hacinamiento (arts. 2, 11 y
 	independiente.**
 
 
-[^534] CAT/C/GTM/CO/5-6, 24 de junio de 2013
-[^535] Las recomendaciones se encuentran en negrita.
+[^534]: CAT/C/GTM/CO/5-6, 24 de junio de 2013
+[^535]: Las recomendaciones se encuentran en negrita.

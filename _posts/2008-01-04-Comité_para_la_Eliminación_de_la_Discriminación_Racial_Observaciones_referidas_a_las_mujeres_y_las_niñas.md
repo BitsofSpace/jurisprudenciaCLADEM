@@ -57,5 +57,5 @@ niveles de la administración pública. El Comité recomienda al Estado parte
 que implemente medidas especiales (acción afirmativa., en los términos de
 la Convención y de la Recomendación general N.º 32 (2009) del Comité.**
 
-[^558] CERD/C/HND/CO/1-5, 13de marzo de 2014
-[^559] Las recomendaciones se encuentran en negrita.
+[^558]: CERD/C/HND/CO/1-5, 13de marzo de 2014
+[^559]: Las recomendaciones se encuentran en negrita.

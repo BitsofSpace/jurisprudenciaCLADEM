@@ -1,3 +1,4 @@
+---
 layout: apartado
 title: "Comité contra la Tortura: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
@@ -10,12 +11,12 @@ categories:
 ## 1º Observaciones finales sobre el séptimo informe periódico del Ecuador.
 
 1. El Comité contra la Tortura examinó el séptimo informe periódico del
-Ecuador (CAT/C/ECU/7) en sus sesiones 1462ª y 1465ª (véase CAT/C/SR.1462 y
-1465), celebradas los días 8 y 9 de noviembre de 2016, y aprobó las
-presentes observaciones finales en su 1490ª sesión, celebrada el 28 de
-noviembre de 2016.[^411]
+   Ecuador (CAT/C/ECU/7) en sus sesiones 1462ª y 1465ª (véase
+   CAT/C/SR.1462 y 1465), celebradas los días 8 y 9 de noviembre de
+   2016, y aprobó las presentes observaciones finales en su 1490ª
+   sesión, celebrada el 28 de noviembre de 2016.[^411]
 
-	(…)
+   (…)
 
 ### C. Principales motivos de preocupación y recomendaciones[^412]
 
@@ -62,6 +63,6 @@ víctimas de una violación que voluntariamente decidan interrumpir su
 embarazo tengan acceso a abortos legales y en condiciones seguras.
 
 
-[^410] Las recomendaciones se encuentran en negrita.
-[^411] CAT/C/ECU/CO/7, 11 de enero de 2017
-[^412] Las recomendaciones se encuentran en negrita.
+[^410]: Las recomendaciones se encuentran en negrita.
+[^411]: CAT/C/ECU/CO/7, 11 de enero de 2017
+[^412]: Las recomendaciones se encuentran en negrita.

@@ -753,39 +753,39 @@ noveno combinados.**
 
 
 
-[^463] Suplemento N. 38 (A/42/45), 10 a 21 de Marzo de 1986
-[^464] Disposiciones derogadas por reformas al Código de Trabajo, Decreto
+[^463]: Suplemento N. 38 (A/42/45), 10 a 21 de Marzo de 1986
+[^464]: Disposiciones derogadas por reformas al Código de Trabajo, Decreto
 Legislativo 859 de 21 de abril de 1994.
-[^465] Las normas relativas a obligaciones de la mujer en el matrimonio en
+[^465]: Las normas relativas a obligaciones de la mujer en el matrimonio en
 dependencia del hombre, fueron eliminadas al aprobarse el Código de Familia
 que entró en vigencia en 1994, asimismo se establece que en el Acta
 Prematrimonial se consignará el apellido que usará la mujer al casarse
 (Art. 21 C. F.)
-[^466] 27 DE ENERO DE 1992, Suplemento No. 38 (A/47/38)
-[^467] Las recomendaciones se encuentran en negrita.
-[^468] La violación de prostituta ya no se contempla en el nuevo Código
+[^466]: 27 DE ENERO DE 1992, Suplemento No. 38 (A/47/38)
+[^467]: Las recomendaciones se encuentran en negrita.
+[^468]: La violación de prostituta ya no se contempla en el nuevo Código
 Penal, que entró en vigencia en abril de 1998.
-[^469] El 24 de octubre de 2001 se aprobó la Ley de Prevención y Control de
+[^469]: El 24 de octubre de 2001 se aprobó la Ley de Prevención y Control de
 la Infección provocada por el Virus de Inmunodeficiencia Humana. Se definió
 un Plan Estratégico Nacional (PEN) 2001-2004 que fue asumido por el
 Programa Nacional de VIH-SIDA.
-[^470] 13-31 DE ENERO DE 2003 - Suplemento No. 38 (A/58/38)
-[^471] El Instituto Salvadoreño para el Desarrollo de la Mujer (ISDEMU)
+[^470]: 13-31 DE ENERO DE 2003 - Suplemento No. 38 (A/58/38)
+[^471]: El Instituto Salvadoreño para el Desarrollo de la Mujer (ISDEMU)
 diseñó un Plan de Acción 2000-2004, habiéndose creado una Comisión Jurídica
 Interinstitucional a fin de revisar la legislación nacional para incorporar
 perspectiva de género y detectar disposiciones discriminatorias, para una
 mejor adecuación de la legislación secundaria a los Tratados
 internacionales.
-[^472] Dentro del Plan del ISDEMU 2000-2004 se desarrollaron jornadas de
+[^472]: Dentro del Plan del ISDEMU 2000-2004 se desarrollaron jornadas de
 capacitación impartidas por la Escuela de Capacitación Judicial del Consejo
 Nacional de la Judicatura, a personal de la Corte Suprema de Justicia y de
 Tribunales, sobre género, violencia, trato a víctimas, derechos humanos,
 masculinidad, derechos de las y los menores, incluyéndose la divulgación y
 promoción de la CEDAW.
-[^473] En el año 2002 se aprobó el Plan Nacional de Prevención y Atención de
+[^473]: En el año 2002 se aprobó el Plan Nacional de Prevención y Atención de
 la Violencia Intrafamiliar, que comprende la divulgación de información así
 como la atención a las víctimas.
-[^474] Desde 1999 existe la Norma de Planificación Familiar que establece un
+[^474]: Desde 1999 existe la Norma de Planificación Familiar que establece un
 marco regulador del abanico de métodos anticonceptivos disponibles, los
 criterios de elegibilidad y la consejería. El Ministerio de Salud Pública y
 Asistencia Social a través del Programa Nacional de Prevención, Atención y
@@ -793,14 +793,14 @@ Control de ITS-VIH-SIDA e ITS, está implementando desde el año 2005 el Plan
 Estratégico Nacional para la Prevención, Atención y Control del VIH-SIDA e
 ITS; las Normas Técnicas de Atención de ITS y las Guías de Atención de
 Infecciones de Transmisión Sexual.
-[^475] A través del ISDEMU se implementó el Programa Interinstitucional para
+[^475]: A través del ISDEMU se implementó el Programa Interinstitucional para
 el Desarrollo Integral de las Mujeres Rurales, iniciándose con un Plan
 Piloto en el 2003.
-[^476] Desde el año 2000 que se ratificaron los Convenios de la OIT 100 y
+[^476]: Desde el año 2000 que se ratificaron los Convenios de la OIT 100 y
 156 se estableció que el seguimiento de los mismos será responsabilidad de
 la Dirección General de Inspección de Trabajo, las oficinas regionales y la
 Dirección de Relaciones Internacionales del Ministerio de Trabajo.
-[^477] El Ministerio de Trabajo en coordinación con el ISDEMU desarrolló el
+[^477]: El Ministerio de Trabajo en coordinación con el ISDEMU desarrolló el
 “Programa de Atención Integral para la Mujer Trabajadora” entre otros
 objetivos estaba promover la creación de condiciones adecuadas para la
 mujer en cuanto a seguridad e higiene en los centros de trabajo,
@@ -808,16 +808,16 @@ desarrollándose capacitaciones en temas de género y salud mental; la salud,
 la seguridad e higiene ocupacional en los centros de trabajo. Este Programa
 se ejecutó durante el período 2003-2005 habiéndose beneficiado 600
 trabajadoras de las zonas francas más importantes del país.
-[^478] En el año 2003 se realizó un esfuerzo conjunto entre Diputadas de la
+[^478]: En el año 2003 se realizó un esfuerzo conjunto entre Diputadas de la
 Asamblea Legislativa, Organizaciones internacionales y nacionales
 gubernamentales y no gubernamentales que trabajan en derechos humanos de la
 niñez y la adolescencia, enfocado a reformas al Código Penal, en materia de
 violencia sexual. El 25 de noviembre de ese año se aprobaron diversas
 reformas, entre ellas la inclusión del delito de trata de personas, en
 vigencia a partir del 16 de enero de 2004.
-[^479] CEDAW/C/SLV/CO/7, 7 de noviembre de 2008
-[^480] Las recomendaciones se encuentran en negrita.
-[^481] Pacto Internacional de Derechos Económicos, Sociales y Culturales,
+[^479]: CEDAW/C/SLV/CO/7, 7 de noviembre de 2008
+[^480]: Las recomendaciones se encuentran en negrita.
+[^481]: Pacto Internacional de Derechos Económicos, Sociales y Culturales,
 Pacto Internacional de Derechos Civiles y Políticos, Convención
 Internacional sobre la Eliminación de Todas las Formas de Discriminación
 Racial, Convención sobre la eliminación de todas las formas de

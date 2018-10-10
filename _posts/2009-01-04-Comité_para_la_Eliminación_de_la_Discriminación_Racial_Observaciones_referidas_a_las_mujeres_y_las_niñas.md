@@ -217,15 +217,15 @@ inc. e..
 	mujeres indígenas y afrodescendientes.**
 
 
-[^591] Suplemento No. 18 (A/31/18), 1976
-[^592] Suplemento No. 18 (A/34/18), 1979
-[^593] Suplemento No.18 (A/35/18), 1980
-[^594] Suplemento No. 18 (A/37/18), 1982
-[^595] Suplemento No. 18 (A/40/18), 1985
-[^596] Suplemento No. 18 (A/44/18), 1990
-[^597] Suplemento No. 18 (A/46/18), 1992
-[^598] Suplemento No. 18 (A/50/18), 1996
-[^599] CERD/C/304/Add.30, 11 de diciembre de 1997
-[^600] CERD/C/MEX/CO/15, 21 de marzo de 2006
-[^601] CERD/C/MEX/CO/16-17, 4 de abril de 2012
-[^602] Las recomendaciones se encuentran en negrita.
+[^591]: Suplemento No. 18 (A/31/18), 1976
+[^592]: Suplemento No. 18 (A/34/18), 1979
+[^593]: Suplemento No.18 (A/35/18), 1980
+[^594]: Suplemento No. 18 (A/37/18), 1982
+[^595]: Suplemento No. 18 (A/40/18), 1985
+[^596]: Suplemento No. 18 (A/44/18), 1990
+[^597]: Suplemento No. 18 (A/46/18), 1992
+[^598]: Suplemento No. 18 (A/50/18), 1996
+[^599]: CERD/C/304/Add.30, 11 de diciembre de 1997
+[^600]: CERD/C/MEX/CO/15, 21 de marzo de 2006
+[^601]: CERD/C/MEX/CO/16-17, 4 de abril de 2012
+[^602]: Las recomendaciones se encuentran en negrita.

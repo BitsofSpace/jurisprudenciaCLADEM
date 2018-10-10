@@ -482,7 +482,7 @@ de sesiones del Consejo de Derechos Humanos, que se celebrará en marzo de
 	reproductiva de manera anónima, no discriminatoria y confidencial (Reino
 	Unido de Gran Bretaña e Irlanda del Norte);**
 
-[^497] Las recomendaciones se encuentran en negrita.
-[^498] A/HRC/14/5, 18 de marzo de 2010
-[^499] Las recomendaciones se encuentran en negrita.
-[^500] A/HRC/28/5, 17 de diciembre de 2014
+[^497]: Las recomendaciones se encuentran en negrita.
+[^498]: A/HRC/14/5, 18 de marzo de 2010
+[^499]: Las recomendaciones se encuentran en negrita.
+[^500]: A/HRC/28/5, 17 de diciembre de 2014

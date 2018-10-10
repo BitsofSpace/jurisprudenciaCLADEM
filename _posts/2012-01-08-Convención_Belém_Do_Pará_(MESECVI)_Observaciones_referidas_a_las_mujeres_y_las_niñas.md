@@ -195,4 +195,4 @@ y cualitativas sobre satisfacción de las usuarias respecto a los servicios
 y otros temas, que alimenten la información y den base científica en
 función de la construcción y redefinición de las políticas públicas.
 
-[^705] OEA/Ser.L/II.7.10; MESECVI-IV/doc.85/12
+[^705]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.85/12

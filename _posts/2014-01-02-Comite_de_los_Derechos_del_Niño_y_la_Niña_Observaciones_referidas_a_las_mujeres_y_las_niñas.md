@@ -922,11 +922,11 @@ Utilización de Niños en la Pornografía, cuyo informe al respecto está
 pendiente desde 2009.**
 
 
-[^827] CRC/C/15/ Add.150 - 21 de Febrero de 2001
-[^828] Fue modificada la legislación según Ley 136-03, sin embargo aún
+[^827]: CRC/C/15/ Add.150 - 21 de Febrero de 2001
+[^828]: Fue modificada la legislación según Ley 136-03, sin embargo aún
 persiste la insuficiente asignación de recursos para la aplicación de la
 prioridad de niños y niñas.
-[^829] CRC/C/DOM/CO/2 - 11 de febrero de 2008
-[^830] Las recomendaciones se encuentran en negrita.
-[^831] CRC/C/DOM/CO/3-5, 6 de marzo de 2015
-[^832] Las recomendaciones se encuentran en negrita.
+[^829]: CRC/C/DOM/CO/2 - 11 de febrero de 2008
+[^830]: Las recomendaciones se encuentran en negrita.
+[^831]: CRC/C/DOM/CO/3-5, 6 de marzo de 2015
+[^832]: Las recomendaciones se encuentran en negrita.

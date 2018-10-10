@@ -642,22 +642,22 @@ que:**
 	situación y necesidades específicas.**
 
 
-[^895] CRC/C/15/Add.62, 30 de octubre de 1996
-[^896] Las recomendaciones se encuentran en negrita.
-[^897] Uruguay armonizó su legislación interna a la CDN mediante Ley Nº
+[^895]: CRC/C/15/Add.62, 30 de octubre de 1996
+[^896]: Las recomendaciones se encuentran en negrita.
+[^897]: Uruguay armonizó su legislación interna a la CDN mediante Ley Nº
 17.823 de 7 de septiembre de 2004: Código de la Niñez y la Adolescencia de
 la República Oriental del Uruguay.
-[^898] Respecto a la atención a niños-as pobres y marginados-as desde el año
+[^898]: Respecto a la atención a niños-as pobres y marginados-as desde el año
 2005 se implementaron los Programas INFAMILIA y PANES, (Programa de
 Atención a la Emergencia Social del Ministerio de Desarrollo Social), que
 atienden a la población afectada por la pobreza y la pobreza extrema entre
 los cuales se encuentran estos niños-as.
-[^899] Del 2 al 11 de julio de 2007 la Administración Nacional de Educación
+[^899]: Del 2 al 11 de julio de 2007 la Administración Nacional de Educación
 Pública y la Comisión de Educación Sexual del CODICEN llevaron a cabo el
 primer Seminario-Taller sobre la “Incorporación formal de la Educación
 Sexual al Sistema Educativo Público”. Al mismo asistieron 500 maestros y
 profesores de la enseñanza pública de todo el país.
-[^900] Desde el 2005, asunción del nuevo gobierno, se vienen implementando
+[^900]: Desde el 2005, asunción del nuevo gobierno, se vienen implementando
 medidas tales como: la Creación de la Comisión Nacional Asesora en Salud
 Sexual y Reproductiva; Programa Nacional de Adolescencia y el Programa de
 promoción de la salud sexual y reproductiva de los adolescentes de la
@@ -665,9 +665,9 @@ DIGESA. Respecto a la prestación de servicios adecuados cabe destacar la
 existencia del Programa “asesoramiento para una maternidad segura. Medidas
 de protección frente al aborto provocado en condiciones de riesgo”, que
 responde a la Ordenanza 369-04 del 6/8/2004.
-[^901] CRC/C/URY/CO/2 - 5 de julio de 2007
-[^902] Las recomendaciones se encuentran en negrita.
-[^903] Desde el 2005, asunción del nuevo gobierno, se vienen implementando
+[^901]: CRC/C/URY/CO/2 - 5 de julio de 2007
+[^902]: Las recomendaciones se encuentran en negrita.
+[^903]: Desde el 2005, asunción del nuevo gobierno, se vienen implementando
 medidas tales como: la Creación de la Comisión Nacional Asesora en Salud
 Sexual y Reproductiva; Programa Nacional de Adolescencia y el Programa de
 promoción de la salud sexual y reproductiva de los adolescentes de la
@@ -675,7 +675,7 @@ DIGESA. Respecto a la prestación de servicios adecuados cabe destacar la
 existencia del Programa “asesoramiento para una maternidad segura. Medidas
 de protección frente al aborto provocado en condiciones de riesgo”, que
 responde a la Ordenanza 369-04 del 6/8/2004
-[^904] Desde el 2005, asunción del nuevo gobierno, se vienen implementando
+[^904]: Desde el 2005, asunción del nuevo gobierno, se vienen implementando
 medidas tales como: la Creación de la Comisión Nacional Asesora en Salud
 Sexual y Reproductiva; Programa Nacional de Adolescencia y el Programa de
 promoción de la salud sexual y reproductiva de los adolescentes de la
@@ -683,4 +683,4 @@ DIGESA. Respecto a la prestación de servicios adecuados cabe
 destacar la existencia del Programa “asesoramiento para una maternidad
 segura. Medidas de protección frente al aborto provocado en condiciones de
 riesgo”, que responde a la Ordenanza 369-04 del 6/8/2004
-[^906] CRC/C/URY/CO/3-5, 5 de marzo de 2015
+[^906]: CRC/C/URY/CO/3-5, 5 de marzo de 2015

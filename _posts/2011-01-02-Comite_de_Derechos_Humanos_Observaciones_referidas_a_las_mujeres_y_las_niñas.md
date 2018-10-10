@@ -319,7 +319,7 @@ registradas, especialmente en zonas rurales y en comunidades indígenas.
 	nacimientos y otros actos de registro civil en todo el territorio nacional,
 	incluido el registro de adultos.**
 
-[^624] Suplemento No. 40 (A/39/40), 20 de septiembre de 1984
-[^625] Suplemento No. 40 (A/46/40), 10 de octubre de 1991
-[^626] CCPR/C/PAN/CO/3 - 17 de abril de 2008
-[^627] Las recomendaciones se encuentran en negrita.
+[^624]: Suplemento No. 40 (A/39/40), 20 de septiembre de 1984
+[^625]: Suplemento No. 40 (A/46/40), 10 de octubre de 1991
+[^626]: CCPR/C/PAN/CO/3 - 17 de abril de 2008
+[^627]: Las recomendaciones se encuentran en negrita.

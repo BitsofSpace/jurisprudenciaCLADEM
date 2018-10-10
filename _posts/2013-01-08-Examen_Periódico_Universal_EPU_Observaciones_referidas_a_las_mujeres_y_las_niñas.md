@@ -493,6 +493,6 @@ sesiones del Consejo de Derechos Humanos:
 	Bolivia.;**
 
 
-[^775] A/HRC/8/37 28 de mayo de 2008
-[^776] A/HRC/22/15, 27 de diciembre de 2012
-[^777] A/HRC/37/8, 27 de diciembre de 2017
+[^775]: A/HRC/8/37 28 de mayo de 2008
+[^776]: A/HRC/22/15, 27 de diciembre de 2012
+[^777]: A/HRC/37/8, 27 de diciembre de 2017

@@ -1646,15 +1646,15 @@ para cumplir las recomendaciones que figuran en los párrafos 20 a)  y  f)  y
 32 a) y c).**
 
 
-[^872] Suplemento N. 38 (A 43/38), Febrero de 1988
-[^873] En el año 2002 se promulgó la Ley N° 17.515 que define la
+[^872]: Suplemento N. 38 (A 43/38), Febrero de 1988
+[^873]: En el año 2002 se promulgó la Ley N° 17.515 que define la
 prostitución como un trabajo a partir de los 18 años de edad. Se le
 reconocen al trabajador y la trabajadora sexuales beneficios sociales como
 la jubilación. Mediante esta Ley se controla y regula el ejercicio de la
 prostitución a través fundamentalmente de un control sanitario obligatorio
 mensual. Además, por Decreto N° 480/003 del 20/11/03 estos trabajadores/as
 están obligados a comunicar el traslado de una localidad a otra.
-[^874] En el año 2002 se promulgó la Ley N° 17.515 que define la
+[^874]: En el año 2002 se promulgó la Ley N° 17.515 que define la
 prostitución como un trabajo a partir de los 18 años de edad. Se le
 reconocen al trabajador y la trabajadora sexuales beneficios sociales como
 la jubilación. Mediante esta Ley se controla y regula el ejercicio de la
@@ -1667,10 +1667,10 @@ derecho a recibir pensiones de sobrevivencia a los hombres viudos, ya que
 estaba limitado solo a las mujeres viudas. Eliminó además la pensión de
 sobrevivencia para las hijas solteras mayores de 45 años que demostraran
 que se habían dedicado al cuidado de sus padres o hermanos.
-[^875] Fue derogado por Ley N° 17.938 de 29/12/005.
-[^876] Suplemento No. 38 (A/57/38) - (14 de enero a 1° de febrero de 2002)
-[^877] Las recomendaciones se encuentran en negrita.
-[^878] La ley N° 17.817 de agosto de 2004 referida a la lucha contra el
+[^875]: Fue derogado por Ley N° 17.938 de 29/12/005.
+[^876]: Suplemento No. 38 (A/57/38) - (14 de enero a 1° de febrero de 2002)
+[^877]: Las recomendaciones se encuentran en negrita.
+[^878]: La ley N° 17.817 de agosto de 2004 referida a la lucha contra el
 racismo, la xenofobia y la discriminación, trae una definición de
 discriminación en su artículo 2: “A los efectos de la presente ley se
 entenderá por discriminación toda distinción, exclusión, restricción,
@@ -1682,7 +1682,7 @@ ejercicio, en condiciones de igualdad, de los derechos humanos y libertades
 fundamentales en las esferas política, económica, social, cultural o en
 cualquier otra esfera de la vida pública.” . Esta definición no incluye la
 esfera de la vida privada.
-[^879] Por Ley N° 17.866 de 21/3/2005 el Instituto de la Mujer y la Familia
+[^879]: Por Ley N° 17.866 de 21/3/2005 el Instituto de la Mujer y la Familia
 que estaba en la órbita del Ministerio de Educación y Cultura, pasa a
 llamarse Instituto Nacional de la Mujeres (INAMU) dependiendo del
 Ministerio de Desarrollo Social (MIDES). Cuenta con más recursos
@@ -1700,11 +1700,11 @@ de acciones en diversos ministerios y entes estatales: Ministerio del
 Interior, Ministerio de Salud Pública, Ministerio de Economía y Finanzas,
 Ministerio de Relaciones Exteriores, Oficina de Planeamiento y Presupuesto,
 Instituto Nacional de Estadísticas, Intendencias Municipales.
-[^880] Se han creado y presentado este año en el canal oficial y alguno
+[^880]: Se han creado y presentado este año en el canal oficial y alguno
 privado algunos spots sobre la Violencia Doméstica dirigidos a distintos
 públicos con artistas jóvenes reconocidos. En el plan de Igualdad de
 Derechos y Oportunidades se menciona el tema y se diseñan algunas acciones.
-[^881] Se promulgó la Ley Nº 17.514 de Violencia Doméstica el 2 de julio de
+[^881]: Se promulgó la Ley Nº 17.514 de Violencia Doméstica el 2 de julio de
 2002. En lo que refiere a la sensibilización y capacitación de los jueces y
 las juezas en el año 2006 se han realizado capacitaciones por parte del
 INAMU con fondos del BIRF, para integrantes del Poder Judicial en el
@@ -1736,7 +1736,7 @@ obligatoriedad en las instituciones de salud de atender VD. También se
 Implementó un formulario con preguntas sobre la posible existencia de VD a
 las usuarias que debe ser aplicado por los equipos de salud adjuntando los
 datos a la historia clínica de las mujeres mayores de 15 años.
-[^882] El art. 116 del Código Penal fue derogado por Ley N° 17.938 aprobada
+[^882]: El art. 116 del Código Penal fue derogado por Ley N° 17.938 aprobada
 el 29/12/05. Esta ley derogó además el art. 23 del Código del Proceso
 Penal. En cambio el art. 328 del Código Penal persiste.
 Respecto a la violencia doméstica se promulgó la Ley Nº 17.514. Si bien han
@@ -1762,17 +1762,17 @@ de la actividad privada y las funcionarias públicas tendrán derecho a un
 día al año de licencia especial con goce de sueldo para realizar exámenes
 de Papanicolaou y/o radiografía mamaria. Ordenanza Ministerial 402 de 2006
 establece la gratuidad de los estudios
-[^883] El 15 de noviembre del 2006 se aprobó la Ley N° 18.065 de Trabajo
+[^883]: El 15 de noviembre del 2006 se aprobó la Ley N° 18.065 de Trabajo
 Doméstico que reconoció los derechos laborales a los y las trabajadoras del
 servicio doméstico.
-[^884] No se ha podido aprobar el proyecto de ley de Cuotas que consagra la
+[^884]: No se ha podido aprobar el proyecto de ley de Cuotas que consagra la
 aplicación de una cuota mínima de un tercio de candidato/as de un sexo en
 todas las listas electorales partidarias internas y legislativas, tanto
 nacionales como departamentales.
 En la legislatura pasada se consideró y no se llegó a las mayorías
 necesarias. En esta legislatura fue nuevamente presentado y está por ser
 considerado.
-[^885] En el Plan Nacional de Igualdad de Oportunidades y Derechos, aprobado
+[^885]: En el Plan Nacional de Igualdad de Oportunidades y Derechos, aprobado
 por Decreto N° 184/007 de 15/5/007, en el LEI 10 “Desarrollo de Medidas que
 contribuyan a una Distribución Equitativa de la Responsabilidades
 Familiares” se establecen como acciones:
@@ -1790,7 +1790,7 @@ _ Adecuar el funcionamiento de los servicios estatales a las necesidades de
 hombres y mujeres para una distribución equitativa de las responsabilidades
 familiares.
 El cronograma planteado se extiende hasta el 2011.
-[^886] En el año 2004 se creó el Subcomponente 1.4 “Modelo Integral de
+[^886]: En el año 2004 se creó el Subcomponente 1.4 “Modelo Integral de
 prevención del embarazo precoz” del Programa Infancia y Familia
 (INFAMILIa.. En el año 2005 y 2006 se inauguraron Espacios de Salud
 Adolescente (MSP) con INFAMILIA.
@@ -1802,12 +1802,12 @@ métodos anticonceptivos reversibles.
 En la órbita de la Intendencia Municipal de Montevideo (IMM) existe el
 Programa Integral de Atención a la Salud de la Mujer (PAIM) que asesora en
 anticoncepción y tiene canasta de métodos anticonceptivos.
-[^887] El Plan existe y está en ejecución: es el “Primer Plan Nacional de
+[^887]: El Plan existe y está en ejecución: es el “Primer Plan Nacional de
 Igualdad de Oportunidades y Derechos”. Se ha trabajado para incorporar la
 perspectiva de género en los Ministerios.
-[^888] CEDAW/C/URY/CO/7 - 14 de noviembre de 2008
-[^889] Las recomendaciones se encuentran en negrita.
-[^890] El Pacto Internacional de Derechos Económicos, Sociales y Culturales;
+[^888]: CEDAW/C/URY/CO/7 - 14 de noviembre de 2008
+[^889]: Las recomendaciones se encuentran en negrita.
+[^890]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales;
 el Pacto Internacional de Derechos Civiles y Políticos; el primer Protocolo
 Facultativo del Pacto Internacional de Derechos Civiles y Políticos; el
 segundo Protocolo Facultativo del Pacto Internacional de Derechos Civiles y
@@ -1818,5 +1818,5 @@ Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; la
 Convención sobre los Derechos del Niño; y la Convención Internacional sobre
 la protección de los derechos de todos los trabajadores migratorios y de
 sus familiares.
-[^891] CEDAW/C/URY/CO/8-9, 25 de julio de 2016
-[^892] Las recomendaciones se encuentran en negrita.
+[^891]: CEDAW/C/URY/CO/8-9, 25 de julio de 2016
+[^892]: Las recomendaciones se encuentran en negrita.

@@ -595,12 +595,12 @@ derechos consagrados en el Pacto, desglosados por edad, sexo, origen
 
 
 
-[^792] 26 de noviembre a 14 de diciembre de 1990, E/1991/23 - E/C.12/1990/8,
+[^792]: 26 de noviembre a 14 de diciembre de 1990, E/1991/23 - E/C.12/1990/8,
 par. 213-250
-[^793] E/C.12/1994/15, 19 de diciembre de 1994
-[^794] Las recomendaciones se encuentran en negrita.
-[^795] E/C.12/1/ Add.6 - 6 de Diciembre de 1996
-[^796] Considerando que las recomendaciones hechas al Estado Dominicano
+[^793]: E/C.12/1994/15, 19 de diciembre de 1994
+[^794]: Las recomendaciones se encuentran en negrita.
+[^795]: E/C.12/1/ Add.6 - 6 de Diciembre de 1996
+[^796]: Considerando que las recomendaciones hechas al Estado Dominicano
 dicen “En vista de que el Estado Parte ha desatendido invariablemente sus
 obligaciones de presentar informes en virtud del Pacto y las sucesivas
 solicitudes de información que le ha dirigido el Comité a lo largo de
@@ -608,18 +608,18 @@ varios años, el Comité insta al Estado Parte a que asigne suma importancia
 a responder a las cuestiones planteadas en las presentes observaciones
 finales” (Art. 27), en este acápite se reseñan las preocupaciones
 externadas por el Comité.
-[^797] Estas desigualdades fueron profundizadas en la Ley 285-04 sobre
+[^797]: Estas desigualdades fueron profundizadas en la Ley 285-04 sobre
 Migración, que interpreta la constitución en cuanto a la nacionalidad por
 Jus Solis.
-[^798] Ver informe “No me avergüenzo” de Amnistía Internacional, sobre VIH
+[^798]: Ver informe “No me avergüenzo” de Amnistía Internacional, sobre VIH
 SIDA, incremento del estigma social y las discriminaciones, y falta de
 acceso a retrovirales.
-[^799] E/C.12/1/ Add.16 - 12 de Diciembre de 1997
-[^800] Las recomendaciones se encuentran en negrita.
-[^801] En 1997 fue aprobada la Ley 24-97 sobre Violencia Intrafamiliar que
+[^799]: E/C.12/1/ Add.16 - 12 de Diciembre de 1997
+[^800]: Las recomendaciones se encuentran en negrita.
+[^801]: En 1997 fue aprobada la Ley 24-97 sobre Violencia Intrafamiliar que
 sanciona la violencia basada en género.
-[^802] Fue aprobada la Ley 55-93 sobre el SIDA.
-[^803] E/C.12/DOM/CO/3, 26 de noviembre de 2010
-[^804] Las recomendaciones se encuentran en negrita.
-[^805] E/C.12/DOM/CO/4, 21 de octubre de 2016
-[^806] Las recomendaciones se encuentran en negrita.
+[^802]: Fue aprobada la Ley 55-93 sobre el SIDA.
+[^803]: E/C.12/DOM/CO/3, 26 de noviembre de 2010
+[^804]: Las recomendaciones se encuentran en negrita.
+[^805]: E/C.12/DOM/CO/4, 21 de octubre de 2016
+[^806]: Las recomendaciones se encuentran en negrita.

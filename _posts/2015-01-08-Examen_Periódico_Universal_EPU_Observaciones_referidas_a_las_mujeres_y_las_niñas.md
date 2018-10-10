@@ -428,6 +428,6 @@ Uruguay:**
 	basada en la relación estable entre un hombre y una mujer (Bangladesh).**
 
 
-[^907] Las recomendaciones se encuentran en negrita.
-[^908] A/HRC/12/12 - 4 de junio de 2009
+[^907]: Las recomendaciones se encuentran en negrita.
+[^908]: A/HRC/12/12 - 4 de junio de 2009
 

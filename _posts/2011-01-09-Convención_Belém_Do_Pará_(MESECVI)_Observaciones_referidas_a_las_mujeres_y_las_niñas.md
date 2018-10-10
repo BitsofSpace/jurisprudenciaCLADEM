@@ -63,4 +63,4 @@ género, ya que la mayoría de acciones están encaminadas hacia la
 erradicación y sanción de la violencia intrafamiliar y doméstica, no así de
 la violencia contra las mujeres.
 
-[^658] OEA/Ser.L/II.7.10; MESECVI-IV/doc.84/12
+[^658]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.84/12

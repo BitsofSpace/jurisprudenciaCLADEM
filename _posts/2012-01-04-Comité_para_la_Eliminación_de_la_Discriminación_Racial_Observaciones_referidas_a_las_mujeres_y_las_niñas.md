@@ -117,7 +117,7 @@ salud, incluida la salud sexual y reproductiva de las mujeres indígenas y
 afroparaguayas.**
 
 
-[^675] CERD/C/PRY/CO/1-3, 12 de septiembre de 2011.
-[^676] Las recomendaciones se encuentran en negrita.
-[^677] CERD/C/PRY/CO/4-6, 4 de octubre de 2016
-[^678] Las recomendaciones se encuentran en negrita.
+[^675]: CERD/C/PRY/CO/1-3, 12 de septiembre de 2011.
+[^676]: Las recomendaciones se encuentran en negrita.
+[^677]: CERD/C/PRY/CO/4-6, 4 de octubre de 2016
+[^678]: Las recomendaciones se encuentran en negrita.

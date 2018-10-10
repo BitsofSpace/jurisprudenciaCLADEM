@@ -545,7 +545,7 @@ de ellas:**
 	(Argentina..**
 	
 	
-[^544] A/HRC/8/38 - 29 de mayo de 2008
-[^545] Las recomendaciones se encuentran en negrita.
-[^546] A/HRC/22/8, 31 de diciembre de 2012
-[^547] A/HRC/37/9, 2 de enero de 2018
+[^544]: A/HRC/8/38 - 29 de mayo de 2008
+[^545]: Las recomendaciones se encuentran en negrita.
+[^546]: A/HRC/22/8, 31 de diciembre de 2012
+[^547]: A/HRC/37/9, 2 de enero de 2018

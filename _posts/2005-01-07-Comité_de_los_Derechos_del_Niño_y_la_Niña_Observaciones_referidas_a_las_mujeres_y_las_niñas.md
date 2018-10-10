@@ -1082,9 +1082,9 @@ venta, el secuestro y la trata, y recomienda que el Estado parte:
 
 
 
-[^413] CRC/C/15/Add.93, 26 de octubre de 1998
-[^414] Las recomendaciones se encuentran en negrita.
-[^415] En cuanto a recolección de datos, en septiembre del 2002 el gobierno
+[^413]: CRC/C/15/Add.93, 26 de octubre de 1998
+[^414]: Las recomendaciones se encuentran en negrita.
+[^415]: En cuanto a recolección de datos, en septiembre del 2002 el gobierno
 presentó el Sistema de Información Gubernamental, en el cual se encuentra
 integrado el Sistema de Indicadores Sociales SIISE que contiene a su vez el
 Sistema de Indicadores Sociales sobre Niños, Niñas y Adolescentes SINIÑEZ
@@ -1092,7 +1092,7 @@ que tiene por objeto recolectar, organizar y difundir información
 cuantitativa sobre la situación de las personas menores de 18 años de edad;
 sin embargo, este sistema no cuenta con información desglosada por edad,
 sexo y origen étnico.
-[^416] En el Registro Oficial No. 737, de 3 de enero del 2003, se promulga
+[^416]: En el Registro Oficial No. 737, de 3 de enero del 2003, se promulga
 el Código de la Niñez y Adolescencia que define al niño o niña como la
 persona que no ha cumplido doce años de edad y adolescente a la persona de
 ambos sexos entre doce y dieciocho años de edad; en términos generales este
@@ -1100,10 +1100,10 @@ Código regula los derechos a la supervivencia, el desarrollo, la protección
 y la participación de los niños, niñas y adolescentes que viven en el
 Ecuador, establece una justicia especializada para la niñez y adolescencia
 y crea un sistema de protección integral a la niñez y adolescencia.
-[^417] Deuda pendiente.
-[^418] Deuda pendiente.
-[^419] Deuda pendiente.
-[^420] Legislativamente esta fue una deuda pendiente hasta el 23 de junio
+[^417]: Deuda pendiente.
+[^418]: Deuda pendiente.
+[^419]: Deuda pendiente.
+[^420]: Legislativamente esta fue una deuda pendiente hasta el 23 de junio
 del 2005, en que se promulgó la ley reformatoria al Código Penal que
 tipificó como delitos la explotación sexual comercial y la trata de niños,
 niñas y adolescentes (Ley reformatoria publicada en el Registro Oficial No.
@@ -1113,19 +1113,19 @@ legislativas. Sin embargo, la labor de prevención y sensibilización en las
 zonas rurales, particularmente, ha sido casi nula, al igual que la
 rehabilitación de las víctimas, lo que constituye una deuda pendiente del
 Estado en este aspecto.
-[^421] Desde el 2002, la Oficina Internacional del Trabajo, ha impulsado la
+[^421]: Desde el 2002, la Oficina Internacional del Trabajo, ha impulsado la
 elaboración de líneas de base en los lugares de mayor incidencia de
 explotación sexual comercial de niños, niñas y adolescentes, en el marco de
 un convenio de entendimiento con el estado ecuatoriano, lo cual ha
 permitido tener una mejor idea de la problemática.
-[^422] CRC/C/15/Add.262, 13 de septiembre de 2005
-[^423] Las recomendaciones se encuentran en negrita.
-[^424] Deuda pendiente: - Aún no existe un sistema nacional de recolección
+[^422]: CRC/C/15/Add.262, 13 de septiembre de 2005
+[^423]: Las recomendaciones se encuentran en negrita.
+[^424]: Deuda pendiente: - Aún no existe un sistema nacional de recolección
 datos, que incluya grupos vulnerables y marginados tales como niños, niñas
 y adolescentes con discapacidad, pobres, indígenas y afro-ecuatorianos,
 desagregados por edad, sexo y etnia.
-[^425] Deuda pendiente.
-[^426] Deuda pendiente: Con respecto a la violencia doméstica y el abuso
+[^425]: Deuda pendiente.
+[^426]: Deuda pendiente: Con respecto a la violencia doméstica y el abuso
 infantil, no se ha implementado a nivel nacional un sistema de recolección
 total de datos estadísticos de esta problemática desagregados por sexo,
 edad y etnia; tampoco se han tomado medidas a nivel nacional que permitan
@@ -1136,9 +1136,9 @@ integral que establece la Convención; tampoco se han tomado medidas para
 asegurar que los niños, niñas y adolescentes víctimas de violencia tengan
 acceso a asesoramiento y asistencia así como a su recuperación y
 reintegración.
-[^427] Deuda pendiente: Las áreas rurales aún no cuentan con un efectivo y
+[^427]: Deuda pendiente: Las áreas rurales aún no cuentan con un efectivo y
 oportuno acceso a estos servicios de salud.
-[^428] Mediante Ley reformatoria No. 2-2005, publicada en el Registro
+[^428]: Mediante Ley reformatoria No. 2-2005, publicada en el Registro
 Oficial No. 45, de 23 de junio del 2005, se reformó el Código Penal
 ecuatoriano al tipificarse y sancionarse como delito la explotación sexual
 comercial de niños, niñas y adolescentes -manifestada como prostitución
@@ -1161,5 +1161,5 @@ explotación sexual; ni se han implementado programas apropiados para la
 prevención, recuperación y reintegración de éstas víctimas, constituyendo
 esta aspecto deuda pendiente del Estado ecuatoriano con la niñez y
 adolescencia.
-[^429] CRC/C/ECU/CO/4, 2 de marzo de 2010
-[^430] CRC/C/ECU/CO/5-6, 26 de octubre de 2017
+[^429]: CRC/C/ECU/CO/4, 2 de marzo de 2010
+[^430]: CRC/C/ECU/CO/5-6, 26 de octubre de 2017

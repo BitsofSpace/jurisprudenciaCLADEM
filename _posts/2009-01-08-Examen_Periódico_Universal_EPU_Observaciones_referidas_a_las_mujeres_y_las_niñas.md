@@ -342,5 +342,5 @@ Derechos Humanos, que se celebrará en marzo de 2014:**
 	adecuados y accesibles para reducir la elevada mortalidad materna e
 	infantil entre la población indígena (Bosnia y Herzegovina.;**
 
-[^619] A/HRC/11/27 - 29 de mayo de 2009
-[^620] A/HRC/25/7, 11 de diciembre de 2013
+[^619]: A/HRC/11/27 - 29 de mayo de 2009
+[^620]: A/HRC/25/7, 11 de diciembre de 2013

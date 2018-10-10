@@ -1800,10 +1800,10 @@ un plazo de dos años, información sobre las medidas adoptadas en
 cumplimiento de las recomendaciones que figuran en los párrafos 9 a., 15
 a., 23 b. and 35 c..**
 
-[^679] A/51/38, 9 de mayo de 1996
-[^680] CEDAW/C/PAR/CC/3-5, 16 de febrero de 2005
-[^681] Las recomendaciones se encuentran en negrita.
-[^682] Artículo 47 - DE LAS GARANTÍAS DE LA IGUALDAD
+[^679]: A/51/38, 9 de mayo de 1996
+[^680]: CEDAW/C/PAR/CC/3-5, 16 de febrero de 2005
+[^681]: Las recomendaciones se encuentran en negrita.
+[^682]: Artículo 47 - DE LAS GARANTÍAS DE LA IGUALDAD
 El Estado garantizará a todos los habitantes de la República:
 1. la igualdad para el acceso a la justicia, a cuyo efecto allanará los
 obstáculos que la impidiesen;
@@ -1819,7 +1819,7 @@ económicos y culturales. El Estado promoverá las condiciones y creará los
 mecanismos adecuados para que la igualdad sea real y efectiva, allanando
 los obstáculos que impidan o dificulten su ejercicio y facilitando la
 participación de la mujer en todos los ámbitos de la vida nacional.
-[^683] La Constitución Nacional de 1992 establece una prohibición general
+[^683]: La Constitución Nacional de 1992 establece una prohibición general
 contra toda forma de discriminación, que dice:
 Artículo 46 - DE LA IGUALDAD DE LAS PERSONAS
 Todos los habitantes de la República son iguales en dignidad y derechos. No
@@ -1833,10 +1833,10 @@ discriminación, que arbitra mecanismos de sanción al discriminador y
 protección efectiva de las víctimas. El proyecto fue elaborado de forma
 participativa por una red de organizaciones sociales que trabajan a favor
 de la no discriminación.
-[^684] Código Penal paraguayo (Ley N° 1.160/97). Artículo 229.- Violencia
+[^684]: Código Penal paraguayo (Ley N° 1.160/97). Artículo 229.- Violencia
 familiar. El que, en el ámbito familiar, habitualmente ejerciera violencia
 física sobre otro con quien conviva, será castigado con multa.
-[^685] Código Penal paraguayo (Ley N° 1.160/97). Artículo 136.- Abuso sexual
+[^685]: Código Penal paraguayo (Ley N° 1.160/97). Artículo 136.- Abuso sexual
 en personas bajo tutela 1º El que realizara actos sexuales con una persona:
 1. no menor de catorce ni mayor de dieciséis años, cuya educación, guarda o
 tutela esté a su cargo;
@@ -1853,11 +1853,11 @@ sexuales o lo indujera a realizarlos ante sí o ante terceros.
 publicaciones pornográficas en los términos del artículo 14, inciso 3º,
 para estimularle sexualmente o causarle rechazo, será castigado con pena de
 hasta ciento ochenta días-multa.
-[^686] Código Penal paraguayo (Ley N° 1.160/97). Artículo 137.- Estupro 1º
+[^686]: Código Penal paraguayo (Ley N° 1.160/97). Artículo 137.- Estupro 1º
 El hombre que persuadiera a una mujer de catorce a dieciséis años a
 realizar el coito extramarital, será castigado con pena de multa. 2º Cuando
 el autor sea menor de dieciocho años se podrá prescindir de la pena.
-[^687] Aunque los esfuerzos hasta ahora fueron incipientes y no fueron
+[^687]: Aunque los esfuerzos hasta ahora fueron incipientes y no fueron
 integrales, el Estado paraguayo, con asistencia técnica de la Organización
 Internacional para las Migraciones OIM, y presión y apoyo financiero del
 gobierno de los Estados Unidos y del Banco Interamericano de Desarrollo
@@ -1870,14 +1870,14 @@ de Procedimientos Generales de Intervención en Trata de Personas, y en el
 el tema. Con la cooperación de la OIM, desde febrero de 2006 se inició un
 Programa Piloto de Proceso o Plan de Reintegración a víctimas de Trata de
 Personas.
-[^688] Véanse notas al pie de página N° 1 y 3.
-[^689] Por Ley N° 1.863/02 se sancionó el Estatuto Agrario, que derogó el
+[^688]: Véanse notas al pie de página N° 1 y 3.
+[^689]: Por Ley N° 1.863/02 se sancionó el Estatuto Agrario, que derogó el
 anterior, vigente desde 1963. El nuevo Estatuto introdujo medidas
 antidiscriminatorias y cláusulas de igualdad y preferencia, a favor de las
 mujeres campesinas cabeza de familia, como sujetos de la reforma agraria.
 No obstante, esta legislación aún carece de aplicación efectiva.
-[^690] CEDAW/C/PRY/CO/6, 8 de Noviembre de 2011.
-[^691] Las recomendaciones se encuentran en negrita.
-[^692] CEDAW/C/PRY/CO/7, 22 de noviembre de 2017
-[^693] Las recomendaciones se encuentran en negrita.
+[^690]: CEDAW/C/PRY/CO/6, 8 de Noviembre de 2011.
+[^691]: Las recomendaciones se encuentran en negrita.
+[^692]: CEDAW/C/PRY/CO/7, 22 de noviembre de 2017
+[^693]: Las recomendaciones se encuentran en negrita.
 

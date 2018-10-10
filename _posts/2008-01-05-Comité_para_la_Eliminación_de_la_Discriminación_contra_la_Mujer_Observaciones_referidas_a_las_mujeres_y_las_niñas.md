@@ -1839,8 +1839,8 @@ proporcione información por escrito sobre las medidas adoptadas para
 aplicar las recomendaciones que figuran en los párrafos 13 a. y d., y 29 a.
 y b..**
 
-[^560] 20 a 30de enero de 1992, Suplemento No. 38 (A/47/38)
-[^561] 23 de julio a 10 de agosto de 2007 - CEDAW/C/HON/CO/6
-[^562] Las recomendaciones se encuentran en negrita.
-[^563] CEDAW/C/HND/CO/7-8, 25 de noviembre de 2016
-[^564] Las recomendaciones se encuentran en negrita.
+[^560]: 20 a 30de enero de 1992, Suplemento No. 38 (A/47/38)
+[^561]: 23 de julio a 10 de agosto de 2007 - CEDAW/C/HON/CO/6
+[^562]: Las recomendaciones se encuentran en negrita.
+[^563]: CEDAW/C/HND/CO/7-8, 25 de noviembre de 2016
+[^564]: Las recomendaciones se encuentran en negrita.

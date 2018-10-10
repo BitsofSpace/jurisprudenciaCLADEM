@@ -269,12 +269,12 @@ víctimas de la trata al sistema de asilo (art. 8).
 
 
 
-[^837] (A/37/40), 22 de septiembre de 1982
-[^838] La República Oriental del Uruguay vivió bajo dictadura cívico militar
+[^837]: (A/37/40), 22 de septiembre de 1982
+[^838]: La República Oriental del Uruguay vivió bajo dictadura cívico militar
 desde el año 1973 hasta 1985.
-[^839] (A/44/40), 29 de septiembre de 1989
-[^840] Las recomendaciones se encuentran en negrita.
-[^841] El art. 149 bis del Código Penal fue incorporado por Ley Nº 16.048 de
+[^839]: (A/44/40), 29 de septiembre de 1989
+[^840]: Las recomendaciones se encuentran en negrita.
+[^841]: El art. 149 bis del Código Penal fue incorporado por Ley Nº 16.048 de
 16.6.1989 que penaliza la incitación al odio, desprecio o violencia en
 razón del color de su piel, raza, religión u origen nacional o étnico. Fue
 modificado por Ley Nº 17.677 de 29 de julio de 2003 incorporando la
@@ -286,13 +286,13 @@ Prevención, Detección Temprana, Atención y Erradicación. El 15.3.2007, se
 aprobó la Ley Nº 18.104 de Igualdad de Derechos y Oportunidades entre
 hombres y mujeres de la República. El 7.9.2004 por Ley Nº 17.823 se aprobó
 el Código de la Niñez y Adolescencia.
-[^842] CCPR/C/79/Add.19, 5 de mayo de 1993
-[^843] CCPR/C/79/Add.90, 8 de abril de 1998
-[^844] Las recomendaciones se encuentran en negrita.
-[^845] El 29.12.2005, se aprobó la Ley Nº 17.938 por la que se derogó el
+[^842]: CCPR/C/79/Add.19, 5 de mayo de 1993
+[^843]: CCPR/C/79/Add.90, 8 de abril de 1998
+[^844]: Las recomendaciones se encuentran en negrita.
+[^845]: El 29.12.2005, se aprobó la Ley Nº 17.938 por la que se derogó el
 art. 116 del C. Penal que remitía los delitos de violación, estupro y rapto
 por el casamiento del ofensor con la ofendida.
-[^846] El Código de la Niñez y Adolescencia (Ley Nº 17.823 de 7.9.04)
+[^846]: El Código de la Niñez y Adolescencia (Ley Nº 17.823 de 7.9.04)
 estableció el límite de edad en 12 años a las niñas y 14 años a los
 adolescentes, sin aprobación judicial, previa vista del Ministerio Público.
 Estableció como derecho deber el reconocer a los hijos cualquiera sea el
@@ -301,5 +301,5 @@ la Niñez y Adolescencia. es el órgano administrativo rector en materia de
 políticas de niñez y adolescencia, y competente en materia de promoción,
 protección y atención de los niños/niñas y adolescentes y su vínculo
 familiar. Tiene intervención preceptiva en materia de adopción.
-[^847] CCPR/C/URY/CO/5, 2 de diciembre de 2013
-[^848] Las recomendaciones se encuentran en negrital.
+[^847]: CCPR/C/URY/CO/5, 2 de diciembre de 2013
+[^848]: Las recomendaciones se encuentran en negrital.

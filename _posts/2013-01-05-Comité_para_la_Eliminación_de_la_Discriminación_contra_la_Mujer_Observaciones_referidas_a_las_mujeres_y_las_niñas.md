@@ -1830,30 +1830,30 @@ aplicar las recomendaciones mencionadas anteriormente en los párrafos 18 y
 
 
 
-[^731] Suplemento N. 38 (A 45/38), del 22 de Enero al 1 de Febrero de 1990
-[^732] Para propiciar el acceso a la propiedad de las mujeres sobretodo en
+[^731]: Suplemento N. 38 (A 45/38), del 22 de Enero al 1 de Febrero de 1990
+[^732]: Para propiciar el acceso a la propiedad de las mujeres sobretodo en
 ámbitos rurales existen varias barreras, así se restringe el derecho a la
 identidad y a la obtención del Documento Nacional de Identidad DNI. La Ley
 N° 28316 elimina el requisito de la libreta militar para obtener el
 Documento Nacional de Identidad DNI lo que facilita que las mujeres puedan
 ejercer sus derechos. El Estado ha realizado campañas de documentación en
 diferentes regiones del país.
-[^733] La Ley General de Salud reconoció la violencia familiar como un
+[^733]: La Ley General de Salud reconoció la violencia familiar como un
 problema de salud pública, (1997). Se modificaron las Leyes Orgánica del
 Poder Judicial y del Ministerio Público constituyendo juzgados, salas y
 fiscalías de familia. Los que son competentes para la atención de proceso
 de violencia familiar. Además, en 1998 se modificó el Código Penal, así se
 agrava los delitos contra la vida el cuerpo y la salud si existe una
 relación conyugal, convivencia o un vínculo familiar.
-[^734] A/50/38,paras.398-451, 16 de Enero a 3 de Febrero de 1995
-[^735] A/53/38/Rev.1, 22 de junio a 10 de julio de 1998
-[^736] Las recomendaciones se encuentran en negrita.
-[^737] Suplemento No. 38 (A/57/38), 5 al 23 de agosto de 2002
-[^738] Las recomendaciones se encuentran en negrita.
-[^739] Se aprobó y promulgó la Ley N° Ley N° 28983 Ley de Igualdad de
+[^734]: A/50/38,paras.398-451, 16 de Enero a 3 de Febrero de 1995
+[^735]: A/53/38/Rev.1, 22 de junio a 10 de julio de 1998
+[^736]: Las recomendaciones se encuentran en negrita.
+[^737]: Suplemento No. 38 (A/57/38), 5 al 23 de agosto de 2002
+[^738]: Las recomendaciones se encuentran en negrita.
+[^739]: Se aprobó y promulgó la Ley N° Ley N° 28983 Ley de Igualdad de
 Oportunidades entre Hombres y Mujeres, fue publicado el 16 de marzo de
 2007.
-[^740] Programa JUNTOS es un Programa Nacional de Apoyo Directo a los Más
+[^740]: Programa JUNTOS es un Programa Nacional de Apoyo Directo a los Más
 Pobres creado mediante D.S. Nº 032 - 2005 - PCM el 7 de abril de 2005. Es
 un programa condicionado a que las mujeres registren a sus hijos, los
 envíen a la escuela y a centros de salud. Sobre este programa hay muchas
@@ -1862,19 +1862,19 @@ las Regiones que fueron más afectadas por el conflicto armado interno.
 Fuente: Mapeo de las recomendaciones del Comité de la CEDAW a los Estados
 de la Región Andina y su grado de implementación, período 2000-2005. Lima:
 UNIFEM, 2006. p.11.
-[^741] Se dictó la Ley Nº 27942 Ley de Prevención y Sanción del
+[^741]: Se dictó la Ley Nº 27942 Ley de Prevención y Sanción del
 Hostigamiento que sanciona el acoso sexual en el ámbito administrativo, no
 constituye delito. La ley se publicó el 27 de febrero de 2003. El
 Reglamento de la Ley el D.S. N° 010-2003-MIMDES se dictó el 26 de noviembre
 de 2006.
-[^742] Mediante Decreto Supremo 009-2005-MIMDES, se aprueba el Plan
+[^742]: Mediante Decreto Supremo 009-2005-MIMDES, se aprueba el Plan
 Nacional. de Igualdades de Oportunidades entre Mujeres y Varones 2006-2010,
 publicado el 12 del 9 del 2005.
 Mediante Ley No 28983 –Ley de Igualdad de oportunidades, publicada el 16
 de marzo del 2007, se establece en el Artículo 6 inciso k), como
 lineamiento el garantizar el acceso educativo y el mantenimiento en todas
 las etapas del sistema educativo.
-[^743] Creación del Programa Nacional de Movilización por la Alfabetización,
+[^743]: Creación del Programa Nacional de Movilización por la Alfabetización,
 PRONAMA (Decreto Supremo No 022- 2006-Ed., «responsable de desarrollar las
 acciones conducentes a erradicar el analfabetismo en el país,
 constituyéndose como Unidad Ejecutora el Ministerio de Educación
@@ -1943,7 +1943,7 @@ educación en condiciones de igualdad con programas especiales que
 garanticen la igualdad de oportunidades y equidad de género. En su artículo
 3º por su parte, señala que la sociedad tiene la responsabilidad de
 contribuir a la educación y el derecho a participar en su desarrollo”
-[^744] CEDAW/C/PER/CO/6 - 15 de enero a 2 de febrero de 2007
-[^745] Las recomendaciones se encuentran en negrita.
-[^746] CEDAW/C/PER/CO/7-8, 24 de julio de 2014
-[^747] Las recomendaciones se encuentran en negrita.
+[^744]: CEDAW/C/PER/CO/6 - 15 de enero a 2 de febrero de 2007
+[^745]: Las recomendaciones se encuentran en negrita.
+[^746]: CEDAW/C/PER/CO/7-8, 24 de julio de 2014
+[^747]: Las recomendaciones se encuentran en negrita.

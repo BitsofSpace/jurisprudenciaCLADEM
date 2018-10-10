@@ -505,11 +505,11 @@ familiar, el Comité recomienda al Estado parte que:**
 	infectadas con el VIH.**
 
 
-[^536] CRC/C/15/Add.58, 7 de junio de 1996
-[^537] Las recomendaciones se encuentran en negrita.
-[^538] CRC/C/15/Add.154, 9 de julio de 2001
-[^539] Las recomendaciones se encuentran en negrita.
-[^540] CRC/C/GTM/CO/3-4, 25 de octubre de 2010
-[^541] Las recomendaciones se encuentran en negrita.
-[^542] CRC/C/GTM/CO/5-6, 28 de febrero de 2018
-[^543] Las recomendaciones se encuentran en negrita.
+[^536]: CRC/C/15/Add.58, 7 de junio de 1996
+[^537]: Las recomendaciones se encuentran en negrita.
+[^538]: CRC/C/15/Add.154, 9 de julio de 2001
+[^539]: Las recomendaciones se encuentran en negrita.
+[^540]: CRC/C/GTM/CO/3-4, 25 de octubre de 2010
+[^541]: Las recomendaciones se encuentran en negrita.
+[^542]: CRC/C/GTM/CO/5-6, 28 de febrero de 2018
+[^543]: Las recomendaciones se encuentran en negrita.

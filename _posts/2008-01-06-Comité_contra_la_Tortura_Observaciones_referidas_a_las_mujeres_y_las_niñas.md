@@ -61,5 +61,5 @@ interrumpir su embarazo tengan acceso a abortos legales y en condiciones
 seguras.**
 
 
-[^565] CAT/C/HND/CO/2, 26 de agosto de 2016
-[^566] Las recomendaciones se encuentran en negrita.
+[^565]: CAT/C/HND/CO/2, 26 de agosto de 2016
+[^566]: Las recomendaciones se encuentran en negrita.

@@ -145,4 +145,4 @@ Mujeres (Convención Belém Do Pará).
 
 
 
-[^622] OEA/Ser.L/II.7.10; MESECVI-IV/doc.83/12
+[^622]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.83/12

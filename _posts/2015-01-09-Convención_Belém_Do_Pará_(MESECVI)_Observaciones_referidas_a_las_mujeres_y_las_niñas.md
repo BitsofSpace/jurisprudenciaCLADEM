@@ -225,5 +225,5 @@ de violencia contra las mujeres.
 
 
 
-[^909] A/HRC/26/7, 4 de abril de 2014
-[^910] OEA/Ser.L/II.7.10; MESECVI-IV/doc.93/12
+[^909]: A/HRC/26/7, 4 de abril de 2014
+[^910]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.93/12
