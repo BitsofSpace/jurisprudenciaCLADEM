@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República-Dominicana"
+   - "Republica-Dominicana"
 ---
 
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas

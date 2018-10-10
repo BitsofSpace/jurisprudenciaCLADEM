@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
- - "México"
+ - "Mexico"
 ---
 
 # Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas

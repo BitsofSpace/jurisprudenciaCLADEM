@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República-Dominicana"
+   - "Republica-Dominicana"
 ---
 
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas

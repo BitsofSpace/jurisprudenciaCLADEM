@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: conclusiones y recomendaciones para Perú"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas
 

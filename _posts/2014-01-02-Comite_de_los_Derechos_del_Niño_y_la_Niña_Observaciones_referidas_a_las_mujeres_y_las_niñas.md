@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República-Dominicana"
+   - "Republica-Dominicana"
 ---
 
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas

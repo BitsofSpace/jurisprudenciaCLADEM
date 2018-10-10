@@ -3,7 +3,7 @@ layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 

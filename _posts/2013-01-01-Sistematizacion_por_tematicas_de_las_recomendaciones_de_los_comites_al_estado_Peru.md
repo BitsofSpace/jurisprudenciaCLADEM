@@ -3,7 +3,7 @@ layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado Perú"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Sistematización por temáticas de las recomendaciones de los comités al estado Perú
 

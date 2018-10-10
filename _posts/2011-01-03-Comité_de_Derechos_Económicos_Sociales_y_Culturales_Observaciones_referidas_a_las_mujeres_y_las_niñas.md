@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a mujeres y niñas

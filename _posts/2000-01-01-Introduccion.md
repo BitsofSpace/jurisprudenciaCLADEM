@@ -1,9 +1,9 @@
 ---
 layout: apartado
-title: "Introducción"
+title: "Introduccion"
 cover: img/portada.png
 categories:
-   - "Introducción"
+   - "Introduccion"
 ---
 
 # Introducción
