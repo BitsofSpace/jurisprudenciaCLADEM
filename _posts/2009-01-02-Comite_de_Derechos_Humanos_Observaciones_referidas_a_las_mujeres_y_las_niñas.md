@@ -447,9 +447,6 @@ mujeres detenidas es generalizada (arts. 3 y 10 del Pacto).
 	como la separación de las mujeres y los hombres reclusos y adoptar normas
 	específicas para proteger los derechos de las mujeres detenidas.**
 
-[^574]: A/HRC/WG.6/9/L.8, 12 November 2010
-[^575]: A/HRC/30/11, 15 de julio de 2015
-[^576]: OEA/Ser.L/V/II.; Doc. 42/15
 [^577]: Suplemento No. 40 (A/38/40), 15 de septiembre de 1983
 [^578]: Suplemento No. 40 (A/44/40), 29 de septiembre de 1989
 [^579]: CCPR/C/79/Add. 32, 18 de abril de 1994

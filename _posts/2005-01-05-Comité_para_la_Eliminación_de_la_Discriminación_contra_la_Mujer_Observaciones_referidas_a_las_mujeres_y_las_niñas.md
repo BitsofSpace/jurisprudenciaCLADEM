@@ -7,8 +7,7 @@ categories:
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 
-## 1º Observaciones finales sobre el primer informe presentado por el Estado
-adoptadas en 1986.[^380]
+## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en 1986.[^380]
 
 _El comité no emite recomendaciones al estado y más bien se limita a relatar
 el desarrollo de la sesión de reporte._
@@ -930,13 +929,14 @@ que incluya información al respecto en su próximo informe periódico.**
 #### Ratificación de otros tratados
 
 46. **El Comité señala que la adhesión de los Estados a los nueve
-principales instrumentos internacionales de derechos humanos[408] potencia
-el disfrute por la mujer de sus derechos humanos y libertades fundamentales
-en todos los aspectos de la vida. Por lo tanto, alienta al Gobierno del
-Ecuador a que ratifique los tratados en los que todavía no es parte, a
-saber, la Convención Internacional para la protección de todas las personas
-contra las desapariciones forzadas y la Convención sobre los derechos de
-las personas con discapacidad y su Protocolo Facultativo.**
+    principales instrumentos internacionales de derechos humanos[^408]
+    potencia el disfrute por la mujer de sus derechos humanos y
+    libertades fundamentales en todos los aspectos de la vida. Por lo
+    tanto, alienta al Gobierno del Ecuador a que ratifique los tratados
+    en los que todavía no es parte, a saber, la Convención Internacional
+    para la protección de todas las personas contra las desapariciones
+    forzadas y la Convención sobre los derechos de las personas con
+    discapacidad y su Protocolo Facultativo.**
 
 #### Difusión de las observaciones finales
 

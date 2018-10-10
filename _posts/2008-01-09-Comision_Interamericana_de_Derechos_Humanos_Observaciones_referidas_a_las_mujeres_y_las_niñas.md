@@ -122,3 +122,5 @@ y adolescentes.
 mujeres, particularmente en la Penitenciaría Nacional de San Pedro Sula y
 en el Centro Penal de Progreso. Asimismo, adoptar las medidas necesarias
 para mantener la separación entre procesados y condenados.
+
+[^576]: OEA/Ser.L/V/II.; Doc. 42/15

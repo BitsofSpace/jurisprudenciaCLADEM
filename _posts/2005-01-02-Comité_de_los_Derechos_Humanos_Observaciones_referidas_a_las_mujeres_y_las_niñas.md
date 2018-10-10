@@ -30,33 +30,35 @@ cuestiones planteadas tema por tema.
 ## 3º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas en 1988.[^340]
 
 310. El comité examinó el segundo informe periódico del Ecuador
-(CCPR/C/28/Add.8 y 9) en sus sesiones 796ª a 799ª y 831ª y 832ª, celebradas
-el 28 y 29 de marzo y el 22 de julio de 1988 (CCPR/C/SR.796 a 799 y 831 y
-832).
+     (CCPR/C/28/Add.8 y 9) en sus sesiones 796ª a 799ª y 831ª y 832ª,
+     celebradas el 28 y 29 de marzo y el 22 de julio de 1988
+     (CCPR/C/SR.796 a 799 y 831 y 832).
 
-	_No se observan recomendaciones con sensibilidad de género._
+     _No se observan recomendaciones con sensibilidad de género._
 
 
 ## 4º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas en noviembre de 1991.[^341]
 
 219. El Comité examinó el tercer informe periódico del Ecuador
-(CCPR/C/58/Add.9) en sus sesiones 1116ª a 1119ª, celebradas el 6 y 7 de
-noviembre de 1991 (CCPR/C/SR.1116 a 1119).
+     (CCPR/C/58/Add.9) en sus sesiones 1116ª a 1119ª, celebradas el 6 y
+     7 de noviembre de 1991 (CCPR/C/SR.1116 a 1119).
 
-	(…)
+     (…)
 
-	261.… Entre las inquietudes expresadas por los miembros que no habían
-	recibido plena satisfacción figuraban las relativas (…) la prohibición a
-	las mujeres de firmar contratos para ir a trabajar al extranjero.[^342]
+     261. ... Entre las inquietudes expresadas por los miembros que no
+          habían recibido plena satisfacción figuraban las relativas (…)
+          la prohibición a las mujeres de firmar contratos para ir a
+          trabajar al extranjero.[^342]
 
-	234.... Además, se solicitó información sobre la legislación y la práctica
-	en materia de interrupción del embarazo en el Ecuador y el número de
-	mujeres que habían sido castigadas por haber abortado.
+     234. ... Además, se solicitó información sobre la legislación y la
+          práctica en materia de interrupción del embarazo en el Ecuador
+          y el número de mujeres que habían sido castigadas por haber
+          abortado.
 
-	251.…También pidieron más información sobre el derecho de la mujer casada a
-	iniciar actuaciones judiciales.[^343]
+     251. ... También pidieron más información sobre el derecho de la
+          mujer casada a iniciar actuaciones judiciales.[^343]
 
-## 5º Observaciones finales sobre el cuarto[344] informe presentado por el Estado adoptadas el 27 de julio de 1998.[^345]
+## 5º Observaciones finales sobre el cuarto[^344] informe presentado por el Estado adoptadas el 27 de julio de 1998.[^345]
 
 1. El Comité de Derechos Humanos examinó el cuarto informe periódico del
 Ecuador (CCPR/C/84/Add.6) en sus 1673ª y 1674ª sesiones, celebradas el 14

@@ -95,7 +95,7 @@ progresiva, medidas específicas, inclusive programas para:_
    prejuicios y costumbres y todo otro tipo de prácticas que se basen en la
    premisa de la inferioridad o superioridad de cualquiera de los géneros o en
    los papeles estereotipados para el hombre y la mujer que legitimizan o
-   exacerban la violencia contra la mujer;
+   exacerban la violencia contra la mujer;_
 
    e. _fomentar y apoyar programas de educación gubernamentales y del sector
    privado destinados a concientizar al público sobre los problemas
@@ -341,7 +341,7 @@ Estos derechos comprenden, entre otros:_
     c. _incluir en su legislación interna normas penales, civiles y
     administrativas, así como las de otra naturaleza que sean necesarias para
     prevenir, sancionar y erradicar la violencia contra la mujer y adoptar las
-    medidas administrativas apropiadas que sean del caso;
+    medidas administrativas apropiadas que sean del caso;_
 
     **Se recomienda al Estado la derogación del artículo 132 del Código Penal,
     que establece que la víctima de abuso sexual, si fuere mayor de 16 años,

@@ -1016,7 +1016,7 @@ que incluya información al respecto en su próximo informe periódico.**
 #### Ratificación de otros tratados
 
 56. **El Comité señala que la adhesión de los Estados a los nueve principales
-instrumentos internacionales de derechos humanos[648] potencia que la mujer
+instrumentos internacionales de derechos humanos[^648] potencia que la mujer
 disfrute de sus derechos humanos y libertades fundamentales en todos los
 aspectos de la vida. Por lo tanto, el Comité alienta al Estado parte a que
 ratifique los instrumentos en los que todavía no es parte, a saber, la

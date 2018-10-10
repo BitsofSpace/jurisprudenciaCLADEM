@@ -7,7 +7,7 @@ categories:
 ---
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas
 
-## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en diciembre de 1990.[3^53]
+## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en diciembre de 1990.[^353]
 
 130. El Comité examinó los informes iniciales del Ecuador sobre los
 derechos reconocidos en los artículos 10 a 12 (E/1986/3/Add.14) y 13 a 15

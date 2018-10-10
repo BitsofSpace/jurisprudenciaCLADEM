@@ -38,7 +38,7 @@ sugiere además que el Estado Parte podría considerar la posibilidad de
 adoptar medidas adecuadas para aplicar el Convenio N° 169 de la OIT sobre
 pueblos indígenas y tribales en países independientes.
 
-## 2º Observaciones finales sobre el segundo informe[568] presentado por el Estado adoptadas el 4 de junio de 1999.[^569]
+## 2º Observaciones finales sobre el segundo informe[^568] presentado por el Estado adoptadas el 4 de junio de 1999.[^569]
 
 El Comité examinó el segundo informe periódico de Honduras (CRC/C/65/Add.2)
 en sus sesiones 541ª y 542ª (véase CRC/C/SR. 541 y 542) celebradas el día

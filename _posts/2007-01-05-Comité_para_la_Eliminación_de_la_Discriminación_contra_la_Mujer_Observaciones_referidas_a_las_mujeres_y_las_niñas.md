@@ -646,7 +646,7 @@ periódico, incluya información a ese respecto.**
 
 39. El Comité encomia al Estado parte por haber ratificado los siete
 instrumentos internacionales más importantes en materia de derechos
-humanos[528]. Señala que la adhesión del Estado parte a esos instrumentos
+humanos[^528]. Señala que la adhesión del Estado parte a esos instrumentos
 contribuye a que la mujer disfrute de los derechos humanos y las libertades
 fundamentales en todos los aspectos de la vida.
 

@@ -49,7 +49,6 @@ permiso de maternidad mencionados en el informe (E/1986/4/Add.18, párr.
 22).
 
 [^222]: E/1988/14 - E/C.12/1988/4 par. 184-218, 8 a 25 de febrero de 1988
-[^223]:
 
 ## 2º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas el 26 de noviembre de 2004.[^223]
 

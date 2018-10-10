@@ -18,39 +18,43 @@ Internet._
  
 ## 2º Observaciones finales sobre el segundo informe presentado por el Estado adaptadas en enero de 1990.[^282]
 
-169. El Comité examinó el segundo informe periódico de Colombia sobre los
-derechos reconocidos en los artículos 10 a 12 del Pacto (E/1986/4/Add.25)
-en sus sesiones 12ª. 14ª. y 17ª., celebradas del 23 al 25 de enero de 1990
-(E/C.12/1990/SR.12 a 14 y 17).
+169. El Comité examinó el segundo informe periódico de Colombia sobre
+     los derechos reconocidos en los artículos 10 a 12 del Pacto
+     (E/1986/4/Add.25) en sus sesiones 12ª. 14ª. y 17ª., celebradas del
+     23 al 25 de enero de 1990 (E/C.12/1990/SR.12 a 14 y 17).
 
 ### C. Artículo 10: Protección de la familia, las madres y los niños
 
 (…)
 
-187. Los miembros del Comité tomaron nota de que la legislación colombiana
-reconocía el derecho de las madres adoptivas a una licencia de pos
-maternidad y preguntaron si los padres gozaban de este derecho y si éste se
-hacía extensivo a los padres adoptivos.[^283]
+187. Los miembros del Comité tomaron nota de que la legislación
+     colombiana reconocía el derecho de las madres adoptivas a una
+     licencia de pos maternidad y preguntaron si los padres gozaban de
+     este derecho y si éste se hacía extensivo a los padres
+     adoptivos.[^283]
 
 188. Además los miembros del Comité desearon saber qué porcentaje de
-mujeres embarazadas recibían asistencia con arreglo al programa de
-seguridad social, qué porcentaje de mujeres empleadas estaban afiliadas en
-la práctica al programa de seguridad social, qué porcentaje de mujeres
-estaban empleadas en el sector informal o trabajan para empleadores que no
-cumplían con las leyes de seguridad social, y en qué fase se encontraba el
-programa emprendido conjuntamente con la UNICEF para tratar el problema de
-los niños abandonados en las calles.
+     mujeres embarazadas recibían asistencia con arreglo al programa de
+     seguridad social, qué porcentaje de mujeres empleadas estaban
+     afiliadas en la práctica al programa de seguridad social, qué
+     porcentaje de mujeres estaban empleadas en el sector informal o
+     trabajan para empleadores que no cumplían con las leyes de
+     seguridad social, y en qué fase se encontraba el programa
+     emprendido conjuntamente con la UNICEF para tratar el problema de
+     los niños abandonados en las calles.
 
-     _No se observan recomendaciones con perspectiva de género. Sin embargo se
-transcriben algunos párrafos donde se menciona a las mujeres._
+     _No se observan recomendaciones con perspectiva de género. Sin
+     embargo se transcriben algunos párrafos donde se menciona a las
+     mujeres._
 
 
 ## 3º Observaciones finales sobre el segundo informe presentado por el Estado adaptadas en diciembre de 1991.[^284]
 
-294. El Comité examinó el segundo informe periódico de Colombia sobre los
-derechos reconocidos en los artículos 13 a 15 del Pacto (E/1990/7/Add.4) en
-sus sesiones 17 a., 18 a. y 25 a., celebradas los días 5, 6, y 12 de
-diciembre de 1991 (E/C.12/1991/SR.17, 18 y 25).
+294. El Comité examinó el segundo informe periódico de Colombia sobre
+     los derechos reconocidos en los artículos 13 a 15 del Pacto
+     (E/1990/7/Add.4) en sus sesiones 17 a., 18 a. y 25 a., celebradas
+     los días 5, 6, y 12 de diciembre de 1991 (E/C.12/1991/SR.17, 18 y
+     25).
 
      _No se observan recomendaciones con perspectiva de género._
 
@@ -58,51 +62,55 @@ diciembre de 1991 (E/C.12/1991/SR.17, 18 y 25).
 ## 4º Observaciones finales sobre el tercer informe[^285] presentado por el Estado adaptadas en noviembre de 1995. [^286]
 
 1. El Comité examinó el tercer informe periódico de Colombia
-(E/1994/104/Add.2) en sus sesiones 32a, 33a y 35a celebradas los días 21 y
-22 de noviembre de 1995 y aprobó∗ las siguientes observaciones finales.
+   (E/1994/104/Add.2) en sus sesiones 32a, 33a y 35a celebradas los días
+   21 y 22 de noviembre de 1995 y aprobó las siguientes observaciones finales.
 
-6. El Comité celebra que el Gobierno está decido a responder al problema de
-violencia contra las mujeres mediante la revisión de las disposiciones
-correspondientes del derecho penal y el mejoramiento de sus programas a
-favor de la mujer. También toma nota con satisfacción de que Colombia se
-propone a ratificar en breve la Convención Interamericana para prevenir,
-sancionar y erradicar la violencia contra la mujer[^287].
+6. El Comité celebra que el Gobierno está decido a responder al problema
+   de violencia contra las mujeres mediante la revisión de las
+   disposiciones correspondientes del derecho penal y el mejoramiento de
+   sus programas a favor de la mujer. También toma nota con satisfacción
+   de que Colombia se propone a ratificar en breve la Convención
+   Interamericana para prevenir, sancionar y erradicar la violencia
+   contra la mujer[^287].
 
    (…)
 
-11. Preocupa al Comité el hecho de que el "Programa de madres comunitarias"
-destinado a ayudar a los niños no cuente con fondos suficientes, habida
-cuenta de la importante labor social que llevan a cabo esas mujeres sin la
-formación adecuada y en malas condiciones de trabajo.
+11. Preocupa al Comité el hecho de que el "Programa de madres
+    comunitarias" destinado a ayudar a los niños no cuente con fondos
+    suficientes, habida cuenta de la importante labor social que llevan
+    a cabo esas mujeres sin la formación adecuada y en malas condiciones
+    de trabajo.
 
     (…)
 
 14. El Comité expresa su preocupación por la difundida discriminación
-contra la mujer. Por ejemplo se señala que los sueldos de las mujeres son
-por término medio inferiores en un 30% al de los hombres.
+    contra la mujer. Por ejemplo se señala que los sueldos de las
+    mujeres son por término medio inferiores en un 30% al de los
+    hombres.
 
     (…)
 
-17. El Comité está preocupado por la gran incidencia de trabajo infantil,
-en particular en ocupaciones arduas y poco sanas (tales como fabricación de
-ladrillos, minería. y por la acción insuficiente adoptada por el Gobierno
-para combatir esa práctica.
+17. El Comité está preocupado por la gran incidencia de trabajo
+    infantil, en particular en ocupaciones arduas y poco sanas (tales
+    como fabricación de ladrillos, minería. y por la acción insuficiente
+    adoptada por el Gobierno para combatir esa práctica.
 
     (…)
 
 24. **El Comité insta a que se preste mayor atención al problema de
-discriminación contra la mujer y que se apliquen programas para erradicar
-las desigualdades entre el hombre y la mujer. Al mismo tiempo esos
-programas deberían destinarse a aumentar la conciencia pública y el interés
-por los derechos económicos, sociales y culturales de la mujer.**
+    discriminación contra la mujer y que se apliquen programas para
+    erradicar las desigualdades entre el hombre y la mujer. Al mismo
+    tiempo esos programas deberían destinarse a aumentar la conciencia
+    pública y el interés por los derechos económicos, sociales y
+    culturales de la mujer.**
 
     (…)
 
 28. **El Comité considera también que el Gobierno de Colombia debería:**
 
-    **a. mejorar la formación de las “madres comunitarias” y regularizar su
+    a. **mejorar la formación de las “madres comunitarias” y regularizar su
     situación laboral, tratándolas a todos los fines como trabajadoras
-    empleadas por una tercera persona.
+    empleadas por una tercera persona.**
 
     (…)
 
@@ -120,104 +128,109 @@ noviembre de 2001 (E/C.12/2001/SR.85 y 86).
 
 (…)
 
-13. El Comité toma nota que desde 1997 no se han registrado avances, sino
-más bien retrocesos en materia de igualdad entre el hombre y la mujer lo
-que expone a ésta al riesgo de empobrecimiento general. El Comité lamenta
-que la Oficina para la Equidad de la Mujer, creada inicialmente como
-institución autónoma desde el punto de vista financiero y administrativo,
-haya perdido su autonomía y que su presupuesto haya sido reducido al pasar
-a formar parte de la Administración y convertirse en Consejería
-Presidencial para la Equidad de la Mujer.
+13. El Comité toma nota que desde 1997 no se han registrado avances,
+    sino más bien retrocesos en materia de igualdad entre el hombre y la
+    mujer lo que expone a ésta al riesgo de empobrecimiento general. El
+    Comité lamenta que la Oficina para la Equidad de la Mujer, creada
+    inicialmente como institución autónoma desde el punto de vista
+    financiero y administrativo, haya perdido su autonomía y que su
+    presupuesto haya sido reducido al pasar a formar parte de la
+    Administración y convertirse en Consejería Presidencial para la
+    Equidad de la Mujer.
 
 14. Preocupa al Comité la reducción del presupuesto del Instituto
-Colombiano de Bienestar Familiar para “las madres comunitarias”, que se
-ocupan casi de 1,3 millones de niños. Deplora que las madres comunitarias
-sigan sin ser reconocidas como trabajadoras ni perciban el salario mínimo
-legal.
+    Colombiano de Bienestar Familiar para “las madres comunitarias”, que
+    se ocupan casi de 1,3 millones de niños. Deplora que las madres
+    comunitarias sigan sin ser reconocidas como trabajadoras ni perciban
+    el salario mínimo legal.
 
-15. Preocupa al Comité profundamente el rápido crecimiento del desempleo y
-que afecte sobre todo a los jóvenes y a las mujeres.
+15. Preocupa al Comité profundamente el rápido crecimiento del desempleo
+    y que afecte sobre todo a los jóvenes y a las mujeres.
 
 16. Preocupa al Comité que el salario mínimo nacional no baste para
-garantizar un nivel de vida adecuado al trabajador y su familia. Preocupa
-igualmente al Comité que siga habiendo una gran disparidad entre los
-salarios de los hombres y las mujeres, sobre todo en el sector comercial, y
-que, según la Consejería Presidencial para la Equidad de la Mujer, los
-sueldos de las mujeres sean en general inferiores en un 25% al de los
-hombres.
+    garantizar un nivel de vida adecuado al trabajador y su familia.
+    Preocupa igualmente al Comité que siga habiendo una gran disparidad
+    entre los salarios de los hombres y las mujeres, sobre todo en el
+    sector comercial, y que, según la Consejería Presidencial para la
+    Equidad de la Mujer, los sueldos de las mujeres sean en general
+    inferiores en un 25% al de los hombres.
 
     (…)
 
 22. Preocupa profundamente al Comité las condiciones de vida de los
-desplazados internos, en particular de las mujeres, los niños, los
-campesinos y los miembros de las comunidades indígenas y afrocolombianas.
+    desplazados internos, en particular de las mujeres, los niños, los
+    campesinos y los miembros de las comunidades indígenas y
+    afrocolombianas.
 
     (…)
 
-24. Preocupa fundamentalmente al Comité el hecho de que haya reducido los
-subsidios estatales para cuidados médicos, lo que hace más difícil el
-acceso a servicios de sanidad, sobre todo en las zonas rurales en las que
-la cobertura médica es ya mucho más limitada que la de las zonas urbanas.
-El Comité observa también que la reducción de los subsidios tiene
-consecuencias perjudiciales para las mujeres y las comunidades indígenas.
+24. Preocupa fundamentalmente al Comité el hecho de que haya reducido
+    los subsidios estatales para cuidados médicos, lo que hace más
+    difícil el acceso a servicios de sanidad, sobre todo en las zonas
+    rurales en las que la cobertura médica es ya mucho más limitada que
+    la de las zonas urbanas.  El Comité observa también que la reducción
+    de los subsidios tiene consecuencias perjudiciales para las mujeres
+    y las comunidades indígenas.
 
     (…)
 
 34. **El Comité insta al Estado Parte a adoptar medidas legislativas y
-financieras necesarias para garantizar la independencia de la Consejería
-Presidencial para la Equidad de la Mujer a fin de tener la posibilidad de
-afrontar con eficacia los graves problemas que plantean al respecto en el
-país.**
+    financieras necesarias para garantizar la independencia de la
+    Consejería Presidencial para la Equidad de la Mujer a fin de tener
+    la posibilidad de afrontar con eficacia los graves problemas que
+    plantean al respecto en el país.**
 
-35. **El Comité reitera su recomendación de 1995 de que se debe regularizar
-la condición laboral de las madres comunitarias y considerarlas como
-trabajadoras para que tengan derecho a percibir salario mínimo.**
+35. **El Comité reitera su recomendación de 1995 de que se debe
+    regularizar la condición laboral de las madres comunitarias y
+    considerarlas como trabajadoras para que tengan derecho a percibir
+    salario mínimo.**
 
 36. **El Comité alienta al Estado Parte a adoptar medidas destinadas a
-reducir el elevado índice de desempleo, y, en particular, a resolver
-problemas de desempleo de los jóvenes y de las mujeres.**
+    reducir el elevado índice de desempleo, y, en particular, a resolver
+    problemas de desempleo de los jóvenes y de las mujeres.**
 
-37. **El Comité exhorta al Estado Parte a procurar que el salario mínimo que
-dé a los trabajadores y a sus familias la posibilidad de tener un nivel de
-vida adecuado. Insta también al Estado Parte a adoptar la política de
-abonar un salario igual por trabajo de igual valor según lo dispuesto en el
-Pacto y de reducir la disparidad entre los hombres y las mujeres en materia
-de salario.**
+37. **El Comité exhorta al Estado Parte a procurar que el salario mínimo
+    que dé a los trabajadores y a sus familias la posibilidad de tener
+    un nivel de vida adecuado. Insta también al Estado Parte a adoptar
+    la política de abonar un salario igual por trabajo de igual valor
+    según lo dispuesto en el Pacto y de reducir la disparidad entre los
+    hombres y las mujeres en materia de salario.**
 
-     (…)
+    (…)
 
 45. **El Comité pide al Estado Parte que en su próximo informe periódico
-proporcione informaciones detalladas con datos comparativos sobre el
-problema de aborto en Colombia, y sobre las medidas legislativas, o de otro
-carácter, entre ellas la revisión de las disposiciones legislativas
-vigentes, que haya adoptado para proteger a las mujeres contra el riesgo de
-aborto clandestino en condiciones peligrosas. El Comité recomienda al
-Estado Parte que aplique con energía su Plan Nacional de Salud Sexual y
-Reproductiva.**
+    proporcione informaciones detalladas con datos comparativos sobre el
+    problema de aborto en Colombia, y sobre las medidas legislativas, o
+    de otro carácter, entre ellas la revisión de las disposiciones
+    legislativas vigentes, que haya adoptado para proteger a las mujeres
+    contra el riesgo de aborto clandestino en condiciones peligrosas. El
+    Comité recomienda al Estado Parte que aplique con energía su Plan
+    Nacional de Salud Sexual y Reproductiva.**
 
 ## 6º Observaciones finales sobre el quinto informe presentado por el Estado adaptadas en mayo de 2010.[^290]
 
 1. El Comité de Derechos Económicos, Sociales y Culturales examinó el
-quinto informe periódico de Colombia sobre la aplicación del Pacto
-Internacional de Derechos Económicos, Sociales y Culturales (E/C.12/COL/5)
-en sus sesiones tercera, cuarta y quinta, celebradas los días 4 y 5 de mayo
-de 2010 (véase E/C.12/2010/SR.3, 4 y 5) y, en sus sesiones 23ª, 24ª y 25ª,
-celebradas los días 19 y 20 de mayo de 2010, aprobó las observaciones
-finales que figuran a continuación.
+   quinto informe periódico de Colombia sobre la aplicación del Pacto
+   Internacional de Derechos Económicos, Sociales y Culturales
+   (E/C.12/COL/5) en sus sesiones tercera, cuarta y quinta, celebradas
+   los días 4 y 5 de mayo de 2010 (véase E/C.12/2010/SR.3, 4 y 5) y, en
+   sus sesiones 23ª, 24ª y 25ª, celebradas los días 19 y 20 de mayo de
+   2010, aprobó las observaciones finales que figuran a continuación.
 
 ### D. Principales motivos de preocupación y recomendaciones[^291]
 
 (…)
 
-11. Al Comité le preocupa que el nivel de desempleo en el Estado parte siga
-siendo elevado, en particular en las zonas rurales y entre los jóvenes, las
-mujeres, y los pueblos indígenas y los afrocolombianos. Preocupa también al
-Comité que la creación de oportunidades de empleo se presente
-fundamentalmente en el sector informal de la economía (el 60%), lo que
-tiene efectos negativos en el acceso a la seguridad social. Inquietan
-también al Comité las condiciones de trabajo prevalecientes en el sector
-informal de la economía y en las zonas rurales, donde los salarios siguen
-siendo muy bajos (arts. 6 y 7).
+11. Al Comité le preocupa que el nivel de desempleo en el Estado parte
+    siga siendo elevado, en particular en las zonas rurales y entre los
+    jóvenes, las mujeres, y los pueblos indígenas y los afrocolombianos.
+    Preocupa también al Comité que la creación de oportunidades de
+    empleo se presente fundamentalmente en el sector informal de la
+    economía (el 60%), lo que tiene efectos negativos en el acceso a la
+    seguridad social. Inquietan también al Comité las condiciones de
+    trabajo prevalecientes en el sector informal de la economía y en las
+    zonas rurales, donde los salarios siguen siendo muy bajos (arts. 6 y
+    7).
 
     **El Comité recomienda al Estado parte que:**
 
@@ -237,15 +250,16 @@ siendo muy bajos (arts. 6 y 7).
 
     (…)
 
-15. Al Comité le inquietan profundamente la persistencia de los numerosos
-casos de asesinato y violación de mujeres adultas y jóvenes en el Estado
-parte y los actos de violencia, en particular de carácter sexual, cometidos
-por las fuerzas armadas y los grupos armados ilegales, a pesar de las
-medidas legislativas y políticas adoptadas por el Estado parte para
-combatir la violencia contra la mujer. Al Comité le sigue preocupando la
-impunidad de que siguen gozando los autores de esos actos. Preocupa en
-particular al Comité la violencia contra la mujer en las situaciones de
-desplazamiento forzado ocasionado por el conflicto armado (art. 10).
+15. Al Comité le inquietan profundamente la persistencia de los
+    numerosos casos de asesinato y violación de mujeres adultas y
+    jóvenes en el Estado parte y los actos de violencia, en particular
+    de carácter sexual, cometidos por las fuerzas armadas y los grupos
+    armados ilegales, a pesar de las medidas legislativas y políticas
+    adoptadas por el Estado parte para combatir la violencia contra la
+    mujer. Al Comité le sigue preocupando la impunidad de que siguen
+    gozando los autores de esos actos. Preocupa en particular al Comité
+    la violencia contra la mujer en las situaciones de desplazamiento
+    forzado ocasionado por el conflicto armado (art. 10).
 
     **El Comité insta al Estado parte a que intensifique sus esfuerzos destinados
     a prevenir y eliminar la violencia contra las mujeres, aplicando de manera
@@ -279,14 +293,15 @@ desplazamiento forzado ocasionado por el conflicto armado (art. 10).
     (…)
 
 17. Al Comité le preocupa el elevado número de niños que siguen siendo
-víctimas de explotación sexual, en particular los pertenecientes a grupos
-desfavorecidos y marginados, como los niños desplazados internos y los que
-viven en la pobreza, a pesar de las medidas ya adoptadas por el Estado
-parte, como la ley que tipifica como delito la explotación sexual, el
-turismo sexual con menores de edad y la pornografía infantil, sobre la que
-existen disposiciones específicas relativas a los proveedores de servicios
-de Internet, así como el Plan de Acción Nacional para la Prevención y
-Erradicación de la Explotación Sexual (2006-2011) (art. 10).
+    víctimas de explotación sexual, en particular los pertenecientes a
+    grupos desfavorecidos y marginados, como los niños desplazados
+    internos y los que viven en la pobreza, a pesar de las medidas ya
+    adoptadas por el Estado parte, como la ley que tipifica como delito
+    la explotación sexual, el turismo sexual con menores de edad y la
+    pornografía infantil, sobre la que existen disposiciones específicas
+    relativas a los proveedores de servicios de Internet, así como el
+    Plan de Acción Nacional para la Prevención y Erradicación de la
+    Explotación Sexual (2006-2011) (art. 10).
 
     **El Comité insta al Estado parte a que aplique de manera efectiva la
     legislación para combatir la trata de niños. También recomienda al Estado
@@ -301,13 +316,13 @@ Erradicación de la Explotación Sexual (2006-2011) (art. 10).
     de la explotación y la trata, así como de los casos investigados y de las
     decisiones adoptadas.**
 
-18. Preocupa al Comité que se permita a los niños casarse a los 14 años con
-el consentimiento parental o de un tutor, a pesar de que la edad mínima
-para contraer matrimonio en el Estado parte sea de 18 años. También le
-preocupan las consecuencias negativas de casarse a los 14 años para el
-disfrute por los niños de sus derechos económicos, sociales y culturales,
-en especial, los derechos a la salud y el derecho a la educación (art. 10).
-
+18. Preocupa al Comité que se permita a los niños casarse a los 14 años
+    con el consentimiento parental o de un tutor, a pesar de que la edad
+    mínima para contraer matrimonio en el Estado parte sea de 18 años.
+    También le preocupan las consecuencias negativas de casarse a los 14
+    años para el disfrute por los niños de sus derechos económicos,
+    sociales y culturales, en especial, los derechos a la salud y el
+    derecho a la educación (art. 10).
 
     **El Comité alienta al Estado parte a que haga efectiva la legislación sobre
     la edad mínima de 18 años para contraer matrimonio, aplicable a niños y
@@ -317,12 +332,12 @@ en especial, los derechos a la salud y el derecho a la educación (art. 10).
 
     (…)
 
-25. Al Comité le preocupa que la mortalidad materna e infantil siga siendo
-muy elevada y persistente en el Estado parte, en particular en las zonas
-rurales y entre los pueblos indígenas en Amazonas y Antioquia y los pueblos
-afrocolombianos en las costas del Pacífico y del Atlántico, debido a las
-dificultades para acceder a los servicios de atención de la salud (art.
-12).
+25. Al Comité le preocupa que la mortalidad materna e infantil siga
+    siendo muy elevada y persistente en el Estado parte, en particular
+    en las zonas rurales y entre los pueblos indígenas en Amazonas y
+    Antioquia y los pueblos afrocolombianos en las costas del Pacífico y
+    del Atlántico, debido a las dificultades para acceder a los
+    servicios de atención de la salud (art. 12).
 
     **El Comité recomienda al Estado parte que intensifique su política de salud
     pública, para garantizar a todos, en particular a los pueblos indígenas y
@@ -332,10 +347,10 @@ dificultades para acceder a los servicios de atención de la salud (art.
     garantizar que los servicios de salud sean accesibles a las personas que
     viven en la pobreza.**
 
-26. El Comité está muy preocupado por la creciente tasa de embarazos en la
-adolescencia y la falta de servicios adecuados y accesibles de salud sexual
-y reproductiva, en particular en las zonas rurales y entre los desplazados
-internos (art. 12).
+26. El Comité está muy preocupado por la creciente tasa de embarazos en
+    la adolescencia y la falta de servicios adecuados y accesibles de
+    salud sexual y reproductiva, en particular en las zonas rurales y
+    entre los desplazados internos (art. 12).
 
     **El Comité recomienda al Estado parte que garantice la educación sexual y
     reproductiva en las escuelas. También recomienda al Estado parte que

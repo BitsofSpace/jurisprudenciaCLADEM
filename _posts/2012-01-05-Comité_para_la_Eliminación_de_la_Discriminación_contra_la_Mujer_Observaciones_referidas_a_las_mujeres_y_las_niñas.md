@@ -126,7 +126,7 @@ vejámenes sexuales sancionaran esos delitos en forma inadecuada.
 
 25. **El Comité exhortó al Estado parte a que adoptara un enfoque integral de
 la violencia contra la mujer y la niña. Con ese fin, instó al Estado parte
-a que emprendiera, sin dilación, una revisión del artículo 229[684] y de
+a que emprendiera, sin dilación, una revisión del artículo 229[^684] y de
 los artículos 136[^685] y 137[^686] del Código Penal, para armonizarlos con
 la Convención y con la recomendación general 19 del Comité, relativa a una
 lucha contra todas las formas de violencia contra la mujer, incluida la

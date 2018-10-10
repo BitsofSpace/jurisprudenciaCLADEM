@@ -42,7 +42,7 @@ esfera.
 28. El Comité pide al Estado que en su próximo informe presente información
 sobre la incidencia del aborto ilegal, la relación entre los abortos
 ilegales y la alta tasa de mortalidad de la madre, y la aplicación del
-artículo 61 de la Constitución[660].
+artículo 61 de la Constitución[^660].
 
 ## 2º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas el 28 de octubre de 2005.[^661]
 
@@ -55,7 +55,7 @@ octubre de 2005, las siguientes observaciones finales.
 ### C. PRINCIPALES MOTIVOS DE PREOCUPACIÓN Y RECOMENDACIONES[^662]
 
 8. El Comité toma nota con interés del progreso normativo realizado para
-eliminar la discriminación de género[663], así como de la creación de la
+eliminar la discriminación de género[^663], así como de la creación de la
 Secretaría de la Mujer y otras instituciones. Sin embargo, lamenta que la
 discriminación contra la mujer persista en la práctica. Ejemplo
 representativo sería la discriminación de la mujer respecto de las
@@ -77,7 +77,7 @@ Estado Parte a educar a la población en su conjunto sobre la necesidad de
 respetar los derechos y la dignidad de las mujeres.**
 
 10. El Comité toma nota de las medidas adoptadas por el Estado Parte con
-relación a la planificación familiar[664]. Sin embargo, sigue preocupado
+relación a la planificación familiar[^664]. Sin embargo, sigue preocupado
 por los altos índices de mortalidad infantil y materna, especialmente en
 zonas rurales. El Comité reitera su preocupación por la legislación
 indebidamente restrictiva del aborto que induce a las mujeres a recurrir a

@@ -343,3 +343,5 @@ de 2015:**
 	incesto (Noruega.;**
 
 
+[^574]: A/HRC/WG.6/9/L.8, 12 November 2010
+[^575]: A/HRC/30/11, 15 de julio de 2015

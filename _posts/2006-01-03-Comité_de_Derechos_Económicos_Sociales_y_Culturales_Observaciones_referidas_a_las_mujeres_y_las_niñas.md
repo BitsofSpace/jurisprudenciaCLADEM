@@ -110,7 +110,7 @@ VIH-SIDA y a que garantice un tratamiento médico adecuado para quienes
 padecen de esta enfermedad. Le recomienda que en los programas escolares
 los temas de educación sexual y de métodos de planificación familiar sean
 abordados abiertamente, de tal manera que divulguen la información sobre
-los embarazos precoces y la transmisión el VIH-SIDA.[452]
+los embarazos precoces y la transmisión el VIH-SIDA.[^452]
 
 
 ## 3º Observaciones finales sobre los informes periódicos tercero, cuarto y quinto combinados de El Salvador.[^453]
