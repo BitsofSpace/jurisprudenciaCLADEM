@@ -62,126 +62,133 @@ las observaciones finales que figuran a continuación.
 
 (…)
 
-9. Preocupan al Comité las persistentes desigualdades entre el hombre y la
-mujer en el Estado parte, lo que parcialmente es consecuencia de los
-arraigados estereotipos relacionados con el papel de la mujer en la
-sociedad y en la familia. Asimismo, observa con inquietud la escasa
-representación de la mujer en los distintos niveles de gobierno y la
-existencia de disparidades significativas en el acceso al empleo y las
-condiciones de trabajo, ya que hay una proporción excesiva de mujeres en el
-sector no estructurado de la economía y en empleos poco especializados y de
-menor remuneración. El Comité expresa su preocupación por que las mujeres
-afro descendientes afronten desventajas mayores a causa de la
-discriminación contra los afros descendientes en todas las esferas (arts.
-3, 6 y 7).
+9. Preocupan al Comité las persistentes desigualdades entre el hombre y
+   la mujer en el Estado parte, lo que parcialmente es consecuencia de
+   los arraigados estereotipos relacionados con el papel de la mujer en
+   la sociedad y en la familia. Asimismo, observa con inquietud la
+   escasa representación de la mujer en los distintos niveles de
+   gobierno y la existencia de disparidades significativas en el acceso
+   al empleo y las condiciones de trabajo, ya que hay una proporción
+   excesiva de mujeres en el sector no estructurado de la economía y en
+   empleos poco especializados y de menor remuneración. El Comité
+   expresa su preocupación por que las mujeres afro descendientes
+   afronten desventajas mayores a causa de la discriminación contra los
+   afros descendientes en todas las esferas (arts.  3, 6 y 7).
 
-**El Comité recomienda al Estado parte que:**
+   **El Comité recomienda al Estado parte que:**
 
-	a. **Refuerce la aplicación de las medidas encaminadas a combatir la
-	discriminación contra la mujer, como la Ley Nº 18104 de igualdad de
-	derechos y oportunidades entre hombres y mujeres en la República, de 2007,
-	y el Plan Nacional de Igualdad de Oportunidades y Derechos (2007);**
+   a. **Refuerce la aplicación de las medidas encaminadas a combatir la
+   discriminación contra la mujer, como la Ley Nº 18104 de igualdad de
+   derechos y oportunidades entre hombres y mujeres en la República, de
+   2007, y el Plan Nacional de Igualdad de Oportunidades y Derechos
+   (2007);**
 
-	b. **Asegure que esas medidas reciban apoyo presupuestario suficiente y
-	aborden plenamente, entre otras cosas, la particular vulnerabilidad de las
-	mujeres afro descendientes, las desigualdades en el acceso al empleo y las
-	condiciones laborales, y la participación en la vida pública; y**
+   b. **Asegure que esas medidas reciban apoyo presupuestario suficiente
+   y aborden plenamente, entre otras cosas, la particular vulnerabilidad
+   de las mujeres afro descendientes, las desigualdades en el acceso al
+   empleo y las condiciones laborales, y la participación en la vida
+   pública; y**
 
-	c. **Lleve a cabo, en colaboración con las organizaciones de la sociedad
-	civil y los medios de difusión, campañas de concienciación de la opinión
-	pública con vistas a luchar contra los estereotipos tradicionales
-	relacionados con la condición de la mujer y el hombre en los ámbitos
-	público y privado.**
+   c. **Lleve a cabo, en colaboración con las organizaciones de la
+   sociedad civil y los medios de difusión, campañas de concienciación
+   de la opinión pública con vistas a luchar contra los estereotipos
+   tradicionales relacionados con la condición de la mujer y el hombre
+   en los ámbitos público y privado.**
 
 10. El Comité señala con inquietud de la información que figura en el
-párrafo 76 del informe del Estado parte (E/C.12/URY/3-4), según la cual la
-legislación es insuficiente para, entre otras cosas, garantizar la
-seguridad laboral de las mujeres embarazadas y conceder licencias a las
-trabajadoras cuyos hijos pequeños necesiten atención médica (art. 7).
+    párrafo 76 del informe del Estado parte (E/C.12/URY/3-4), según la
+    cual la legislación es insuficiente para, entre otras cosas,
+    garantizar la seguridad laboral de las mujeres embarazadas y
+    conceder licencias a las trabajadoras cuyos hijos pequeños necesiten
+    atención médica (art. 7).
 
-	**El Comité recomienda al Estado parte que realice un examen amplio de su
-	legislación laboral a fin de asegurar el ejercicio pleno del derecho a
-	condiciones de trabajo equitativas y satisfactorias para las mujeres y los
-	hombres.**
+    **El Comité recomienda al Estado parte que realice un examen amplio
+    de su legislación laboral a fin de asegurar el ejercicio pleno del
+    derecho a condiciones de trabajo equitativas y satisfactorias para
+    las mujeres y los hombres.**
 
-	(…)
+    (…)
 
 15. El Comité observa con inquietud que, pese a la adopción de medidas
-tales como el Plan Nacional de Lucha contra la Violencia Doméstica, puesto
-en marcha en 2004, y la creación de tribunales especializados para ocuparse
-de la violencia doméstica, esta siga siendo un fenómeno generalizado.
-También está preocupado por el hecho de que únicamente existan tribunales
-especializados en Montevideo y de que las víctimas de la violencia
-doméstica no dispongan de apoyo psicosocial ni de otro tipo de asistencia
-(art. 10).
+    tales como el Plan Nacional de Lucha contra la Violencia Doméstica,
+    puesto en marcha en 2004, y la creación de tribunales especializados
+    para ocuparse de la violencia doméstica, esta siga siendo un
+    fenómeno generalizado.  También está preocupado por el hecho de que
+    únicamente existan tribunales especializados en Montevideo y de que
+    las víctimas de la violencia doméstica no dispongan de apoyo
+    psicosocial ni de otro tipo de asistencia (art. 10).
 
-	**El Comité recomienda al Estado parte que refuerce las medidas para combatir
-	la violencia contra la mujer, entre otros medios, aplicando de manera
-	efectiva las leyes existentes sobre la violencia doméstica y realizando
-	campañas de concienciación y educación de la opinión pública sobre la
-	violencia y sus efectos. Asimismo, lo insta a asegurarse de que también
-	existan tribunales especializados fuera de Montevideo y de que las víctimas
-	de la violencia doméstica puedan disponer fácilmente de apoyo psicosocial y
-	de acceso a albergues.**
+    **El Comité recomienda al Estado parte que refuerce las medidas para
+    combatir la violencia contra la mujer, entre otros medios, aplicando
+    de manera efectiva las leyes existentes sobre la violencia doméstica
+    y realizando campañas de concienciación y educación de la opinión
+    pública sobre la violencia y sus efectos. Asimismo, lo insta a
+    asegurarse de que también existan tribunales especializados fuera de
+    Montevideo y de que las víctimas de la violencia doméstica puedan
+    disponer fácilmente de apoyo psicosocial y de acceso a albergues.**
 
 16. El Comité señala con preocupación las disposiciones de determinadas
-leyes penales que discriminan a la mujer, como la prohibición de contraer
-un nuevo matrimonio en los 300 días siguientes a la disolución del anterior
-y las leyes de moralidad pública, que, en la práctica, afectan sobre todo a
-las mujeres (art. 10).
+    leyes penales que discriminan a la mujer, como la prohibición de
+    contraer un nuevo matrimonio en los 300 días siguientes a la
+    disolución del anterior y las leyes de moralidad pública, que, en la
+    práctica, afectan sobre todo a las mujeres (art. 10).
 
-	**El Comité recomienda al Estado parte que adopte medidas urgentes para
-	derogar todas las disposiciones discriminatorias de su legislación, como
-	las restricciones para contraer un nuevo matrimonio y la legislación de
-	moralidad pública, que tiene un efecto discriminatorio para la mujer.**
+    **El Comité recomienda al Estado parte que adopte medidas urgentes
+    para derogar todas las disposiciones discriminatorias de su
+    legislación, como las restricciones para contraer un nuevo
+    matrimonio y la legislación de moralidad pública, que tiene un
+    efecto discriminatorio para la mujer.**
 
 17. El Comité considera preocupante que la edad mínima para contraer
-matrimonio, de 12 años para las chicas y 14 para los chicos, no se ajuste a
-la exigencia expresada en el Pacto de que solo se contraiga matrimonio con
-libre consentimiento y que la edad más temprana establecida para las chicas
-sea discriminatoria (arts. 10, párr. 1, y 3).
+    matrimonio, de 12 años para las chicas y 14 para los chicos, no se
+    ajuste a la exigencia expresada en el Pacto de que solo se contraiga
+    matrimonio con libre consentimiento y que la edad más temprana
+    establecida para las chicas sea discriminatoria (arts. 10, párr. 1,
+    y 3).
 
-	**El Comité exhorta al Estado parte a que aumente hasta los 18 años la edad
-	mínima para contraer matrimonio para chicos y chicas.**
+    **El Comité exhorta al Estado parte a que aumente hasta los 18 años
+    la edad mínima para contraer matrimonio para chicos y chicas.**
 
-	(…)
+    (…)
 
-19. El Comité observa con inquietud que, pese a una constante disminución
-de la pobreza en los últimos años, debido en parte a un importante
-crecimiento económico y a la adopción de medidas tales como el Plan de
-Atención Nacional a la Emergencia Social (2005-2007) y el Plan de Equidad
-(2008), el porcentaje de la población que vive en la pobreza sigue siendo
-alto. También preocupa al Comité la desproporcionada vulnerabilidad a la
-pobreza que tienen las mujeres, los afro descendientes y los niños,
-especialmente los menores de 6 años, a la pobreza (arts. 11, párr. 1; 2,
-párr. 2; y 3).
+19. El Comité observa con inquietud que, pese a una constante
+    disminución de la pobreza en los últimos años, debido en parte a un
+    importante crecimiento económico y a la adopción de medidas tales
+    como el Plan de Atención Nacional a la Emergencia Social (2005-2007)
+    y el Plan de Equidad (2008), el porcentaje de la población que vive
+    en la pobreza sigue siendo alto. También preocupa al Comité la
+    desproporcionada vulnerabilidad a la pobreza que tienen las mujeres,
+    los afro descendientes y los niños, especialmente los menores de 6
+    años, a la pobreza (arts. 11, párr. 1; 2, párr. 2; y 3).
 
-	**El Comité exhorta al Estado parte a:**
+    **El Comité exhorta al Estado parte a:**
 
-	(…)
+    (…)
 
-	c. **Velar por que se destinen suficientes recursos a las personas y los
-	grupos desfavorecidos y marginados.**
+    c. **Velar por que se destinen suficientes recursos a las personas y
+    los grupos desfavorecidos y marginados.**
 
-	(…)
+    (…)
 
-24. El Comité expresa preocupación porque, si bien las tasas de mortalidad
-materna se mantienen relativamente bajas en el Estado parte, la práctica de
-abortos en condiciones no adecuadas ha provocado la muerte de muchas
-mujeres (art. 12).
+24. El Comité expresa preocupación porque, si bien las tasas de
+    mortalidad materna se mantienen relativamente bajas en el Estado
+    parte, la práctica de abortos en condiciones no adecuadas ha
+    provocado la muerte de muchas mujeres (art. 12).
 
-	**El Comité insta al Estado parte a que incorpore una amplia educación sobre
-	salud sexual y reproductiva en los programas escolares de la enseñanza
-	primaria y secundaria e implante programas de educación y concienciación de
-	la opinión pública a este respecto.**
+    **El Comité insta al Estado parte a que incorpore una amplia
+    educación sobre salud sexual y reproductiva en los programas
+    escolares de la enseñanza primaria y secundaria e implante programas
+    de educación y concienciación de la opinión pública a este
+    respecto.**
 
 
 ## 4º Observaciones finales sobre el quinto informe periódico del Uruguay.[^858]
 
-1. El Comité examinó el quinto informe periódico del Uruguay (E/C.12/URY/5)
-en sus sesiones 15ª y 16ª (véanse E/C.12/SR.15 y 16), celebradas los días
-31 de mayo y 1 de junio de 2017, y aprobó las presentes observaciones
-finales en su 47ª sesión, celebrada el 23 de junio de 2017.
+1. El Comité examinó el quinto informe periódico del Uruguay
+   (E/C.12/URY/5) en sus sesiones 15ª y 16ª (véanse E/C.12/SR.15 y 16),
+   celebradas los días 31 de mayo y 1 de junio de 2017, y aprobó las
+   presentes observaciones finales en su 47ª sesión, celebrada el 23 de
+   junio de 2017.
 
 (…)
 
@@ -192,34 +199,36 @@ finales en su 47ª sesión, celebrada el 23 de junio de 2017.
 #### Igualdad entre hombres y mujeres
 
 15. Preocupa al Comité que, a pesar de los esfuerzos realizados por el
-Estado parte para promover la igualdad entre hombres y mujeres, los
-estereotipos de género continúen profundamente arraigados en la sociedad,
-lo cual se manifiesta en actos de discriminación y violencia en contra de
-la mujer, afectando el disfrute de sus derechos económicos, sociales y
-culturales. Asimismo, el Comité lamenta que el Estado parte no haya aún
-derogado las disposiciones legales con contenido discriminatorio contra la
-mujer (art. 3).
+    Estado parte para promover la igualdad entre hombres y mujeres, los
+    estereotipos de género continúen profundamente arraigados en la
+    sociedad, lo cual se manifiesta en actos de discriminación y
+    violencia en contra de la mujer, afectando el disfrute de sus
+    derechos económicos, sociales y culturales. Asimismo, el Comité
+    lamenta que el Estado parte no haya aún derogado las disposiciones
+    legales con contenido discriminatorio contra la mujer (art. 3).
 
-16. **El Comité recomienda al Estado parte que intensifique sus esfuerzos
-para lograr la igualdad sustantiva entre hombres y mujeres y en particular
-que:**
+16. **El Comité recomienda al Estado parte que intensifique sus
+    esfuerzos para lograr la igualdad sustantiva entre hombres y mujeres
+    y en particular que:**
 
-	a. **Adopte medidas efectivas para combatir la percepción estereotipada de
-	los roles tradicionales de género, tanto en la familia como en la sociedad;**
+    a. **Adopte medidas efectivas para combatir la percepción
+    estereotipada de los roles tradicionales de género, tanto en la
+    familia como en la sociedad;**
 
-	b. **Dé cumplimiento a su anterior recomendación (véase E/C.12/URY/CO/3.4,
-	párr. 16) de enmendar o derogar todas las disposiciones legales con
-	contenido discriminatorio contra la mujer, incluyendo aquellas con
-	expresiones vejatorias;**
+    b. **Dé cumplimiento a su anterior recomendación (véase
+    E/C.12/URY/CO/3.4, párr. 16) de enmendar o derogar todas las
+    disposiciones legales con contenido discriminatorio contra la mujer,
+    incluyendo aquellas con expresiones vejatorias;**
 
-	c. **Concluya la aprobación del proyecto de ley integral para garantizar una
-	vida libre de violencia basada en el género, asegurando que esta ley cumpla
-	con los mejores estándares internacionales, continúe la implementación del
-	Plan de Acción 2016-2019 por una vida libre de violencia de género, y
-	asigne los recursos humanos, técnicos y materiales necesarios para la
-	implementación efectiva de estos.**
+    c. **Concluya la aprobación del proyecto de ley integral para
+    garantizar una vida libre de violencia basada en el género,
+    asegurando que esta ley cumpla con los mejores estándares
+    internacionales, continúe la implementación del Plan de Acción
+    2016-2019 por una vida libre de violencia de género, y asigne los
+    recursos humanos, técnicos y materiales necesarios para la
+    implementación efectiva de estos.**
 
-	(…)
+    (…)
 
 #### Condiciones laborales de las mujeres
 
@@ -229,21 +238,22 @@ carrera en las mismas condiciones que los hombres (art. 7).
 
 24. **El Comité recomienda al Estado parte que:**
 
-	a. **Adopte las medidas adecuada s y efectivas para eliminar la persistente
-	brecha salarial por razón de sexo, combatiendo la segregación vertical y
-	horizontal en el empleo;**
+    a. **Adopte las medidas adecuada s y efectivas para eliminar la
+    persistente brecha salarial por razón de sexo, combatiendo la
+    segregación vertical y horizontal en el empleo;**
 
-	b. **Asegure la efectiva aplicación del principio de igual salario por
-	trabajo de igual valor, incluso mediante la realización de estudios
-	comparados en las organizaciones y profesiones en lo que se refiere a la
-	igualdad de remuneración por trabajo de igual valor con el objeto de
-	elaborar una estrategia integral al respecto;**
+    b. **Asegure la efectiva aplicación del principio de igual salario
+    por trabajo de igual valor, incluso mediante la realización de
+    estudios comparados en las organizaciones y profesiones en lo que se
+    refiere a la igualdad de remuneración por trabajo de igual valor con
+    el objeto de elaborar una estrategia integral al respecto;**
 
-	c. **Adopte medidas apropiadas, tanto legales como de sensibilización y
-	educación, para fomentar una distribución de responsabilidades equitativa
-	dentro de la familia y la sociedad, entre otros, asegurando la debida
-	implementación de la Ley de Sistema Nacional Integrado de Cuidado s y de la
-	Ley de Subsidios de Maternidad y Paternidad.**
+    c. **Adopte medidas apropiadas, tanto legales como de
+    sensibilización y educación, para fomentar una distribución de
+    responsabilidades equitativa dentro de la familia y la sociedad,
+    entre otros, asegurando la debida implementación de la Ley de
+    Sistema Nacional Integrado de Cuidado s y de la Ley de Subsidios de
+    Maternidad y Paternidad.**
 
 25. El Comité remite al Estado parte a su observación general núm. 23
 (2016) sobre el derecho a condiciones de trabajo equitativas y
@@ -278,36 +288,38 @@ de la Leche Materna.**
 en materia de salud sexual y reproductiva, en particular la adopción de la
 Ley núm. 18987 sobre Interrupción Voluntaria del Embarazo, le preocupan:
 
-	a. Las dificultades en el acceso a información y servicios de salud sexual
-	y reproductiva en las zonas rurales;
+    a. Las dificultades en el acceso a información y servicios de salud
+    sexual y reproductiva en las zonas rurales;
 
-	b. Las dificultades enfrentadas, en ocasiones, en el acceso a la
-	interrupción voluntaria del embarazo particularmente fuera de Montevideo y
-	en las zonas rurales, debido al ejercicio de objeción de conciencia por
-	parte de médicos y personal médico, y la falta de un mecanismo efectivo que
-	garantice su acceso;
+    b. Las dificultades enfrentadas, en ocasiones, en el acceso a la
+    interrupción voluntaria del embarazo particularmente fuera de
+    Montevideo y en las zonas rurales, debido al ejercicio de objeción
+    de conciencia por parte de médicos y personal médico, y la falta de
+    un mecanismo efectivo que garantice su acceso;
 
-	c. Las altas tasas de embarazo adolescente, debido en parte a la falta de
-	servicios de salud sexual y reproductiva e información adecuados para
-	prevenir embarazos no deseados (art. 12).
+    c. Las altas tasas de embarazo adolescente, debido en parte a la
+    falta de servicios de salud sexual y reproductiva e información
+    adecuados para prevenir embarazos no deseados (art. 12).
 
 51. **El Comité recomienda al Estado parte que:**
 
-	a. **Intensifique sus esfuerzos para garantizar la accesibilidad y
-	disponibilidad de los servicios de salud sexual y reproductiva para todas
-	las mujeres y adolescentes, especialmente en las zonas rurales;**
+    a. **Intensifique sus esfuerzos para garantizar la accesibilidad y
+    disponibilidad de los servicios de salud sexual y reproductiva para
+    todas las mujeres y adolescentes, especialmente en las zonas
+    rurales;**
 
-	b. **Se asegure que el ejercicio de la objeción de conciencia no sea un
-	obstáculo para que las mujeres tengan acceso a servicios de salud sexual y
-	reproductiva, particularmente a la interrupción voluntaria del embarazo y
-	asegure la aplicación efectiva del Manual de Procedimiento s para el Manejo
-	Sanitario de la Interrupción Voluntaria del Embarazo mencionado por la
-	delegación;**
+    b. **Se asegure que el ejercicio de la objeción de conciencia no sea
+    un obstáculo para que las mujeres tengan acceso a servicios de salud
+    sexual y reproductiva, particularmente a la interrupción voluntaria
+    del embarazo y asegure la aplicación efectiva del Manual de
+    Procedimiento s para el Manejo Sanitario de la Interrupción
+    Voluntaria del Embarazo mencionado por la delegación;**
 
-	c. **Redoble sus esfuerzos para reducir las altas tasas de embarazos de
-	adolescentes, especialmente entre aquellas de familias de bajos ingresos,
-	entre otros, asegurando que los programas escolares sobre salud sexual y
-	reproductiva sean apropiados a cada edad y sean debidamente implementados.**
+    c. **Redoble sus esfuerzos para reducir las altas tasas de embarazos
+    de adolescentes, especialmente entre aquellas de familias de bajos
+    ingresos, entre otros, asegurando que los programas escolares sobre
+    salud sexual y reproductiva sean apropiados a cada edad y sean
+    debidamente implementados.**
 
 52. **A este respecto, el Comité remite al Estado parte a su observación
 general núm. 22 (2016) sobre el derecho a la salud sexual y reproductiva.**

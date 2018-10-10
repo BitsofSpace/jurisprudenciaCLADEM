@@ -11,12 +11,13 @@ categories:
 ## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en febrero de 1988.[^814]
 
 127. El Comité examinó el informe inicial de la República Dominicana
-(CEDAW/C/5/Add.37) en sus sesiones 106ª y 111ª, celebradas los días 17 y 19
-de Febrero de 1988 (CEDAW/C/SR. 106 y 111).
+     (CEDAW/C/5/Add.37) en sus sesiones 106ª y 111ª, celebradas los días
+     17 y 19 de Febrero de 1988 (CEDAW/C/SR. 106 y 111).
 
-	_Considerando las deficiencias del informe presentado, las recomendaciones
-	del Comité se centran en solicitar datos estadísticos, sociales, económicos
-	y políticos que permitan evaluar el pleno cumplimiento de la CEDAW._
+     _Considerando las deficiencias del informe presentado, las
+     recomendaciones del Comité se centran en solicitar datos
+     estadísticos, sociales, económicos y políticos que permitan evaluar
+     el pleno cumplimiento de la CEDAW._
 
 ## 2º Observaciones finales sobre los informes del segundo al cuarto presentados por el Estado adoptadas el 3 de febrero de 1998.[^815]
 

@@ -11,24 +11,25 @@ categories:
 ## 1º Observaciones finales sobre el primer y segundo informe presentados por el Estado adoptadas en 1984.[^455]
 
 176. El informe periódico inicial y el segundo informe periódico de El
-Salvador, presentados en un solo documento (CERD/C/86/Add.3) fueron
-examinados por el Comité tras una breve declaración introductoria formulada
-por el representante del Estado informante, quien expresó que su país
-cumplía fielmente, tanto en el orden interno como en el externo, las
-disposiciones y principios que prohibían la discriminación racial.
+     Salvador, presentados en un solo documento (CERD/C/86/Add.3) fueron
+     examinados por el Comité tras una breve declaración introductoria
+     formulada por el representante del Estado informante, quien expresó
+     que su país cumplía fielmente, tanto en el orden interno como en el
+     externo, las disposiciones y principios que prohibían la
+     discriminación racial.
 
-	_No se observan recomendaciones con perspectiva de género._
+     _No se observan recomendaciones con perspectiva de género._
 
 ## 2º Observaciones finales sobre los informes del tercero al octavo presentados por el Estado adoptadas en agosto de 1995.[^456]
 
 460. El Comité examinó los informes periódicos tercero, cuarto, quinto,
-sexto, séptimo y octavo de El Salvador, combinados en un solo documento
-(CERD/C/258/Add.1), en sus sesiones 1108ª y 1109ª, celebradas los días 4 y
-7 de agosto de 1995 (CERD/C/SR.1108 y 1109).
+     sexto, séptimo y octavo de El Salvador, combinados en un solo
+     documento (CERD/C/258/Add.1), en sus sesiones 1108ª y 1109ª,
+     celebradas los días 4 y 7 de agosto de 1995 (CERD/C/SR.1108 y 1109).
 
-	**Observaciones finales**
+     **Observaciones finales**
 
-	_No se observan recomendaciones con perspectiva de género._
+     _No se observan recomendaciones con perspectiva de género._
 
 ## 3º Observaciones finales sobre los informes del noveno al décimo tercero presentados por el Estado adoptadas en marzo del 2006.[^457]
 
@@ -44,20 +45,21 @@ Comité aprobó las siguientes observaciones finales.
 
 (…)
 
-12. El Comité observa preocupado la situación precaria de los trabajadores
-migrantes provenientes principalmente de Nicaragua, Honduras y Guatemala,
-en particular respecto de las mujeres y niños, quienes por temor de ser
-deportados son víctimas de explotación laboral y de maltrato en las
-escuelas públicas.
+12. El Comité observa preocupado la situación precaria de los
+    trabajadores migrantes provenientes principalmente de Nicaragua,
+    Honduras y Guatemala, en particular respecto de las mujeres y niños,
+    quienes por temor de ser deportados son víctimas de explotación
+    laboral y de maltrato en las escuelas públicas.
 
-	**Teniendo en cuenta la Recomendación General No. 30 sobre los no ciudadanos,
-	el Comité recomienda al Estado parte que asegure la implementación de la
-	Convención Internacional sobre la protección de todos los derechos de los
-	trabajadores migrantes y sus familiares. Alienta al Estado parte a
-	implementar los convenios celebrados con el gobierno de Nicaragua para
-	regularizar la situación de los trabajadores migrantes nicaragüenses en El
-	Salvador; y lo invita que someta información sobre los progresos obtenidos
-	en esta área. (art. 5 (e., (i), (v))**
+    **Teniendo en cuenta la Recomendación General No. 30 sobre los no
+    ciudadanos, el Comité recomienda al Estado parte que asegure la
+    implementación de la Convención Internacional sobre la protección de
+    todos los derechos de los trabajadores migrantes y sus familiares.
+    Alienta al Estado parte a implementar los convenios celebrados con
+    el gobierno de Nicaragua para regularizar la situación de los
+    trabajadores migrantes nicaragüenses en El Salvador; y lo invita que
+    someta información sobre los progresos obtenidos en esta área. (art.
+    5 (e., (i), (v))**
 
 
 ## 4º Observaciones finales sobre el décimo cuarto y décimo quinto informe presentados por el Estado adoptadas el 20 agosto de 2010.[^459]
@@ -73,35 +75,32 @@ continuación.
 
 (…)
 
-14. Inquieta al Comité que la Constitución del Estado parte no reconozca a
-los pueblos indígenas y sus derechos. También le preocupa que los miembros
-de las comunidades indígenas tal vez no disfruten de un acceso en
-condiciones de igualdad a la función pública.
+14. Inquieta al Comité que la Constitución del Estado parte no reconozca
+    a los pueblos indígenas y sus derechos. También le preocupa que los
+    miembros de las comunidades indígenas tal vez no disfruten de un
+    acceso en condiciones de igualdad a la función pública.
 
-	**Tomando nota de que el Estado parte reconoce a los pueblos indígenas como
-	titulares de derechos en su nueva concepción reflejada en su presentación
-	oral, el Comité le recomienda que otorgue reconocimiento legal a los
-	pueblos indígenas en su legislación, de acuerdo con el artículo 2 de la
-	Convención. También pide al Estado parte que facilite información
-	actualizada sobre la propuesta de reforma constitucional para el
-	reconocimiento de los pueblos indígenas de El Salvador presentada a la
-	Asamblea Legislativa en diciembre de 2008 por la Procuraduría de Defensa de
-	los Derechos Humanos. Además, reitera la recomendación formulada en el
-	párrafo 13 de sus anteriores observaciones finales (CERD/C/SLV/CO/13) de
-	que el Estado parte velara por que los indígenas, incluidas las mujeres,
-	participaran en el gobierno y en la dirección de los asuntos públicos en
-	todos los niveles y tuvieran acceso, en condiciones de igualdad, a la
-	función pública (art. 5 c.).**
+    **Tomando nota de que el Estado parte reconoce a los pueblos
+    indígenas como titulares de derechos en su nueva concepción
+    reflejada en su presentación oral, el Comité le recomienda que
+    otorgue reconocimiento legal a los pueblos indígenas en su
+    legislación, de acuerdo con el artículo 2 de la Convención. También
+    pide al Estado parte que facilite información actualizada sobre la
+    propuesta de reforma constitucional para el reconocimiento de los
+    pueblos indígenas de El Salvador presentada a la Asamblea
+    Legislativa en diciembre de 2008 por la Procuraduría de Defensa de
+    los Derechos Humanos. Además, reitera la recomendación formulada en
+    el párrafo 13 de sus anteriores observaciones finales
+    (CERD/C/SLV/CO/13) de que el Estado parte velara por que los
+    indígenas, incluidas las mujeres, participaran en el gobierno y en
+    la dirección de los asuntos públicos en todos los niveles y tuvieran
+    acceso, en condiciones de igualdad, a la función pública (art. 5 c.).**
 
 ## 4º Observaciones finales sobre los informes periódicos 16º y 17º de El Salvador.[^461]
 
-1. El Comité examinó los informes periódicos 16º y 17º de El Salvador,
-presentados en un único documento (CERD/C/SLV/16-17), en sus sesiones 2297ª
-y 2298ª (CERD/C/SR.2297 y 2298), celebradas los días 12 y 13 de agosto de
-2014. En su 2315ª sesión, celebrada el 25 de agosto de 2014, aprobó las
-siguientes observaciones finales.
+1. El Comité examinó los informes periódicos 16º y 17º de El Salvador, presentados en un único documento (CERD/C/SLV/16-17), en sus sesiones 2297ª y 2298ª (CERD/C/SR.2297 y 2298), celebradas los días 12 y 13 de agosto de 2014. En su 2315ª sesión, celebrada el 25 de agosto de 2014, aprobó las siguientes observaciones finales.
 
-	(…)
+   (…)
 
 ### C. Motivos de preocupación y recomendaciones[^462]
 
@@ -110,19 +109,20 @@ siguientes observaciones finales.
 #### Discriminación múltiple
 
 22. Al Comité le preocupa que las mujeres pertenecientes a comunidades
-indígenas y afrodescendientes continúen enfrentándose a múltiples formas de
-discriminación en todas las áreas de la vida social, política, económica y
-cultural. El Comité nota también con preocupación la persistencia de la
-violencia contra las mujeres indígenas (art. 2, párr. 2).
+    indígenas y afrodescendientes continúen enfrentándose a múltiples
+    formas de discriminación en todas las áreas de la vida social,
+    política, económica y cultural. El Comité nota también con
+    preocupación la persistencia de la violencia contra las mujeres
+    indígenas (art. 2, párr. 2).
 
-	**El Comité recomienda que el Estado parte tome en cuenta la Recomendación
-	general Nº 25 (2000) del Comité sobre las dimensiones de la discriminación
-	racial relacionadas con el género e incluya una perspectiva de género en
-	todas sus políticas y estrategias contra la discriminación racial para
-	hacer frente a las formas múltiples de discriminación que afectan en
-	especial a las mujeres pertenecientes a comunidades indígenas y
-	afrodescendientes. Se recomienda también contar con estadísticas
-	desagregadas al respecto.**
+    **El Comité recomienda que el Estado parte tome en cuenta la
+    Recomendación general Nº 25 (2000) del Comité sobre las dimensiones
+    de la discriminación racial relacionadas con el género e incluya una
+    perspectiva de género en todas sus políticas y estrategias contra la
+    discriminación racial para hacer frente a las formas múltiples de
+    discriminación que afectan en especial a las mujeres pertenecientes
+    a comunidades indígenas y afrodescendientes. Se recomienda también
+    contar con estadísticas desagregadas al respecto.**
 
 [^455]: Suplemento No.18 (A/39/18), 1984
 [^456]: Suplemento No. 18 (A/50/18), 1996
