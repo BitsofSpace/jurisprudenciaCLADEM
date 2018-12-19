@@ -234,13 +234,13 @@ por edad, sexo, origen étnico, población urbana y rural y otros criterios
 pertinentes.**
 
 
-[^667] E/C.12/1/Add.1, 28 de mayo de 1996
-[^668] Las recomendaciones se encuentran en negrita.
-[^669] Véase nota al pie N° 1.
-[^670] Véase nota al pie N° 1.
-[^671] En julio de 2007, la Cámara de Senadores rechazó un proyecto de ley
+[^667]: E/C.12/1/Add.1, 28 de mayo de 1996
+[^668]: Las recomendaciones se encuentran en negrita.
+[^669]: Véase nota al pie N° 1.
+[^670]: Véase nota al pie N° 1.
+[^671]: En julio de 2007, la Cámara de Senadores rechazó un proyecto de ley
 de paternidad responsable, presentado a instancias de la Comisión de
 Equidad, Género y Desarrollo Social de dicha cámara.
-[^672] E/C.12/PRY/Q/3 - 14 September 2007
-[^673] E/C.12/PRY/CO/4, 20 de marzode 2015
-[^674] Las recomendaciones se encuentran en negrita.
+[^672]: E/C.12/PRY/Q/3 - 14 September 2007
+[^673]: E/C.12/PRY/CO/4, 20 de marzode 2015
+[^674]: Las recomendaciones se encuentran en negrita.

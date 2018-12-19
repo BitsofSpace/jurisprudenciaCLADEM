@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
- - "República_Dominicana"
+ - "Republica-Dominicana"
 ---
 
 # Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas
@@ -183,10 +183,10 @@ rehabilitación y protección de las víctimas [^art. 5 e. i)].
 
 
 
-[^807] Suplemento No.18 (A/45/18), 1991
-[^808] Suplemento No. 18 (A/52/18), 1997
-[^809] CERD/C/304/Add.74, 12 de abril de 2001
-[^810] CERD/C/DOM/CO/12 16 de mayo de 2008
-[^811] Las recomendaciones se encuentran en negrita.
-[^812] CERD/C/DOM/CO/13-14, 19 de abril de 2013
-[^813] Las recomendaciones se encuentran en negrita.
+[^807]: Suplemento No.18 (A/45/18), 1991
+[^808]: Suplemento No. 18 (A/52/18), 1997
+[^809]: CERD/C/304/Add.74, 12 de abril de 2001
+[^810]: CERD/C/DOM/CO/12 16 de mayo de 2008
+[^811]: Las recomendaciones se encuentran en negrita.
+[^812]: CERD/C/DOM/CO/13-14, 19 de abril de 2013
+[^813]: Las recomendaciones se encuentran en negrita.

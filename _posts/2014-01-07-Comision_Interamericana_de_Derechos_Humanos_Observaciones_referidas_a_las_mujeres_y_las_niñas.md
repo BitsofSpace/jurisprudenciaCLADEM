@@ -3,7 +3,7 @@ layout: apartado
 title: "Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "Republica-Dominicana"
 ---
 
 # Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
@@ -68,4 +68,4 @@ de raza, etnia, nacionalidad, sexo, edad, discapacidad, situación
 migratoria, orientación sexual e identidad de género y cualquier otra
 condición.
 
-[^835] OEA/Ser.L/V/II.; Doc. 45/15
+[^835]: OEA/Ser.L/V/II.; Doc. 45/15

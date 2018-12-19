@@ -378,7 +378,7 @@ conocimiento de ellas:**
 	(Portugal); **
 
 
-[^431] Las recomendaciones se encuentran en negrita.
-[^432] A/HRC/8/20, 13 de mayo de 2008
-[^433] A/HRC/21/4, 5 de julio de 2012
-[^434] A/HRC/36/4, 10 de julio de 2017
+[^431]: Las recomendaciones se encuentran en negrita.
+[^432]: A/HRC/8/20, 13 de mayo de 2008
+[^433]: A/HRC/21/4, 5 de julio de 2012
+[^434]: A/HRC/36/4, 10 de julio de 2017

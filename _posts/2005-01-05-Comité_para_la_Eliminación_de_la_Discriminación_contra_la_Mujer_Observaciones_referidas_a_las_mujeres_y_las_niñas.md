@@ -7,8 +7,7 @@ categories:
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 
-## 1º Observaciones finales sobre el primer informe presentado por el Estado
-adoptadas en 1986.[^380]
+## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en 1986.[^380]
 
 _El comité no emite recomendaciones al estado y más bien se limita a relatar
 el desarrollo de la sesión de reporte._
@@ -930,13 +929,14 @@ que incluya información al respecto en su próximo informe periódico.**
 #### Ratificación de otros tratados
 
 46. **El Comité señala que la adhesión de los Estados a los nueve
-principales instrumentos internacionales de derechos humanos[408] potencia
-el disfrute por la mujer de sus derechos humanos y libertades fundamentales
-en todos los aspectos de la vida. Por lo tanto, alienta al Gobierno del
-Ecuador a que ratifique los tratados en los que todavía no es parte, a
-saber, la Convención Internacional para la protección de todas las personas
-contra las desapariciones forzadas y la Convención sobre los derechos de
-las personas con discapacidad y su Protocolo Facultativo.**
+    principales instrumentos internacionales de derechos humanos[^408]
+    potencia el disfrute por la mujer de sus derechos humanos y
+    libertades fundamentales en todos los aspectos de la vida. Por lo
+    tanto, alienta al Gobierno del Ecuador a que ratifique los tratados
+    en los que todavía no es parte, a saber, la Convención Internacional
+    para la protección de todas las personas contra las desapariciones
+    forzadas y la Convención sobre los derechos de las personas con
+    discapacidad y su Protocolo Facultativo.**
 
 #### Difusión de las observaciones finales
 
@@ -1761,9 +1761,9 @@ Derechos Humanos.**
 información escrita sobre las medidas adoptadas para aplicar las
 recomendaciones que figuran en los párrafos 21 a., b. y d. y 33 c. supra.**
 
-[^380] 10 a 21 de Marzo de 1986; Suplemento N. 38 (A/43/45)
-[^381] 17 de Enero a 4 de Febrero 1994; Suplemento N. 38 (A/49/38)
-[^382] Se han aprobado las siguientes leyes que contienen normas de
+[^380]: 10 a 21 de Marzo de 1986; Suplemento N. 38 (A/43/45)
+[^381]: 17 de Enero a 4 de Febrero 1994; Suplemento N. 38 (A/49/38)
+[^382]: Se han aprobado las siguientes leyes que contienen normas de
 discriminación positiva para la mujer: - Ley contra la Violencia a la Mujer
 y la Familia (publicada en el Registro Oficial No. 839 de 11 de diciembre
 de 1995) que tipifica y sanciona la violencia física, psicológica y sexual
@@ -1778,14 +1778,14 @@ Maternidad Gratuita (publicada en el Registro Oficial No. 381, de 10 de
 agosto de 1998) que establece el derecho a la atención gratuita y de
 calidad durante el embarazo, parto y post parto así como el acceso a
 programas de salud sexual y reproductiva.
-[^383] La Dirección Nacional de la Mujer fue reemplazada por el Consejo
+[^383]: La Dirección Nacional de la Mujer fue reemplazada por el Consejo
 Nacional de las Mujeres, CONAMU, por disposición del Decreto Ejecutivo 764,
 publicado en el Registro Oficial No. 182 S, de 28 de octubre de 1997. El
 CONAMU es el organismo adscrito a la Presidencia de la República -autónomo,
 con patrimonio y régimen administrativo y financiero propios- encargado de
 coordinar las políticas públicas en materia de género.
-[^384] Deuda pendiente.
-[^385] La Ley contra la Violencia a la Mujer y la Familia (publicada en el
+[^384]: Deuda pendiente.
+[^385]: La Ley contra la Violencia a la Mujer y la Familia (publicada en el
 Registro Oficial No. 839 de 11 de diciembre de 1995) tipifica y sanciona la
 violencia física, psicológica y sexual perpetrada contra la mujer y los
 integrantes del núcleo familiar o de éstos en contra de aquella, además
@@ -1794,11 +1794,11 @@ de violencia doméstica. Así mismo, en la actualidad funcionan en el país 31
 Comisarías de la Mujer y la Familia encargadas de aplicar la Ley contra la
 Violencia a la Mujer y la Familia; Comisarías que fueron instauradas desde
 1994.
-[^386] Deuda pendiente: Aún existen algunos sectores de las mujeres, como
+[^386]: Deuda pendiente: Aún existen algunos sectores de las mujeres, como
 las indígenas y afro descendientes, que no participan dentro del CONAMU.
-[^387] 30 de junio a 18 de julio de 2003, Suplemento No. 38 (A/58/38)
-[^388] Las recomendaciones se encuentran en negrita.
-[^389] Deuda pendiente: Aún no se han compatibilizado totalmente las leyes
+[^387]: 30 de junio a 18 de julio de 2003, Suplemento No. 38 (A/58/38)
+[^388]: Las recomendaciones se encuentran en negrita.
+[^389]: Deuda pendiente: Aún no se han compatibilizado totalmente las leyes
 penales, civiles y familiares con los preceptos de la Convención, pese a
 los esfuerzos que se han realizado, entre los que se cuenta, la
 promulgación de la ley reformatoria al Código Penal, publicada en el
@@ -1811,22 +1811,22 @@ fundamentalmente, no se ha incorporado una perspectiva de género en la
 formulación y aplicación de las leyes ecuatorianas, lo cual ha determinado
 que se mantenga la disparidad entre la formalidad y la realidad en la
 protección legal de la mujer.
-[^390] Aún no se ha promulgado una ley que institucionalice y regule las
+[^390]: Aún no se ha promulgado una ley que institucionalice y regule las
 actividades del Consejo Nacional de las Mujeres ni tampoco se ha concretado
 la participación de los movimientos de mujeres indígenas y afro
 descendientes al interior de dicho Consejo.
-[^391] En el mes de marzo del 2006 se terminó de elaborar el Plan de
+[^391]: En el mes de marzo del 2006 se terminó de elaborar el Plan de
 Igualdad de Oportunidades 2005-2009 el cual contiene las directrices que
 deben cumplir las instancias e instituciones encargadas del diseño,
 formulación y ejecución de las políticas públicas del Estado ecuatoriano, y
 en el que se establecen los mecanismos para favorecer la igualdad de las
 mujeres de toda edad, etnia y grupo social; este plan ha sido declarado
 como política de Estado.
-[^392] Deuda pendiente: No se ha desarrollado una política general de
+[^392]: Deuda pendiente: No se ha desarrollado una política general de
 erradicación de la pobreza que incorpore el enfoque de género y de atención
 específica a las mujeres rurales e indígenas.
-[^393] Deuda pendiente.
-[^394] El 23 de junio del 2005, con la expedición de la Ley reformatoria al
+[^393]: Deuda pendiente.
+[^394]: El 23 de junio del 2005, con la expedición de la Ley reformatoria al
 Código Penal, publicada en el Registro Oficial No. 45 de la misma fecha, se
 tipificó como delitos la explotación sexual de niños, niñas y adolescentes,
 ya sea que se manifiesten como prostitución, pornografía y turismo sexual,
@@ -1838,14 +1838,14 @@ limitaciones básicamente económicas, el Programa de Protección a Víctimas y
 Testigos, adscrito al Ministerio Fiscal. Aún no se han tomado medidas
 integrales para la rehabilitación de las víctimas, lo que constituye una
 deuda pendiente por cumplir en este aspecto.
-[^395] La antes mencionada Ley reformatoria al Código Penal también reprime
+[^395]: La antes mencionada Ley reformatoria al Código Penal también reprime
 a quien “induzca, promueva, favorezca, facilite la explotación sexual de
 menores de 18 años de edad, o de las que tienen discapacidad, a cambio de
 remuneración o cualquier otra retribución, o se apropie de todo o parte de
 esos valores” y establece en estos casos penas de prisión de 6 a 9 años;
 más, si la víctima es menor de 14 años de edad, la pena será de 12 a 16
 años de prisión y, en caso de reincidencia, de 16 a 25 años de prisión.
-[^396] Deuda pendiente y algunos cumplimientos: En la legislación
+[^396]: Deuda pendiente y algunos cumplimientos: En la legislación
 ecuatoriana, aún no se ha tipificado como delito la violencia contra la
 mujer. El Reglamento a la Ley Contra la Violencia a la Mujer y la Familia,
 fue publicado en el Registro Oficial No. 411, de 1 de septiembre del 2004.
@@ -1856,7 +1856,7 @@ adscrito al Ministerio Fiscal el Programa de protección a víctimas y
 testigos, la protección se extiende a víctimas de violencia sexual, con
 énfasis a víctimas de explotación sexual y trata, pero no existen programas
 estatales de protección a víctimas de violencia doméstica específicamente.
-[^397] En el Registro Oficial No. 423 S, de 22 de diciembre del 2006, se
+[^397]: En el Registro Oficial No. 423 S, de 22 de diciembre del 2006, se
 publicó La Ley Orgánica de Salud, que contiene un capítulo dedicado a la
 salud sexual y reproductiva en el cual se establece el derecho del hombre y
 la mujer a decidir sobre su paternidad y maternidad y el número que desea
@@ -1865,22 +1865,22 @@ reproductiva, principalmente, para los y las adolescentes; además establece
 la formulación de políticas y de programas educativos para la promoción de
 la salud sexual y reproductiva, la prevención de embarazos y de
 enfermedades de transmisión sexual.
-[^398] Deuda pendiente.
-[^399] Deuda pendiente.
-[^400] Deuda pendiente.
-[^401] Deuda pendiente.
-[^402] Deuda pendiente.
-[^403] Deuda pendiente.
-[^404] Deuda pendiente, de ser comprobada en la práctica.
-[^405] El informe está presentado pero aún no ha sido reportado ante el
+[^398]: Deuda pendiente.
+[^399]: Deuda pendiente.
+[^400]: Deuda pendiente.
+[^401]: Deuda pendiente.
+[^402]: Deuda pendiente.
+[^403]: Deuda pendiente.
+[^404]: Deuda pendiente, de ser comprobada en la práctica.
+[^405]: El informe está presentado pero aún no ha sido reportado ante el
 Comité.
-[^406] CEDAW/C/ECU/CO/7, 7 de noviembre de 2008
-[^407] Las recomendaciones se encuentran en negrita.
-[^408] El Pacto Internacional de Derechos Económicos, Sociales y Culturales;
+[^406]: CEDAW/C/ECU/CO/7, 7 de noviembre de 2008
+[^407]: Las recomendaciones se encuentran en negrita.
+[^408]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales;
 el Pacto Internacional de Derechos Civiles y Políticos; la Convención
 Internacional sobre la Eliminación de todas las Formas de Discriminación
 Racial; la Convención contra la Tortura y Otros Tratos o Penas Crueles,
 Inhumanos o Degradantes; la Convención sobre los Derechos del Niño; y la
 Convención Internacional sobre la protección de los derechos de todos los
 trabajadores migratorios y de sus familiares.
-[^409] CEDAW/C/ECU/CO/8-9, 11 de marzo de 2015
+[^409]: CEDAW/C/ECU/CO/8-9, 11 de marzo de 2015

@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas
@@ -470,10 +470,10 @@ investigación científica y adopte las medidas pertinente s para facilitar y
 garantizar el acceso y participación de las mujeres en el ámbito
 científico.**
 
-[^585] (15 de enero a 2 de febrero 1990) - E/1990/23 - E/C.12/1990/3, par.
+[^585]: (15 de enero a 2 de febrero 1990) - E/1990/23 - E/C.12/1990/3, par.
 85-112
-[^586] E/C.12/1993/16, 5 de enero de 1994
-[^587] E/C.12/1/Add.41, 8 de diciembre de 1999
-[^588] E/C.12/MEX/CO/4, 9 de junio de 2006
-[^589] E/C.12/MEX/CO/5-6, 17 de abril de 2018
-[^590] Las recomendaciones se encuentran en negrita.
+[^586]: E/C.12/1993/16, 5 de enero de 1994
+[^587]: E/C.12/1/Add.41, 8 de diciembre de 1999
+[^588]: E/C.12/MEX/CO/4, 9 de junio de 2006
+[^589]: E/C.12/MEX/CO/5-6, 17 de abril de 2018
+[^590]: Las recomendaciones se encuentran en negrita.

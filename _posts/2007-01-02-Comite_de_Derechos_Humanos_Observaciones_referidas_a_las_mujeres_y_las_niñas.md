@@ -185,9 +185,9 @@ prevenirlos (arts. 3 y 6).
 	reproductiva.**
 
 
-[^502] CCPR/C/79/Add.63, 3 de abril de 1996
-[^503] Las recomendaciones se encuentran en negrita.
-[^504] CCPR/CO/72/GTM, 27 de agosto de 2001
-[^505] Las recomendaciones se encuentran en negrita.
-[^506] CCPR/C/GTM/CO/3, 19 de abril de 2012
-[^507] Las recomendaciones se encuentran en negrita.
+[^502]: CCPR/C/79/Add.63, 3 de abril de 1996
+[^503]: Las recomendaciones se encuentran en negrita.
+[^504]: CCPR/CO/72/GTM, 27 de agosto de 2001
+[^505]: Las recomendaciones se encuentran en negrita.
+[^506]: CCPR/C/GTM/CO/3, 19 de abril de 2012
+[^507]: Las recomendaciones se encuentran en negrita.

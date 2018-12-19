@@ -42,4 +42,4 @@ Presupuesto de las instituciones del Estado de tal manera una política
 pública la aplicación del presupuesto con perspectiva en las entidades
 públicas.
 
-[^435] OEA/Ser.L/II.7.10; MESECVI-IV/doc.78/12
+[^435]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.78/12

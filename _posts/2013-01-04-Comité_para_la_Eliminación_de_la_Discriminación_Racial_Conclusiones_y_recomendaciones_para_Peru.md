@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: conclusiones y recomendaciones para Perú"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas
 
@@ -195,14 +195,14 @@ pertenecientes a comunidades indígenas y afroperuanas (art.5).
 
 
 
-[^720] Suplemento No. 18 (A/9618), 1974
-[^721] Suplemento No. 18 (A/31/18), 1976
-[^722] Suplemento No. 18 (A/33/18), 1978
-[^723] Suplemento No.18 (A/35/18), 1980
-[^724] Suplemento No. 18 (A/39/18), 1984
-[^725] Suplemento No.18 (A/42/18), 1987
-[^726] Suplemento No.18 (A/50/18), 1996
-[^727] CERD/C/304/Add.69, 13 de abril de 1999
-[^728] CERD/C/PER/CO/14-17, 3 de septiembre de 2009
-[^729] CERD/C/PER/CO/18-21, 25 de septiembre de 2014
-[^730] Las recomendaciones se encuentran en negrita.
+[^720]: Suplemento No. 18 (A/9618), 1974
+[^721]: Suplemento No. 18 (A/31/18), 1976
+[^722]: Suplemento No. 18 (A/33/18), 1978
+[^723]: Suplemento No.18 (A/35/18), 1980
+[^724]: Suplemento No. 18 (A/39/18), 1984
+[^725]: Suplemento No.18 (A/42/18), 1987
+[^726]: Suplemento No.18 (A/50/18), 1996
+[^727]: CERD/C/304/Add.69, 13 de abril de 1999
+[^728]: CERD/C/PER/CO/14-17, 3 de septiembre de 2009
+[^729]: CERD/C/PER/CO/18-21, 25 de septiembre de 2014
+[^730]: Las recomendaciones se encuentran en negrita.

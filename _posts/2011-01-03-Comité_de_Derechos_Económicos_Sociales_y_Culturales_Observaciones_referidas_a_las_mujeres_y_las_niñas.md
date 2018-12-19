@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a mujeres y niñas
@@ -139,10 +139,10 @@ aumentar la disponibilidad y accesibilidad de la información y servicios de
 salud reproductiva y sexual para lograr la reducción de la tasa de abortos
 clandestinos y embarazos precoces.**
 
-[^628] (25 de noviembre a 13 de diciembre de 1991) - E/1992/23 -
+[^628]: (25 de noviembre a 13 de diciembre de 1991) - E/1992/23 -
 E/C.12/1991/4, par. 95-139
-[^629] E/1995/22, 20 de mayo de 1994, par. 211-215
-[^630] E/1995/22, 6 de diciembre de 1994, par. 356-362
-[^631] E/C.12/1995/18, par. 306-312, 1 de diciembre de 1995
-[^632] E/C.12/1/Add.64, 24 de septiembre de 2001
-[^633] Las recomendaciones se encuentran en negrita.
+[^629]: E/1995/22, 20 de mayo de 1994, par. 211-215
+[^630]: E/1995/22, 6 de diciembre de 1994, par. 356-362
+[^631]: E/C.12/1995/18, par. 306-312, 1 de diciembre de 1995
+[^632]: E/C.12/1/Add.64, 24 de septiembre de 2001
+[^633]: Las recomendaciones se encuentran en negrita.

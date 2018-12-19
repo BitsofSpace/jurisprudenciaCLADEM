@@ -3,7 +3,7 @@ layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "El_Salvador"
+   - "El-Salvador"
 ---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 
@@ -64,4 +64,4 @@ propósito.
 
 
 
-[^501] OEA/Ser.L/II.7.10; MESECVI-IV/doc.79/12
+[^501]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.79/12

@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité contra la Tortura: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 # Comité contra la Tortura: Observaciones referidas a las mujeres y las niñas
 
@@ -104,5 +104,5 @@ del orden y personal judicial y continuar con las campañas de
 concienciación púbica sobre todas las formas de violencia contra la mujer.**
 
 
-[^649] CAT/C/PAN/CO/R.4, 5 de septiembre de 2017
-[^650] Las recomendaciones se encuentran en negrita.
+[^649]: CAT/C/PAN/CO/R.4, 5 de septiembre de 2017
+[^650]: Las recomendaciones se encuentran en negrita.

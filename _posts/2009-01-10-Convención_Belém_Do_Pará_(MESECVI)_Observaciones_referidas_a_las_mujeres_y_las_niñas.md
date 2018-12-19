@@ -3,7 +3,7 @@ layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 
@@ -145,4 +145,4 @@ Mujeres (Convención Belém Do Pará).
 
 
 
-[^622] OEA/Ser.L/II.7.10; MESECVI-IV/doc.83/12
+[^622]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.83/12

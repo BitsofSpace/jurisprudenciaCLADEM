@@ -5,27 +5,40 @@ cover: img/portada.png
 categories:
    - "Argentina"
 ---
+
 # Comité para la Eliminación de la Discriminación contra la Mujer: Conclusiones y recomendaciones para Argentina
 
 ## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en febrero de 1988.[^CEDMArg-1]
 
-341. El Comité examinó el informe inicial de la Argentina (CEDAW/C/5/Add.39 y Amend.1) en sus sesiones 112a. y 118a., celebradas el 22 y 25 de febrero
-de 1988, respectivamente (CEDAW/C/SR.112 y 118).
+341. El Comité examinó el informe inicial de la Argentina
+     (CEDAW/C/5/Add.39 y Amend.1) en sus sesiones 112a. y 118a.,
+     celebradas el 22 y 25 de febrero de 1988, respectivamente
+     (CEDAW/C/SR.112 y 118).
 
 
 ### Interrogantes y Observaciones del Comité[^CEDMArg-2]
 
-356. Se preguntó qué medidas se habían adoptado para dar publicidad a la Convención y al informe del país y si se había tomado alguna medida para
-identificar las necesidades de determinados grupos de mujeres, como las madres solteras y las mujeres migratorias.
+356. Se preguntó qué medidas se habían adoptado para dar publicidad a la
+     Convención y al informe del país y si se había tomado alguna medida
+     para identificar las necesidades de determinados grupos de mujeres,
+     como las madres solteras y las mujeres migratorias.
 
 (…)
 
-357. **Se solicitó mayor información sobre la labor y el funcionamiento de las diferentes oficinas públicas que se ocupaban de asuntos de la mujer y se preguntó si la labor de las diferentes instituciones era objeto de coordinación.** Se preguntó si las organizaciones no gubernamentales y las
-oficinas públicas a cargo de los programas destinados a la mujer colaboraban en relación con diversas cuestiones, como el cuidado prenatal y
-postnatal, los servicios de aborto, etc.
+357. **Se solicitó mayor información sobre la labor y el funcionamiento
+     de las diferentes oficinas públicas que se ocupaban de asuntos de
+     la mujer y se preguntó si la labor de las diferentes instituciones
+     era objeto de coordinación.** Se preguntó si las organizaciones no
+     gubernamentales y las oficinas públicas a cargo de los programas
+     destinados a la mujer colaboraban en relación con diversas
+     cuestiones, como el cuidado prenatal y postnatal, los servicios de
+     aborto, etc.
 
-358. También se preguntó qué mecanismo ofrecía el Gobierno para garantizar a la mujer la igualdad de derechos y si en algún caso las mujeres habían
-invocado las disposiciones de la Convención. Se preguntó si las oficinas públicas tenían en cuenta las exigencias de la mujer.
+358. También se preguntó qué mecanismo ofrecía el Gobierno para
+     garantizar a la mujer la igualdad de derechos y si en algún caso
+     las mujeres habían invocado las disposiciones de la Convención. Se
+     preguntó si las oficinas públicas tenían en cuenta las exigencias
+     de la mujer.
 
 359. Se preguntó por qué se hacía referencia a la legislación de protección
 como una medida para acelerar la igualdad de facto, y cuando ese tipo de
@@ -2029,10 +2042,7 @@ aplicación.**
 
 ### Seguimiento de las observaciones finales
 
-53. **El Comité solicita al Estado parte que le proporcione por escrito, en
-un plazo de dos años, información sobre las medidas adoptadas en
-cumplimiento de las recomendaciones que figuran en los párrafos 27 a.; 33
-b. y d. y 41 d. de este documento.**
+53. **El Comité solicita al Estado parte que le proporcione por escrito, en un plazo de dos años, información sobre las medidas adoptadas en cumplimiento de las recomendaciones que figuran en los párrafos 27 a.; 33 b. y d. y 41 d. de este documento.**
 
 
 [^CEDMArg-1]: Suplemento N. 38 (A 43/38), 16 y 19 de Febrero, 22, 26 y 29 de Febrero y el 2 de Marzo de 1988

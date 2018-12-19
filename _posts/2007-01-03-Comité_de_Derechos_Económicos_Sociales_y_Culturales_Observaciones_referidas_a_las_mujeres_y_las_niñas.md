@@ -252,9 +252,9 @@ niñas (arts. 13 y 14).
 	programas específicos para prevenir la deserción escolar y enfrentar las
 	causas de la misma.**
 
-[^508] E/C.12/1/Add.3, 28 de mayo de 1996
-[^509] Las recomendaciones se encuentran en negrita.
-[^510] E/C.12/1/Add.93, 12 de diciembre de 2003
-[^511] Las recomendaciones se encuentran en negrita.
-[^512] E/C.12/GTM/CO/3, 9 de diciembre de 2014
-[^513] Las recomendaciones se encuentran en negrita.
+[^508]: E/C.12/1/Add.3, 28 de mayo de 1996
+[^509]: Las recomendaciones se encuentran en negrita.
+[^510]: E/C.12/1/Add.93, 12 de diciembre de 2003
+[^511]: Las recomendaciones se encuentran en negrita.
+[^512]: E/C.12/GTM/CO/3, 9 de diciembre de 2014
+[^513]: Las recomendaciones se encuentran en negrita.

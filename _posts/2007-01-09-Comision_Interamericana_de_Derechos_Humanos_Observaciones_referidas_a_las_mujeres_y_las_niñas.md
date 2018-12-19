@@ -176,5 +176,5 @@ incorporar un modelo de análisis de riesgo que permita determinar las
 necesidades de protección de cada defensor(a., incorporando, por ejemplo,
 perspectiva de género o de grupos en situación de especial vulnerabilidad.
 
-[^548] OEA/Ser.L/V/II.; Doc. 43/15
-[^549] OEA/Ser.L/V/II.; Doc. 208/17
+[^548]: OEA/Ser.L/V/II.; Doc. 43/15
+[^549]: OEA/Ser.L/V/II.; Doc. 208/17

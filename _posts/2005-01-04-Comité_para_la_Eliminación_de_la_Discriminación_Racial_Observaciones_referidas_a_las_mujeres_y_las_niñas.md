@@ -291,19 +291,19 @@ Estado parte:**
 	apatridia regulada en la Ley Orgánica de Movilidad Humana.**
 
 
-[^364] Suplemento No. 18 (A/9018), 1973
-[^365] Suplemento No. 18 (A/9618), 1974
-[^366] Suplemento No. 18 (A/31/18), 1976
-[^367] Suplemento No. 18 (A/34/18), 1979
-[^368] Suplemento No. 18 (A/37/18), 1982
-[^369] Suplemento No. 18 (A/40/18), 1985
-[^370] Suplemento No.18 (A/45/18), 1991
-[^371] Suplemento No.18 (A/48/18), 1993
-[^372] CERD/C/62/CO/2, 2 de junio de 2003
-[^373] Las recomendaciones se encuentran en negrita.
-[^374] CERD/C/ECU/CO/19, 16 de mayo de 2008
-[^375] Las recomendaciones se encuentran en negrita.
-[^376] CERD/C/ECU/CO/20-22, 24 de octubre de 2012
-[^377] Las recomendaciones se encuentran en negrita.
-[^378] CERD/C/ECU/CO/23-24, 15 de septiembre de 2017
-[^379] Las recomendaciones se encuentran en negrita.
+[^364]: Suplemento No. 18 (A/9018), 1973
+[^365]: Suplemento No. 18 (A/9618), 1974
+[^366]: Suplemento No. 18 (A/31/18), 1976
+[^367]: Suplemento No. 18 (A/34/18), 1979
+[^368]: Suplemento No. 18 (A/37/18), 1982
+[^369]: Suplemento No. 18 (A/40/18), 1985
+[^370]: Suplemento No.18 (A/45/18), 1991
+[^371]: Suplemento No.18 (A/48/18), 1993
+[^372]: CERD/C/62/CO/2, 2 de junio de 2003
+[^373]: Las recomendaciones se encuentran en negrita.
+[^374]: CERD/C/ECU/CO/19, 16 de mayo de 2008
+[^375]: Las recomendaciones se encuentran en negrita.
+[^376]: CERD/C/ECU/CO/20-22, 24 de octubre de 2012
+[^377]: Las recomendaciones se encuentran en negrita.
+[^378]: CERD/C/ECU/CO/23-24, 15 de septiembre de 2017
+[^379]: Las recomendaciones se encuentran en negrita.

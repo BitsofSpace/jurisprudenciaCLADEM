@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
- - "Panamá"
+ - "Panama"
 ---
 
 # Comité para la Eliminación de la Discriminación Racial: Observaciones referidas a las mujeres y las niñas
@@ -112,14 +112,14 @@ pueblos indígenas y las personas afro panameñas.
 	de sensibilización en tema de enfermedades de transmisión sexual.
 
 
-[^634] Suplemento No. 18 (A/9018), 1973
-[^635] Suplemento No. 18 (A/9618), 1974
-[^636] Suplemento No.18 (A/32/18), 1977
-[^637] Suplemento No. 18 (A/34/18), 1979
-[^638] Suplemento No. 18 (A/37/18), 1982
-[^639] Suplemento No.18 (A/42/18), 1987
-[^640] CERD/C/304/Add.32, 2 de abril de 1997
-[^641] CERD/C/PAN/CO/15-20, 16 de marzo de 2010
-[^642] Las recomendaciones se encuentran en negrita.
+[^634]: Suplemento No. 18 (A/9018), 1973
+[^635]: Suplemento No. 18 (A/9618), 1974
+[^636]: Suplemento No.18 (A/32/18), 1977
+[^637]: Suplemento No. 18 (A/34/18), 1979
+[^638]: Suplemento No. 18 (A/37/18), 1982
+[^639]: Suplemento No.18 (A/42/18), 1987
+[^640]: CERD/C/304/Add.32, 2 de abril de 1997
+[^641]: CERD/C/PAN/CO/15-20, 16 de marzo de 2010
+[^642]: Las recomendaciones se encuentran en negrita.
 
 

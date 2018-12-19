@@ -3,7 +3,7 @@ layout: apartado
 title: "Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 
 # Comisión Interamericana de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
@@ -149,4 +149,4 @@ al Estado mexicano:
 75. Realizar la evaluación y adopción de medidas de protección
 diferenciadas para mujeres, líderes indígenas y defensores ambientales.
 
-[^621] OEA/Ser.L/V/II.; Doc. 44/15
+[^621]: OEA/Ser.L/V/II.; Doc. 44/15

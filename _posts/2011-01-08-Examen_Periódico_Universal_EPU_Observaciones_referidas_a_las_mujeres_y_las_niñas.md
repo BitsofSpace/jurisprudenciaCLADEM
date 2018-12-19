@@ -3,7 +3,7 @@ layout: apartado
 title: "Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 
 # Examen Periódico Universal - EPU: Observaciones referidas a las mujeres y las niñas
@@ -203,5 +203,5 @@ diálogo interactivo, han sido examinadas por Panamá y cuentan con su apoyo.**
 	un empleo, como se recomendó anteriormente (Eslovenia.;**
 
 
-[^656] A/HRC/WG.6/9/L.4, 8 November 2010
-[^657] A/HRC/30/7, 8 de julio de 2015
+[^656]: A/HRC/WG.6/9/L.4, 8 November 2010
+[^657]: A/HRC/30/7, 8 de julio de 2015

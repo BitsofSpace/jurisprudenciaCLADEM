@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "El_Salvador"
+   - "El-Salvador"
 ---
 # Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
 
@@ -228,24 +228,24 @@ de trata. (art.3, 7, 8)
 	flagelo.**
 
 
-[^436] Suplemento No. 40 (A/39/40), 20 de septiembre de 1984
-[^437] Suplemento No. 40 (A/42/40), 28 de agosto de 1987
-[^438] Tres mujeres activistas de Derechos Humanos que fueron capturadas en
+[^436]: Suplemento No. 40 (A/39/40), 20 de septiembre de 1984
+[^437]: Suplemento No. 40 (A/42/40), 28 de agosto de 1987
+[^438]: Tres mujeres activistas de Derechos Humanos que fueron capturadas en
 mayo de 1986, fueron indultadas y puestas en libertad, después de haber
 reconocido su participación en actividades terroristas, según lo
 manifestado por el representante de El Salvador.
-[^439] El adulterio fue eliminado del nuevo Código Penal que entró en
+[^439]: El adulterio fue eliminado del nuevo Código Penal que entró en
 vigencia en abril de 1998.
-[^440] CCPR/C/79/Add.34, 18 de abril de 1994
-[^441] CCPR/CO/78/SLV, 22 de agosto de 2003
-[^442] La Alcaldía Municipal de San Salvador estableció el 17 de mayo como
+[^440]: CCPR/C/79/Add.34, 18 de abril de 1994
+[^441]: CCPR/CO/78/SLV, 22 de agosto de 2003
+[^442]: La Alcaldía Municipal de San Salvador estableció el 17 de mayo como
 el día de la NO Discriminación por la orientación sexual e identidad de
 género.
-[^443] El 5 de octubre de 2004, por Decreto Ejecutivo Nº 45 se creó la
+[^443]: El 5 de octubre de 2004, por Decreto Ejecutivo Nº 45 se creó la
 “Comisión Interinstitucional de Búsqueda de niñas y niños desaparecidos
 durante el conflicto armado” con el objetivo de “Colaborar con las
 instituciones públicas involucradas o encargadas de la protección de la
 niñez en la búsqueda de niñas y niños que quedaron separados
 involuntariamente de sus familiares; y propiciar el reencuentro con sus
 familiares consanguíneos, partiendo del interés primario del niño o niña”.
-[^444] CCPR/C/SLV/CO/6, 27 de octubre de 2010
+[^444]: CCPR/C/SLV/CO/6, 27 de octubre de 2010

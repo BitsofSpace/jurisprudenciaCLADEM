@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "Republica-Dominicana"
 ---
 # Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
 
@@ -372,10 +372,10 @@ reproductivos) y 26 (apatridia.)**
 
 
 
-[^779] Suplemento no. 40 (A/40/40) - 19 de Septiembre, 1985
-[^780] Suplemento no. 40 (A/45/40) - 4 de Octubre, 1990
-[^781] Las recomendaciones se encuentran en negrita.
-[^782] En 1994, la igualdad de todos los hijos e hijas, incluso en materia
+[^779]: Suplemento no. 40 (A/40/40) - 19 de Septiembre, 1985
+[^780]: Suplemento no. 40 (A/45/40) - 4 de Octubre, 1990
+[^781]: Las recomendaciones se encuentran en negrita.
+[^782]: En 1994, la igualdad de todos los hijos e hijas, incluso en materia
 sucesoria, fue incorporado en la Ley 14-94: “Código para la Protección de
 Niños, Niñas y Adolescentes”. Por otro lado, el Código Civil Dominicano
 sigue pendiente de revisión. Aunque las distinciones establecidas en la Ley
@@ -383,21 +383,21 @@ sigue pendiente de revisión. Aunque las distinciones establecidas en la Ley
 disposición administrativa que prohíbe utilizar lenguaje discriminatorio
 que indique el reconocimiento o no del padre o el nacimiento dentro o fuera
 del matrimonio en las actas que se expiden.
-[^783] CCPR/C/79 Add. 18 - 5 de Mayo, 1993
-[^784] Las recomendaciones se encuentran en negrita.
-[^785] Existe un Plan Nacional para la Erradicación de las peores formas de
+[^783]: CCPR/C/79 Add. 18 - 5 de Mayo, 1993
+[^784]: Las recomendaciones se encuentran en negrita.
+[^785]: Existe un Plan Nacional para la Erradicación de las peores formas de
 Trabajo Infantil, y varias campañas de la Secretaria de Trabajo, OIT-IPEC y
 el Consejo Nacional de la Niñez. Por otro lado, el Código de Trabajo
 Dominicano prohíbe el Trabajo infantil, sin embargo la práctica indica otra
 realidad. Existe un documental sobre el trabajo de niños y niñas en el
 sector azucarero: “Sugar Babies” que relata el empleo de personas menores
 de edad en el corte y cultivo de la Caña.
-[^786] República dominicana ha aprobado la Ley 285-04 que profundiza las
+[^786]: República dominicana ha aprobado la Ley 285-04 que profundiza las
 discriminaciones para minorías étnicas, al establecer un libro de
 extranjería para el registro de niños y niñas nacidas en República
 Dominicana y cuyos ascendientes sean haitianos o indocumentados.
-[^787] CCPR/CO/71/DOM - 26 de Abril, 2001
-[^788] CCPR/C/DOM/CO/5, 19 de abril de 2012
-[^789] Las recomendaciones se encuentran en negrita.
-[^790] CCPR/C/DOM/CO/6, 27 de noviembre de 2017
-[^791] Las recomendaciones se encuentran en negrita.
+[^787]: CCPR/CO/71/DOM - 26 de Abril, 2001
+[^788]: CCPR/C/DOM/CO/5, 19 de abril de 2012
+[^789]: Las recomendaciones se encuentran en negrita.
+[^790]: CCPR/C/DOM/CO/6, 27 de noviembre de 2017
+[^791]: Las recomendaciones se encuentran en negrita.

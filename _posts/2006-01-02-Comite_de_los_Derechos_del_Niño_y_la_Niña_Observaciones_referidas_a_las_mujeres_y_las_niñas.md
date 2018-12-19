@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "El_Salvador"
+   - "El-Salvador"
 ---
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
 
@@ -672,8 +672,8 @@ las Directrices de las Naciones Unidas sobre la justicia en asuntos
 concernientes a los niños víctimas y testigos de delitos (anexas a la
 resolución 2005/20 del Consejo Económico y Social).**
 
-[^482] CRC/C/15/Add.9, 18 de octubre de 1993
-[^483] El Ministerio de Educación elaboró en 1997 la “Política de acceso a
+[^482]: CRC/C/15/Add.9, 18 de octubre de 1993
+[^483]: El Ministerio de Educación elaboró en 1997 la “Política de acceso a
 la educación de la población infantil y juvenil con necesidades educativas
 especiales”. Funciona una Oficina de Educación Especial que desde 1997 al
 2000 había atendido 33,900 niños, niñas y jóvenes. Desde el año 1991
@@ -681,12 +681,12 @@ funciona el Programa de Educación con participación de la Comunidad EDUCO,
 en las áreas rurales. También se implementan los Programas “Aula
 Alternativa” que consiste en la atención de parte del o de la maestra de
 dos grados simultáneamente y el proyecto Equidad de Género.
-[^484] La Ley contra la Violencia Intrafamiliar fue aprobada por Decreto
+[^484]: La Ley contra la Violencia Intrafamiliar fue aprobada por Decreto
 Legislativo Nº 902 de fecha veintiocho de noviembre de 1996. Uno de sus
 Considerandos se refiere a la responsabilidad del Estado de “adecuar la
 legislación interna a los Tratados y Convenciones internacionales referidos
 a la familia, la mujer y el niño....”
-[^485] En 1993 por Decreto Legislativo Nº 111 se constituyó el Consejo
+[^485]: En 1993 por Decreto Legislativo Nº 111 se constituyó el Consejo
 Nacional de Atención Integral para las Personas con Discapacidad (CONAIPd..
 Por Decreto Legislativo Nº 888 de 27 de abril de 2000, se aprobó la Ley de
 Equiparación de Oportunidades para las Personas con Discapacidad. El Código
@@ -696,14 +696,14 @@ niña discapacitado a recibir educación especial. Se creó el Centro de
 Rehabilitación Integral de la Niñez y la Adolescencia (CRINa.. En el año
 2001 se creó la División de atención a las necesidades educativas
 especiales, bajo la conducción del Ministerio de Educación.
-[^486] CRC/C/15/Add.232, 30 de junio de 2004
-[^487] Dentro del Plan del ISDEMU 2000-2004 se desarrollaron jornadas de
+[^486]: CRC/C/15/Add.232, 30 de junio de 2004
+[^487]: Dentro del Plan del ISDEMU 2000-2004 se desarrollaron jornadas de
 capacitación impartidas por la Escuela de Capacitación Judicial del Consejo
 Nacional de la Judicatura, a personal de la Corte Suprema de Justicia y de
 Tribunales, sobre género, violencia, trato a víctimas, derechos humanos,
 masculinidad, derechos de las y los menores, incluyéndose la divulgación y
 promoción de la CEDAW.
-[^488] Diversos esfuerzos se han realizado entre instituciones no
+[^488]: Diversos esfuerzos se han realizado entre instituciones no
 gubernamentales que trabajan por los derechos de las niñas y los niños,
 entre ellas Olof Palme, OEF, Huellas de Angel, CEMUJER, y el ISNA, la
 Comisión de la Familia, la Mujer y la Niñez de la Asamblea Legislativa,
@@ -713,13 +713,13 @@ trabajaron. A finales de junio de 2004 realizan un taller para compartir el
 estudio realizado sobre los vacíos que presenta el Código Procesal Penal en
 relación con las propuestas aprobadas. Las nuevas propuestas fueron
 aprobadas en octubre de 2004.
-[^489] En noviembre de 2003 el Instituto Salvadoreño de la Niñez y
+[^489]: En noviembre de 2003 el Instituto Salvadoreño de la Niñez y
 Adolescencia (ISNa., presentó a la Asamblea Legislativa una propuesta de
 reforma para eximir de multa por el registro tardío del nacimiento de niñas
 y niños.
-[^490] Implementación de la División de atención a las necesidades
+[^490]: Implementación de la División de atención a las necesidades
 educativas especiales a cargo del Ministerio de Educación.
-[^491] El Ministerio de Salud dio a conocer en junio de 2006 un Manual “De
+[^491]: El Ministerio de Salud dio a conocer en junio de 2006 un Manual “De
 adolescentes para Adolescentes: Guía metodológica para el facilitador y
 Cuaderno de Trabajo para Adolescentes de 15-19 años” que tiene como
 Objetivo general accesibilizar a los y las adolescentes la información
@@ -727,11 +727,11 @@ sobre habilidades para la vida, la salud sexual y reproductiva que
 contribuya al ejercicio de una sexualidad responsable. El contenido básico
 se refiere a temas de género, derechos, sexualidad, órganos sexuales,
 embarazo, parto, infecciones de transmisión sexual.
-[^492] El Ministerio de Educación creó el Comité Nacional de la Campaña de
+[^492]: El Ministerio de Educación creó el Comité Nacional de la Campaña de
 Educación para todos y todas, que tiene cobertura en la alfabetización de
 niñas y niños. La Asamblea Legislativa a finales de 2003 emitió un decreto
 eliminando las cuotas escolares voluntarias en las escuelas públicas.
-[^493] Desde 1996 hasta finales del 2000 el Ministerio de Trabajo ejecutó un
+[^493]: Desde 1996 hasta finales del 2000 el Ministerio de Trabajo ejecutó un
 proyecto para atender a más de 5,000 niños y niñas trabajando en sectores
 de pesca, recolección de café y producción pirotécnica, habiendo elaborado
 6 estudios de evaluación rápida sobre las peores formas de trabajo
@@ -746,7 +746,7 @@ Múltiples. En 2003 el Comité para la eliminación del Trabajo Infantil,
 implementó el Plan Nacional con 10,000 niñas y niños. Se está implementando
 el Plan Nacional para la Erradicación de las peores formas de trabajo
 infantil 2006-2009, habiéndose creado en 2006 un Comité Nacional.
-[^494] En el año 2000 se creó la Política Nacional para el desarrollo
+[^494]: En el año 2000 se creó la Política Nacional para el desarrollo
 Integral de la Niñez y Adolescencia que establece generalidades sobre la
 explotación sexual comercial de niñas, niños y adolescentes, retomando de
 la Convención el derecho a la protección especial. Se ha implementado el
@@ -755,7 +755,7 @@ Código Penal se introdujo por reformas del 2004, el delito de Trata de
 Personas ( 367 B ) y Agravantes al delito de trata de personas ( 367C ) en
 las que se encuentra la número 2- Cuando la víctima sea menor de dieciocho
 años de edad o incapaz. Y reformas al Código Procesal Penal.
-[^495] La Asamblea Legislativa ratificó el Protocolo mediante Decreto Nº 280
+[^495]: La Asamblea Legislativa ratificó el Protocolo mediante Decreto Nº 280
 de 25 de febrero de 2004, publicado en el Diario Oficial Nº 57 Tomo Nº 362
 de fecha 23 de marzo de 2004.
-[^496] CRC/C/SLV/CO/3-4, 17 de febrero de 2010
+[^496]: CRC/C/SLV/CO/3-4, 17 de febrero de 2010

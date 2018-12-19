@@ -3,7 +3,7 @@ layout: apartado
 title: "Sistematización por temáticas de las recomendaciones de los comités al estado Panamá"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 # SISTEMATIZACIÓN POR TEMÁTICAS DE LAS RECOMENDACIONES DE LOS COMITÉS AL ESTADO PANAMÁ
 

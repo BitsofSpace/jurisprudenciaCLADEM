@@ -403,7 +403,7 @@ apoyo del Paraguay y por lo tanto se toma nota de ellas:**
 	violación o de un incesto, o cuando se establezca que el feto no es viable,
 	o cuando la vida o la salud de la madre corra peligro (Suiza..**
 
-[^702] A/HRC/17/18, 28 de marzo de 2011.
-[^703] The recommendation as read during the interactive dialogue: “Submit
+[^702]: A/HRC/17/18, 28 de marzo de 2011.
+[^703]: The recommendation as read during the interactive dialogue: “Submit
 its report on the implementation of the CEDAW”
-[^704] A/HRC/32/9, 12 de abril de 2016
+[^704]: A/HRC/32/9, 12 de abril de 2016

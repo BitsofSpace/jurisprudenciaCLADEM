@@ -30,33 +30,35 @@ cuestiones planteadas tema por tema.
 ## 3º Observaciones finales sobre el segundo informe presentado por el Estado adoptadas en 1988.[^340]
 
 310. El comité examinó el segundo informe periódico del Ecuador
-(CCPR/C/28/Add.8 y 9) en sus sesiones 796ª a 799ª y 831ª y 832ª, celebradas
-el 28 y 29 de marzo y el 22 de julio de 1988 (CCPR/C/SR.796 a 799 y 831 y
-832).
+     (CCPR/C/28/Add.8 y 9) en sus sesiones 796ª a 799ª y 831ª y 832ª,
+     celebradas el 28 y 29 de marzo y el 22 de julio de 1988
+     (CCPR/C/SR.796 a 799 y 831 y 832).
 
-	_No se observan recomendaciones con sensibilidad de género._
+     _No se observan recomendaciones con sensibilidad de género._
 
 
 ## 4º Observaciones finales sobre el tercer informe presentado por el Estado adoptadas en noviembre de 1991.[^341]
 
 219. El Comité examinó el tercer informe periódico del Ecuador
-(CCPR/C/58/Add.9) en sus sesiones 1116ª a 1119ª, celebradas el 6 y 7 de
-noviembre de 1991 (CCPR/C/SR.1116 a 1119).
+     (CCPR/C/58/Add.9) en sus sesiones 1116ª a 1119ª, celebradas el 6 y
+     7 de noviembre de 1991 (CCPR/C/SR.1116 a 1119).
 
-	(…)
+     (…)
 
-	261.… Entre las inquietudes expresadas por los miembros que no habían
-	recibido plena satisfacción figuraban las relativas (…) la prohibición a
-	las mujeres de firmar contratos para ir a trabajar al extranjero.[^342]
+     261. ... Entre las inquietudes expresadas por los miembros que no
+          habían recibido plena satisfacción figuraban las relativas (…)
+          la prohibición a las mujeres de firmar contratos para ir a
+          trabajar al extranjero.[^342]
 
-	234.... Además, se solicitó información sobre la legislación y la práctica
-	en materia de interrupción del embarazo en el Ecuador y el número de
-	mujeres que habían sido castigadas por haber abortado.
+     234. ... Además, se solicitó información sobre la legislación y la
+          práctica en materia de interrupción del embarazo en el Ecuador
+          y el número de mujeres que habían sido castigadas por haber
+          abortado.
 
-	251.…También pidieron más información sobre el derecho de la mujer casada a
-	iniciar actuaciones judiciales.[^343]
+     251. ... También pidieron más información sobre el derecho de la
+          mujer casada a iniciar actuaciones judiciales.[^343]
 
-## 5º Observaciones finales sobre el cuarto[344] informe presentado por el Estado adoptadas el 27 de julio de 1998.[^345]
+## 5º Observaciones finales sobre el cuarto[^344] informe presentado por el Estado adoptadas el 27 de julio de 1998.[^345]
 
 1. El Comité de Derechos Humanos examinó el cuarto informe periódico del
 Ecuador (CCPR/C/84/Add.6) en sus 1673ª y 1674ª sesiones, celebradas el 14
@@ -291,23 +293,23 @@ reduciendo el trabajo infantil y velar por que se sancione a quienes
 empleen a niños o niñas en contravención a las disposiciones legislativas
 relativas al trabajo infantil.**
 
-[^338] Suplemento No. 44 (A/32/44), 30 de septiembre de 1977
-[^339] Suplemento No. 40 (A/33/40), 22 de noviembre de 1978
-[^340] Suplemento No. 40 (A/43/40), 28 de septiembre de 1988
-[^341] Suplemento No. 40 (A/47/40), 9 de octubre de 1992
-[^342] En la actualidad esa restricción ya ha sido abolida.
-[^343] Formalmente no persiste ninguna restricción al respecto.
-[^344] CCPR/C/79/Add.92, 18 de agosto de 1998
-[^345] Las recomendaciones se encuentran en negrita.
-[^346] A pesar de la Ley 103 contra la Violencia a la mujer y la familia, la
+[^338]: Suplemento No. 44 (A/32/44), 30 de septiembre de 1977
+[^339]: Suplemento No. 40 (A/33/40), 22 de noviembre de 1978
+[^340]: Suplemento No. 40 (A/43/40), 28 de septiembre de 1988
+[^341]: Suplemento No. 40 (A/47/40), 9 de octubre de 1992
+[^342]: En la actualidad esa restricción ya ha sido abolida.
+[^343]: Formalmente no persiste ninguna restricción al respecto.
+[^344]: CCPR/C/79/Add.92, 18 de agosto de 1998
+[^345]: Las recomendaciones se encuentran en negrita.
+[^346]: A pesar de la Ley 103 contra la Violencia a la mujer y la familia, la
 creación de las Comisarías de la Mujer, La Declaración de la violencia
 contra la mujer como una cuestión de salud pública, se siguen manteniendo
 las prácticas violentas en contra de la mujer.
-[^347] Deuda Pendiente. A partir del año 2000 se iniciaron programa para
+[^347]: Deuda Pendiente. A partir del año 2000 se iniciaron programa para
 atención a adolescentes embarazadas en las casas públicas de asistencia en
 salud, sin embargo esto han dado pocos resultados.
-[^348] Deuda pendiente.
-[^349] CCPR/C/ECU/CO/5, 4 de noviembre de 2008
-[^350] Las recomendaciones se encuentran en negrita.
-[^351] CCPR/C/ECU/CO/6, 11 de agosto de 2016
-[^352] Las recomendaciones se encuentran en negrita.
+[^348]: Deuda pendiente.
+[^349]: CCPR/C/ECU/CO/5, 4 de noviembre de 2008
+[^350]: Las recomendaciones se encuentran en negrita.
+[^351]: CCPR/C/ECU/CO/6, 11 de agosto de 2016
+[^352]: Las recomendaciones se encuentran en negrita.

@@ -3,7 +3,7 @@ layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 
@@ -63,4 +63,4 @@ género, ya que la mayoría de acciones están encaminadas hacia la
 erradicación y sanción de la violencia intrafamiliar y doméstica, no así de
 la violencia contra las mujeres.
 
-[^658] OEA/Ser.L/II.7.10; MESECVI-IV/doc.84/12
+[^658]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.84/12

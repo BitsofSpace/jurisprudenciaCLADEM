@@ -38,7 +38,7 @@ sugiere además que el Estado Parte podría considerar la posibilidad de
 adoptar medidas adecuadas para aplicar el Convenio N° 169 de la OIT sobre
 pueblos indígenas y tribales en países independientes.
 
-## 2º Observaciones finales sobre el segundo informe[568] presentado por el Estado adoptadas el 4 de junio de 1999.[^569]
+## 2º Observaciones finales sobre el segundo informe[^568] presentado por el Estado adoptadas el 4 de junio de 1999.[^569]
 
 El Comité examinó el segundo informe periódico de Honduras (CRC/C/65/Add.2)
 en sus sesiones 541ª y 542ª (véase CRC/C/SR. 541 y 542) celebradas el día
@@ -445,10 +445,10 @@ los derechos del niño, el Comité recomienda al Estado parte que:**
 	sobre el VIH/SIDA (ONUSIDa. y al UNICEF, entre otras entidades.**
 
 
-[^567] CRC/C/15/Add. 24, 24 de octubre de 1994
-[^568] CRC/C/15/Add.105, 24 de agosto de 1999
-[^569] Las recomendaciones se encuentran en negrita.
-[^570] CRC/C/HND/CO/3 - 2 de mayo de 2007
-[^571] Las recomendaciones se encuentran en negrita.
-[^572] CRC/C/HND/CO/4-5, 3 de julio de 2015
-[^573] Las recomendaciones se encuentran en negrita.
+[^567]: CRC/C/15/Add. 24, 24 de octubre de 1994
+[^568]: CRC/C/15/Add.105, 24 de agosto de 1999
+[^569]: Las recomendaciones se encuentran en negrita.
+[^570]: CRC/C/HND/CO/3 - 2 de mayo de 2007
+[^571]: Las recomendaciones se encuentran en negrita.
+[^572]: CRC/C/HND/CO/4-5, 3 de julio de 2015
+[^573]: Las recomendaciones se encuentran en negrita.

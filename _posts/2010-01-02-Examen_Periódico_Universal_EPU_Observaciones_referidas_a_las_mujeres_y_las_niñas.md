@@ -320,5 +320,5 @@ son aceptables, y así toma nota de ellas:**
 	al embarazo (Suiza..**
 
 
-[^623] A/HRC/27/16, 1 de julio de 2014
+[^623]: A/HRC/27/16, 1 de julio de 2014
 

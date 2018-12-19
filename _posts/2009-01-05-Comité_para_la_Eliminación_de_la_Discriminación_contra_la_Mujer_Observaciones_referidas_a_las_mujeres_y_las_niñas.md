@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 
@@ -1592,15 +1592,15 @@ julio de 2016.**
 
 
 
-[^603] Suplemento No. 45 (A/39/ 45), 1984
-[^604] Párrafo 76, ídem. En 1983, al ratificar la Convención, el Gobierno de
+[^603]: Suplemento No. 45 (A/39/ 45), 1984
+[^604]: Párrafo 76, ídem. En 1983, al ratificar la Convención, el Gobierno de
 México expresó una reserva con relación al apartado c. del artículo 10 de
 la CEDAW, debido a sus consecuencias financieras.
-[^605] Suplemento No. 38 (A/45/ 38), 1990
-[^606] Suplemento No. 38 (A/53/ 38/ Rev. 1), 1998
-[^607] Suplemento No. 38 (A/57/ 38), 2002
-[^608] Las recomendaciones se encuentran en negrita.
-[^609] CEDAW/C/MEX/CO/6 - 7 a 25 de agosto de 2006
-[^610] Las recomendaciones se encuentran en negrita.
-[^611] CEDAW/C/MEX/CO/7-8, 7 de agosto de 2012
-[^612] Las recomendaciones se encuentran en negrita.
+[^605]: Suplemento No. 38 (A/45/ 38), 1990
+[^606]: Suplemento No. 38 (A/53/ 38/ Rev. 1), 1998
+[^607]: Suplemento No. 38 (A/57/ 38), 2002
+[^608]: Las recomendaciones se encuentran en negrita.
+[^609]: CEDAW/C/MEX/CO/6 - 7 a 25 de agosto de 2006
+[^610]: Las recomendaciones se encuentran en negrita.
+[^611]: CEDAW/C/MEX/CO/7-8, 7 de agosto de 2012
+[^612]: Las recomendaciones se encuentran en negrita.

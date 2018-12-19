@@ -255,6 +255,6 @@ Facultativo de la Convención para la Eliminación de Todas las Formas de
 Discriminación contra la Mujer y el Protocolo Facultativo de la Convención
 sobre los Derechos del Niño relativo a un procedimiento de comunicaciones.**
 
-[^555] E/C.12/1/Add.57, 21 de mayo de 2001
-[^556] E/C.12/HND/CO/2, 11 de julio de 2016
-[^557] Las recomendaciones se encuentran en negrita.
+[^555]: E/C.12/1/Add.57, 21 de mayo de 2001
+[^556]: E/C.12/HND/CO/2, 11 de julio de 2016
+[^557]: Las recomendaciones se encuentran en negrita.

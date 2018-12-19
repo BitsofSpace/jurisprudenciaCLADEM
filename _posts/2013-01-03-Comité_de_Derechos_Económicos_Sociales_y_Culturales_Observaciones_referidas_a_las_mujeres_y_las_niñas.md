@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Económicos, Sociales y Culturales: observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas
 
@@ -153,10 +153,10 @@ la tasa de analfabetismo de las comunidades indígenas y afroperuanas (arts.
 	los niños de las comunidades indígenas y afroperuanas.**
 
 
-[^714] 20/05/97. E/C.12/1/Add.14.
-[^715] Mediante Ley No 28983 –Ley de Igualdad de oportunidades, publicada el
+[^714]: 20/05/97. E/C.12/1/Add.14.
+[^715]: Mediante Ley No 28983 –Ley de Igualdad de oportunidades, publicada el
 16 de marzo del 2007, se establece en el Artículo 6 inciso f.
-[^716] El 20 de julio de 1999 se crea el Programa Pro Joven mediante
+[^716]: El 20 de julio de 1999 se crea el Programa Pro Joven mediante
 Resolución Ministerial No 112-99-TR. Tanto el PROFECE como el ProJoven
 entre otros programas del Ministerio de Trabajo, son insuficientes y tiene
 poca cobertura. (Fuente: Mapeo de las Recomendaciones del Comité de la
@@ -165,7 +165,7 @@ periodo 2000-2005).
 Mediante D. S. N° 001-2000-PROMUDEH.- Aprueba y pone en vigencia Plan
 Nacional de Igualdad de Oportunidades entre Mujeres y Hombres 2000-2005.
 (02/02/2000).
-[^717] En el Reporte alternativo de la Convención de Derechos del niño, niña
+[^717]: En el Reporte alternativo de la Convención de Derechos del niño, niña
 y adolescente. CLADEM. 2005., se establece lo siguiente:
 “El Programa Nacional de Educación Sexual, se crea en 1996, como parte del
 Ministerio de Educación, en el marco de la política nacional de población,
@@ -235,5 +235,5 @@ educación en condiciones de igualdad con programas especiales que
 garanticen la igualdad de oportunidades y equidad de género. En su artículo
 3º por su parte, señala que la sociedad tiene la responsabilidad de
 contribuir a la educación y el derecho a participar en su desarrollo”
-[^718] E/C.12/PER/CO/2-4, 30 de mayo de 2012
-[^719] Las recomendaciones se encuentran en negrita.
+[^718]: E/C.12/PER/CO/2-4, 30 de mayo de 2012
+[^719]: Las recomendaciones se encuentran en negrita.

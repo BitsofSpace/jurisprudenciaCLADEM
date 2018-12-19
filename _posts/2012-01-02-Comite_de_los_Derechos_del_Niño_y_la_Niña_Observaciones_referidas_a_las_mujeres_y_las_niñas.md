@@ -633,9 +633,9 @@ víctimas de la trata con fines de explotación sexual y trabajo forzoso.
 	padres como los niños sean conscientes de los peligros de la trata y la
 	venta.**
 	
-[^696] CRC/C/15/ADD.27, 24 DE OCTUBRE DE 1994
-[^697] CRC/C/15/Add.75, 18 de junio de 1997
-[^698] CRC/C/15/Add.166, 6 de noviembre de 2001
-[^699] Recomendaciones se encuentran en negrita.
-[^700] CRC/C/PRY/CO/3, 10 de febrero de 2010
-[^701] Las recomendaciones se encuentran en negrita.
+[^696]: CRC/C/15/ADD.27, 24 DE OCTUBRE DE 1994
+[^697]: CRC/C/15/Add.75, 18 de junio de 1997
+[^698]: CRC/C/15/Add.166, 6 de noviembre de 2001
+[^699]: Recomendaciones se encuentran en negrita.
+[^700]: CRC/C/PRY/CO/3, 10 de febrero de 2010
+[^701]: Las recomendaciones se encuentran en negrita.

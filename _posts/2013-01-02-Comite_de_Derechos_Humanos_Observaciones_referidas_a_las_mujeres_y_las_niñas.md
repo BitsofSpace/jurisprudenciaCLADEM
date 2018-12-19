@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Perú"
+   - "Peru"
 ---
 # Comité de Derechos Humanos: Observaciones referidas a las mujeres y las niñas
 
@@ -260,11 +260,11 @@ distribución gratuita de anticonceptivos orales de emergencia (arts. 2, 3,
 	anticonceptivos y sobre el derecho a la salud sexual y reproductiva.**
 
 
-[^706] Suplemento No. 40 (A/38/40), 15 de septiembre de 1983
-[^707] CCPR/C/79/Add.8, 25 de septiembre de 1992
-[^708] CCPR/C/79/Add.67, 25 de julio de 1996
-[^709] CCPR/C/79/Add.72, 18 de noviembre de 1996
-[^710] CCPR/CO/70/PER, 15 de noviembre de 2000
-[^711] Las recomendaciones se encuentran en negrita.
-[^712] CCPR/C/PER/CO/5, 29 de abril de 2013
-[^713] Las recomendaciones se encuentran en negrita.
+[^706]: Suplemento No. 40 (A/38/40), 15 de septiembre de 1983
+[^707]: CCPR/C/79/Add.8, 25 de septiembre de 1992
+[^708]: CCPR/C/79/Add.67, 25 de julio de 1996
+[^709]: CCPR/C/79/Add.72, 18 de noviembre de 1996
+[^710]: CCPR/CO/70/PER, 15 de noviembre de 2000
+[^711]: Las recomendaciones se encuentran en negrita.
+[^712]: CCPR/C/PER/CO/5, 29 de abril de 2013
+[^713]: Las recomendaciones se encuentran en negrita.

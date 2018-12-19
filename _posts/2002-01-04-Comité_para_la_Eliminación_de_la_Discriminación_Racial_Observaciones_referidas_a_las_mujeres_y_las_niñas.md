@@ -60,8 +60,6 @@ representante del Estado informante.
 
      _No se observan recomendaciones con perspectiva de género._
 
-[^232]: Suplemento No.18 (A/32/18), 1977
-
 ## 6º Observaciones finales sobre el sexto informe presentado por el Estado adoptadas en 1983.[^235]
 
 265. El sexto informe periódico de Chile (CERD/C/90/Add.4 y Corr.l) fue

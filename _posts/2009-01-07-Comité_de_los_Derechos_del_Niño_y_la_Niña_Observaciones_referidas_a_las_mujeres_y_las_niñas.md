@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
 
@@ -527,7 +527,7 @@ posible, de manera simultánea, a fin de facilitar el proceso de examen.
 
 
 
-[^615] CRC/C/15/Add.13, 7 de febrero de 1994
-[^616] CRC/C/15/Add.112, 10 de noviembre de 1999
-[^617] Las recomendaciones se encuentran en negrita.
-[^618] CRC/C/MEX/CO/3, 8 de junio de 2006
+[^615]: CRC/C/15/Add.13, 7 de febrero de 1994
+[^616]: CRC/C/15/Add.112, 10 de noviembre de 1999
+[^617]: Las recomendaciones se encuentran en negrita.
+[^618]: CRC/C/MEX/CO/3, 8 de junio de 2006

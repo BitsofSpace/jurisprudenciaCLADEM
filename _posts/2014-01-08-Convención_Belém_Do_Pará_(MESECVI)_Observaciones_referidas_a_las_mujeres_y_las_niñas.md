@@ -3,7 +3,7 @@ layout: apartado
 title: "Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "República_Dominicana"
+   - "Republica-Dominicana"
 ---
 # Convención Belém Do Pará (MESECVI): Observaciones referidas a las mujeres y las niñas
 
@@ -150,4 +150,4 @@ las coordinaciones que están haciendo con los Institutos de Estadística del
 país para empezar a construir información que reporte a los Indicadores
 sobre Violencia que está manejando CEPAL.
 
-[^836] OEA/Ser.L /II.7.10; MESECVI-IV/doc.87/12
+[^836]: OEA/Ser.L /II.7.10; MESECVI-IV/doc.87/12

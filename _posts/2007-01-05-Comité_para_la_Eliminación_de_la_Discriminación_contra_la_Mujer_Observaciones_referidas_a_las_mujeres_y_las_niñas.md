@@ -646,7 +646,7 @@ periódico, incluya información a ese respecto.**
 
 39. El Comité encomia al Estado parte por haber ratificado los siete
 instrumentos internacionales más importantes en materia de derechos
-humanos[528]. Señala que la adhesión del Estado parte a esos instrumentos
+humanos[^528]. Señala que la adhesión del Estado parte a esos instrumentos
 contribuye a que la mujer disfrute de los derechos humanos y las libertades
 fundamentales en todos los aspectos de la vida.
 
@@ -2062,20 +2062,20 @@ en práctica las recomendaciones que figuran en los párrafos 15 a., 25 b.,
 
 
 
-[^514] Suplemento No. 18 (A/39/18), 1984
-[^515] Suplemento No. 18 (A/50/18), 1996
-[^516] CERD/C/304/Add.21, 23 de abril de 1997
-[^517] CERD/C/GTM/CO/11, 21 de marzo de 2006
-[^518] Las recomendaciones se encuentran en negrita.
-[^519] CERD/C/GTM/CO/12-13, 16 de marzo de 2010
-[^520] Las recomendaciones se encuentran en negrita.
-[^521] 04/02/94. A/49/38, paras.38-87.38
-[^522] Las recomendaciones se encuentran en negrita.
-[^523] 5 al 23 de agosto de 2002, Suplemento No. 38 (A/57/38)
-[^524] Las recomendaciones se encuentran en negrita.
-[^525] 15 de mayo a 2 de junio de 2006, Suplemento No. 38 (A/61/38)
-[^526] Las recomendaciones se encuentran en negrita.
-[^527] Armonización de legislación con artículo 11 de la Convención y
+[^514]: Suplemento No. 18 (A/39/18), 1984
+[^515]: Suplemento No. 18 (A/50/18), 1996
+[^516]: CERD/C/304/Add.21, 23 de abril de 1997
+[^517]: CERD/C/GTM/CO/11, 21 de marzo de 2006
+[^518]: Las recomendaciones se encuentran en negrita.
+[^519]: CERD/C/GTM/CO/12-13, 16 de marzo de 2010
+[^520]: Las recomendaciones se encuentran en negrita.
+[^521]: 04/02/94. A/49/38, paras.38-87.38
+[^522]: Las recomendaciones se encuentran en negrita.
+[^523]: 5 al 23 de agosto de 2002, Suplemento No. 38 (A/57/38)
+[^524]: Las recomendaciones se encuentran en negrita.
+[^525]: 15 de mayo a 2 de junio de 2006, Suplemento No. 38 (A/61/38)
+[^526]: Las recomendaciones se encuentran en negrita.
+[^527]: Armonización de legislación con artículo 11 de la Convención y
 ratifique el Convenio 155 de la Organización Internacional del Trabajo
 (OIT) sobre Salud y Seguridad Ocupacional y Medio Ambiente de Trabajo,
 sanción de legislación sobre el acoso sexual, medidas eficaces para
@@ -2083,7 +2083,7 @@ prevenir y castigar violaciones de los derechos de las mujeres trabajadoras
 de industrias maquiladoras, remediar la falta de seguridad y de normas
 sanitarias en esas industrias y mejorar el acceso de las mujeres
 trabajadoras a la justicia.
-[^528] El Pacto Internacional de Derechos Económicos, Sociales y Culturales,
+[^528]: El Pacto Internacional de Derechos Económicos, Sociales y Culturales,
 el Pacto Internacional de Derechos Civiles y Políticos, la Convención
 Internacional sobre la Eliminación de Todas las Formas de Discriminación
 Racial, la Convención sobre la eliminación de todas las formas de
@@ -2091,9 +2091,9 @@ discriminación contra la mujer, la Convención contra la Tortura y Otros
 Tratos o Penas Crueles, Inhumanos o Degradantes, la Convención sobre los
 Derechos del Niño y la Convención Internacional sobre la protección de los
 derechos de todos los trabajadores migratorios y de sus familiares.
-[^529] 19 de enero a 6 de febrero de 2009 - CEDAW/C/GUA/CO/7
-[^530] Las recomendaciones se encuentran en negrita.
-[^531] Pacto Internacional de Derechos Económicos, Sociales y Culturales,
+[^529]: 19 de enero a 6 de febrero de 2009 - CEDAW/C/GUA/CO/7
+[^530]: Las recomendaciones se encuentran en negrita.
+[^531]: Pacto Internacional de Derechos Económicos, Sociales y Culturales,
 Pacto Internacional de Derechos Civiles y Políticos, Convención
 Internacional sobre la Eliminación de Todas las Formas de Discriminación
 Racial, Convención sobre la eliminación de todas las formas de
@@ -2103,5 +2103,5 @@ Niño, Convención Internacional sobre la protección de los derechos de todos
 los trabajadores migratorios y de sus familiares, Convención sobre los
 derechos de las personas con discapacidad y Convención Internacional para
 la protección de todas las personas contra las desapariciones forzadas.
-[^532] CEDAW/C/GTM/CO/8-9, 22 de noviembre de 2017
-[^533] Las recomendaciones se encuentran en negrita.
+[^532]: CEDAW/C/GTM/CO/8-9, 22 de noviembre de 2017
+[^533]: Las recomendaciones se encuentran en negrita.

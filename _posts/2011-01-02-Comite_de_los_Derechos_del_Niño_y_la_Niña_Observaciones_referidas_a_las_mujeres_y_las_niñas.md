@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Panamá"
+   - "Panama"
 ---
 # Comité de los Derechos del Niño y la Niña: Observaciones referidas a las mujeres y las niñas
 
@@ -862,8 +862,8 @@ de los niños en los conflictos armados y el Protocolo Facultativo sobre la
 venta de niños, la prostitución infantil y la pornografía infantil, de los
 informes de que son ambos vencidos a partir de 2004.**
 
-[^651] CRC/C/15/Add.68, 24 de enero de 1997
-[^652] CRC/C/15/Add.233, 30 de junio de 2004
-[^653] Las recomendaciones se encuentran en negrita.
-[^654] CRC/C/PAN/CO/3-4, 6 de Octubre de 2011.
-[^655] Las recomendaciones se encuentran en negrita.
+[^651]: CRC/C/15/Add.68, 24 de enero de 1997
+[^652]: CRC/C/15/Add.233, 30 de junio de 2004
+[^653]: Las recomendaciones se encuentran en negrita.
+[^654]: CRC/C/PAN/CO/3-4, 6 de Octubre de 2011.
+[^655]: Las recomendaciones se encuentran en negrita.

@@ -71,4 +71,4 @@ sobre la violencia contra las niñas y adolescentes en dicho país.
 
 
 
-[^550] OEA/Ser.L/II.7.10; MESECVI-IV/doc.80/12
+[^550]: OEA/Ser.L/II.7.10; MESECVI-IV/doc.80/12

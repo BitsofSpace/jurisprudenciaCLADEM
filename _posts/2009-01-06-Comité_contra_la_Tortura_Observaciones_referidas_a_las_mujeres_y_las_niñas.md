@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité contra la Tortura: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "México"
+   - "Mexico"
 ---
 
 
@@ -50,6 +50,6 @@ la Discriminación contra la Mujer (CEDAW/C/MEX/CO/7-8, párrs. 18 y 19)
 	(Campo Algodonero) c. México.**
 
 
-[^613] CAT/C/MEX/CO/5-6, 11 de diciembre de 2012
-[^614] Las recomendaciones se encuentran en negrita.
+[^613]: CAT/C/MEX/CO/5-6, 11 de diciembre de 2012
+[^614]: Las recomendaciones se encuentran en negrita.
 

@@ -7,7 +7,7 @@ categories:
 ---
 # Comité de Derechos Económicos, Sociales y Culturales: Observaciones referidas a las mujeres y las niñas
 
-## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en diciembre de 1990.[3^53]
+## 1º Observaciones finales sobre el primer informe presentado por el Estado adoptadas en diciembre de 1990.[^353]
 
 130. El Comité examinó los informes iniciales del Ecuador sobre los
 derechos reconocidos en los artículos 10 a 12 (E/1986/3/Add.14) y 13 a 15
@@ -239,20 +239,20 @@ mujeres con discapacidad mental y psicosocial.
 
 
 
-[^353] 26 de noviembre a 14 de diciembre de 1990, E/1991/23 - E/C.12/1990/8,
+[^353]: 26 de noviembre a 14 de diciembre de 1990, E/1991/23 - E/C.12/1990/8,
 par. 130 – 158
-[^354] El Código de Trabajo en sus artículos 153, 154 y 155 establecen los
+[^354]: El Código de Trabajo en sus artículos 153, 154 y 155 establecen los
 derechos de las mujeres a la licencia de maternidad de máximo doce semanas,
 con remuneración.
-[^355] E/C.12/1/Add.100, 7 de junio de 2004
-[^356] Deuda pendiente, no obstante los avances formales.
-[^357] Deuda pendiente.
-[^358] Deuda pendiente.
-[^359] En cuanto a medidas legislativas, mediante ley reformatoria al Código
+[^355]: E/C.12/1/Add.100, 7 de junio de 2004
+[^356]: Deuda pendiente, no obstante los avances formales.
+[^357]: Deuda pendiente.
+[^358]: Deuda pendiente.
+[^359]: En cuanto a medidas legislativas, mediante ley reformatoria al Código
 Penal, publicada en el Registro Oficial No. 45 de 23 de junio del 2005, se
 tipificó como delitos la explotación sexual de niños, niñas y adolescentes
 y la trata de personas.
-[^360] Pese a la existencia de Ley contra la violencia a la mujer y la
+[^360]: Pese a la existencia de Ley contra la violencia a la mujer y la
 familia, publicada en el Registro Oficial No. 839 de 11 de diciembre de
 1995, y el funcionamiento, desde 1994, de las Comisarías de la Mujer y la
 Familia, existen serias falencias para el tratamiento integral de la
@@ -271,10 +271,10 @@ violación el acceso carnal, con introducción total o parcial del miembro
 viril, por vía oral, anal o vaginal; o, la introducción, por vía vaginal o
 anal, de los objetos, dedos u órganos distintos del miembro viril, a una
 persona de cualquier sexo, …”
-[^361] En el lapso del último año, el gobierno ha asignado mayor presupuesto
+[^361]: En el lapso del último año, el gobierno ha asignado mayor presupuesto
 al sector de la salud. Se espera que con la vigencia de la Ley Orgánica de
 Salud, publicada en el Registro Oficial No. 423 S, de 22 de diciembre del
 2006, mejore la prestación de servicios de salud sexual y salud
 reproductiva, en particular a las mujeres y los/las jóvenes.
-[^362] E/C.12/ECU/CO/3, 13 de diciembre de 2012
-[^363] Las recomendaciones se encuentran en negrita.
+[^362]: E/C.12/ECU/CO/3, 13 de diciembre de 2012
+[^363]: Las recomendaciones se encuentran en negrita.

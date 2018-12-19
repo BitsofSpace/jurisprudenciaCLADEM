@@ -3,7 +3,7 @@ layout: apartado
 title: "Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas"
 cover: img/portada.png
 categories:
-   - "Costa_Rica"
+   - "Costa-Rica"
 ---
 # Comité para la Eliminación de la Discriminación contra la Mujer: Observaciones referidas a las mujeres y las niñas
 
@@ -593,43 +593,45 @@ los consejos y comités directivos de desarrollo rural, así como el Plan
 Sectorial de Desarrollo Agropecuario y Rural que abarca el período 2015-
 2018. No obstante, le preocupan:
 
-	a. Las barreras que impiden el acceso de las mujeres de las zonas rurales a
-	la propiedad de la tierra y sus correspondientes títulos;
+    a. Las barreras que impiden el acceso de las mujeres de las zonas
+    rurales a la propiedad de la tierra y sus correspondientes títulos;
 
-	b. El grado insuficiente en que las mujeres de las zonas rurales se
-	benefician de los proyectos de desarrollo rural llevados a cabo a nivel
-	territorial por los consejos de desarrollo rural;
+    b. El grado insuficiente en que las mujeres de las zonas rurales se
+    benefician de los proyectos de desarrollo rural llevados a cabo a
+    nivel territorial por los consejos de desarrollo rural;
 
-	c. La limitada repercusión de las medidas adoptadas para eliminar los
-	estereotipos de género discriminatorios que refuerzan los roles de amas de
-	casa y cuidadoras asignados a las mujeres de las zonas rurales;
+    c. La limitada repercusión de las medidas adoptadas para eliminar
+    los estereotipos de género discriminatorios que refuerzan los roles
+    de amas de casa y cuidadoras asignados a las mujeres de las zonas
+    rurales;
 
-	d. Las deficiencias en el acceso de las mujeres de las zonas rurales a las
-	tecnologías y a los equipos agrícolas que ahorran trabajo humano.
+    d. Las deficiencias en el acceso de las mujeres de las zonas rurales
+    a las tecnologías y a los equipos agrícolas que ahorran trabajo
+    humano.
 
 35. **De conformidad con su recomendación general núm. 34 (2016), relativa a
 los derechos de las mujeres rurales, el Comité recomienda al Estado parte
 que:**
 
-	a. **Elabore una estrategia para garantizar el acceso de las mujeres rurales
-	a la propiedad de la tierra y sus correspondientes títulos y mejore su
-	seguridad de la tenencia de la tierra;**
+    a. **Elabore una estrategia para garantizar el acceso de las mujeres
+    rurales a la propiedad de la tierra y sus correspondientes títulos y
+    mejore su seguridad de la tenencia de la tierra;**
 
-	b. **Aumente el grado en que las mujeres rurales se benefician efectivamente
-	de los proyectos de desarrollo rural y siga reforzando la participación de
-	las mujeres en las instancias decisorias que determinan la gobernanza
-	territorial, en particular los comités directivos de los Consejos
-	Territoriales de Desarrollo Rural;**
+    b. **Aumente el grado en que las mujeres rurales se benefician
+    efectivamente de los proyectos de desarrollo rural y siga reforzando
+    la participación de las mujeres en las instancias decisorias que
+    determinan la gobernanza territorial, en particular los comités
+    directivos de los Consejos Territoriales de Desarrollo Rural;**
 
-	c. **Refuerce las medidas de lucha contra los roles de género estereotipados
-	y las desigualdades en el hogar que afectan a las mujeres rurales, y amplíe
-	el programa “Mujeres del campo: tierra, derechos y expresión” y las
-	actividades de fomento de la capacidad en materia de derechos humanos
-	destinadas a las mujeres rurales;**
+    c. **Refuerce las medidas de lucha contra los roles de género
+    estereotipados y las desigualdades en el hogar que afectan a las
+    mujeres rurales, y amplíe el programa “Mujeres del campo: tierra,
+    derechos y expresión” y las actividades de fomento de la capacidad
+    en materia de derechos humanos destinadas a las mujeres rurales;**
 
-	d. **Facilite un acceso efectivo de las mujeres rurales a tecnologías
-	agrícolas adecuadas, a las tecnologías de la información y las
-	comunicaciones y a las redes móviles.**
+    d. **Facilite un acceso efectivo de las mujeres rurales a
+    tecnologías agrícolas adecuadas, a las tecnologías de la información
+    y las comunicaciones y a las redes móviles.**
 
 #### Mujeres indígenas y afrodescendientes
 
@@ -644,20 +646,22 @@ esas tierras por agentes privados no estatales.
 
 37. **El Comité recomienda al Estado parte que:**
 
-	a. **Adopte medidas firmes contra la expropiación de las tierras
-	tradicionalmente ocupadas o utilizadas por las mujeres indígenas y
-	afrodescendientes y contra los desalojos forzosos de esas mujeres, refuerce
-	las garantías jurídicas y procesales destinadas a protegerlas y vele por la
-	participación significativa de esas mujeres en los procesos de adopción de
-	decisiones en relación con el uso de las tierras indígenas tradicionales;**
+    a. **Adopte medidas firmes contra la expropiación de las tierras
+    tradicionalmente ocupadas o utilizadas por las mujeres indígenas y
+    afrodescendientes y contra los desalojos forzosos de esas mujeres,
+    refuerce las garantías jurídicas y procesales destinadas a
+    protegerlas y vele por la participación significativa de esas
+    mujeres en los procesos de adopción de decisiones en relación con el
+    uso de las tierras indígenas tradicionales;**
 
-	b. **Establezca y utilice mecanismos eficaces de consulta para obtener el
-	consentimiento libre, previo e informado de las mujeres indígenas y
-	asegurar la distribución de los beneficios en el contexto de los proyectos
-	de desarrollo y de otros usos de sus tierras y recursos naturales, y evalúe
-	y atenúe las consecuencias que entrañan para los derechos de las mujeres
-	indígenas y afrodescendientes la creación de zonas protegidas y la
-	aprobación de políticas públicas ambientales.**
+    b. **Establezca y utilice mecanismos eficaces de consulta para
+    obtener el consentimiento libre, previo e informado de las mujeres
+    indígenas y asegurar la distribución de los beneficios en el
+    contexto de los proyectos de desarrollo y de otros usos de sus
+    tierras y recursos naturales, y evalúe y atenúe las consecuencias
+    que entrañan para los derechos de las mujeres indígenas y
+    afrodescendientes la creación de zonas protegidas y la aprobación de
+    políticas públicas ambientales.**
 
 #### Mujeres migrantes, refugiadas y solicitantes de asilo
 
@@ -665,46 +669,49 @@ esas tierras por agentes privados no estatales.
 tienen derecho a trabajar en el Estado parte una vez que han sido
 reconocidos como solicitantes. Sin embargo, considera preocupantes:
 
-	a. Las formas interrelacionadas de discriminación que sufren las mujeres
-	migrantes, en particular las que se encuentran en situación irregular;
+    a. Las formas interrelacionadas de discriminación que sufren las
+    mujeres migrantes, en particular las que se encuentran en situación
+    irregular;
 
-	b. Las largas demoras en los procedimientos de determinación de la
-	condición de refugiado, así como las elevadas tasas y las barreras
-	administrativas a que deben hacer frente las mujeres y niñas refugiadas y
-	solicitantes de asilo para obtener documentos de identidad sin los que no
-	pueden acceder a la atención de la salud, la vivienda, la educación y la
-	protección social;
+    b. Las largas demoras en los procedimientos de determinación de la
+    condición de refugiado, así como las elevadas tasas y las barreras
+    administrativas a que deben hacer frente las mujeres y niñas
+    refugiadas y solicitantes de asilo para obtener documentos de
+    identidad sin los que no pueden acceder a la atención de la salud,
+    la vivienda, la educación y la protección social;
 
-	c. El limitado acceso a los servicios de salud de que disponen las mujeres
-	solicitantes de asilo que no contribuyen a la Caja Costarricense de Seguro
-	Social;
+    c. El limitado acceso a los servicios de salud de que disponen las
+    mujeres solicitantes de asilo que no contribuyen a la Caja
+    Costarricense de Seguro Social;
 
-	d. La inadecuación de las condiciones de los centros de detención de
-	migrantes para albergar a mujeres transgénero durante el procedimiento de
-	determinación de la condición de refugiado.
+    d. La inadecuación de las condiciones de los centros de detención de
+    migrantes para albergar a mujeres transgénero durante el
+    procedimiento de determinación de la condición de refugiado.
 
 39. **El Comité recomienda al Estado parte que:**
 
-	a. **Evalúe los problemas a que se enfrentan las mujeres migrantes, incluidas
-	las que se encuentran en situación irregular, en cada fase del proceso de
-	migración, y elimine la discriminación de que son objeto, atendiendo a la
-	recomendación general núm. 26 (2008) del Comité, relativa a las
-	trabajadoras migratorias;**
+    a. **Evalúe los problemas a que se enfrentan las mujeres migrantes,
+    incluidas las que se encuentran en situación irregular, en cada fase
+    del proceso de migración, y elimine la discriminación de que son
+    objeto, atendiendo a la recomendación general núm. 26 (2008) del
+    Comité, relativa a las trabajadoras migratorias;**
 
-	b. **Refuerce las medidas destinadas a reducir las demoras en los
-	procedimientos de determinación de la condición de refugiado y en las
-	decisiones sobre las apelaciones, en particular aumentando los recursos
-	humanos, técnicos y financieros de la Unidad de Refugiados, la Comisión de
-	Visas Restringidas y Refugio y el Tribunal Administrativo Migratorio;**
+    b. **Refuerce las medidas destinadas a reducir las demoras en los
+    procedimientos de determinación de la condición de refugiado y en
+    las decisiones sobre las apelaciones, en particular aumentando los
+    recursos humanos, técnicos y financieros de la Unidad de Refugiados,
+    la Comisión de Visas Restringidas y Refugio y el Tribunal
+    Administrativo Migratorio;**
 
-	c. **Reduzca las tasas de solicitud y elimine las barreras administrativas a
-	que deben hacer frente las mujeres y niñas refugiadas y solicitantes de
-	asilo para obtener documentos de identidad, a fin de garantizar su acceso
-	efectivo al empleo, la atención de la salud, la vivienda y la educación;**
+    c. **Reduzca las tasas de solicitud y elimine las barreras
+    administrativas a que deben hacer frente las mujeres y niñas
+    refugiadas y solicitantes de asilo para obtener documentos de
+    identidad, a fin de garantizar su acceso efectivo al empleo, la
+    atención de la salud, la vivienda y la educación;**
 
-	d. **Adopte directrices para velar adecuadamente por la protección de las
-	mujeres transgénero a lo largo de todo el procedimiento de determinación de
-	la condición de refugiado.**
+    d. **Adopte directrices para velar adecuadamente por la protección
+    de las mujeres transgénero a lo largo de todo el procedimiento de
+    determinación de la condición de refugiado.**
 
 #### Formas interrelacionadas de discriminación y recopilación de datos
 
@@ -726,45 +733,48 @@ en todos los ámbitos de la Convención, en las esferas pública y privada.**
 
 42. El Comité expresa su preocupación por:
 
-	a. El hecho de que los mecanismos legislativos existentes no tienen
-	debidamente en cuenta la violencia de género en la esfera doméstica al
-	determinar la custodia de los hijos;
+    a. El hecho de que los mecanismos legislativos existentes no tienen
+    debidamente en cuenta la violencia de género en la esfera doméstica
+    al determinar la custodia de los hijos;
 
-	b. El efecto negativo de los grupos defensores de los derechos de padres y
-	del discurso público sobre el denominado “síndrome de distanciamiento entre
-	padre e hijos”;
+    b. El efecto negativo de los grupos defensores de los derechos de
+    padres y del discurso público sobre el denominado “síndrome de
+    distanciamiento entre padre e hijos”;
 
-	c. La falta de mecanismos jurídicos que prevean el reconocimiento de
-	activos intangibles, como las prestaciones relacionadas con el trabajo, a
-	efectos de la distribución de bienes en caso de divorcio, y la asistencia
-	jurídica insuficiente ofrecida a las mujeres en los procesos de divorcio,
-	que impiden a las mujeres ejercer sus derechos a la propiedad tras la
-	disolución del matrimonio;
+    c. La falta de mecanismos jurídicos que prevean el reconocimiento de
+    activos intangibles, como las prestaciones relacionadas con el
+    trabajo, a efectos de la distribución de bienes en caso de divorcio,
+    y la asistencia jurídica insuficiente ofrecida a las mujeres en los
+    procesos de divorcio, que impiden a las mujeres ejercer sus derechos
+    a la propiedad tras la disolución del matrimonio;
 
-	d. La protección insuficiente de las mujeres en las uniones de hecho, en
-	particular en los casos de separación.
+    d. La protección insuficiente de las mujeres en las uniones de
+    hecho, en particular en los casos de separación.
 
 43. **El Comité recomienda al Estado parte que:**
 
-	a. **Aborde de manera apropiada la consideración de las necesidades
-	específicas de las mujeres y los niños a la hora de determinar la custodia
-	de los hijos en los casos de violencia de género en el ámbito doméstico;**
+    a. **Aborde de manera apropiada la consideración de las necesidades
+    específicas de las mujeres y los niños a la hora de determinar la
+    custodia de los hijos en los casos de violencia de género en el
+    ámbito doméstico;**
 
-	b. **Adopte todas las medidas necesarias para desalentar el uso del “síndrome
-	de distanciamiento entre padre e hijos” por parte de los expertos y los
-	tribunales en los casos de custodia;**
+    b. **Adopte todas las medidas necesarias para desalentar el uso del
+    “síndrome de distanciamiento entre padre e hijos” por parte de los
+    expertos y los tribunales en los casos de custodia;**
 
-	c. **Adopte directrices sobre el reconocimiento del trabajo doméstico no
-	remunerado a efectos del reparto de los bienes matrimoniales conjuntos, así
-	como sobre la indemnización de los cónyuges económicamente desfavorecidos
-	para su utilización en procedimientos de divorcio, en consonancia con la
-	recomendación general núm. 29 (2013) del Comité relativa a las
-	consecuencias económicas del matrimonio, las relaciones familiares y su
-	disolución;**
+    c. **Adopte directrices sobre el reconocimiento del trabajo
+    doméstico no remunerado a efectos del reparto de los bienes
+    matrimoniales conjuntos, así como sobre la indemnización de los
+    cónyuges económicamente desfavorecidos para su utilización en
+    procedimientos de divorcio, en consonancia con la recomendación
+    general núm. 29 (2013) del Comité relativa a las consecuencias
+    económicas del matrimonio, las relaciones familiares y su
+    disolución;**
 
-	d. **Adopte todas las medidas necesarias, incluso de carácter legislativo, a
-	fin de velar por que las mujeres gocen de una protección jurídica adecuada
-	durante las uniones de hecho y tras su disolución.**
+    d. **Adopte todas las medidas necesarias, incluso de carácter
+    legislativo, a fin de velar por que las mujeres gocen de una
+    protección jurídica adecuada durante las uniones de hecho y tras su
+    disolución.**
 
 #### Declaración y Plataforma de Acción de Beijing
 
