@@ -55,3 +55,13 @@ de los derechos humanos de las mujeres y las niñas.
 **Elba Beatriz Núñez**  
 **Coordinadora Regional**  
 **CLADEM**
+
+Esta publicación ha sido apoyada por:
+
+[![Fondo Mujeres del Sur](img/logo_fms.jpg "Fondo Mujeres del Sur")](http://mujeresdelsur.org/)
+[![Liderando desde del Sur](img/logo_liderando-desde-el-sur.jpg "Liderando desde del Sur")](http://mujeresdelsur.org/)
+[![Diakonia](img/logo_diakonia.jpg "Diakonia")](https://www.diakonia.se/en/)
+[![Yo voto por por el aborto legal](img/logo_mano-verde.png "Yo voto por por el aborto legal")](https://searx.me/?q=yo%20voto%20por%20el%20aborto%20legal&categories=general&language=es-ES)
+[![Diakonia](img/logo_diakonia.jpg "Diakonia")](https://www.diakonia.se/en/)
+[![Sigrid Rausing Trust](img/logo_srt.png "Sigrid Rausing Trust")](https://www.sigrid-rausing-trust.org/)
+
