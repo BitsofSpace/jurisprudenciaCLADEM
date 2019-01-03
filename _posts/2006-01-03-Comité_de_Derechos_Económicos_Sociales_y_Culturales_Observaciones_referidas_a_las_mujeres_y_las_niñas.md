@@ -239,7 +239,6 @@ las niñas y mujeres (arts.13 y 14).
 	programas específicos para prevenir la deserción escolar y enfrentar las
 	causas de la misma.**
 
-[^445]: Las recomendaciones se encuentran en negrita.
 [^446]: E/C.12/1/Add.4, 28 de mayo de 1996
 [^447]: Desde 1998 no se había dado un aumento del salario mínimo, fue hasta
 el año 2003 que por Decreto Legislativo Nº 37 de 23 de mayo, que entró en

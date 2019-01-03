@@ -1884,3 +1884,4 @@ Inhumanos o Degradantes; la Convención sobre los Derechos del Niño; y la
 Convención Internacional sobre la protección de los derechos de todos los
 trabajadores migratorios y de sus familiares.
 [^409]: CEDAW/C/ECU/CO/8-9, 11 de marzo de 2015
+[^410]: Las recomendaciones se encuentran en negrita.

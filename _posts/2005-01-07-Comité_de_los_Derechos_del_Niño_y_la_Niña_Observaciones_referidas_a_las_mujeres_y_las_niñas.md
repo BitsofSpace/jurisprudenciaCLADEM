@@ -1163,3 +1163,4 @@ esta aspecto deuda pendiente del Estado ecuatoriano con la niñez y
 adolescencia.
 [^429]: CRC/C/ECU/CO/4, 2 de marzo de 2010
 [^430]: CRC/C/ECU/CO/5-6, 26 de octubre de 2017
+[^431]: Las recomendaciones se encuentran en negrita.

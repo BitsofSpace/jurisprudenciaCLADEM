@@ -2062,13 +2062,6 @@ en práctica las recomendaciones que figuran en los párrafos 15 a., 25 b.,
 
 
 
-[^514]: Suplemento No. 18 (A/39/18), 1984
-[^515]: Suplemento No. 18 (A/50/18), 1996
-[^516]: CERD/C/304/Add.21, 23 de abril de 1997
-[^517]: CERD/C/GTM/CO/11, 21 de marzo de 2006
-[^518]: Las recomendaciones se encuentran en negrita.
-[^519]: CERD/C/GTM/CO/12-13, 16 de marzo de 2010
-[^520]: Las recomendaciones se encuentran en negrita.
 [^521]: 04/02/94. A/49/38, paras.38-87.38
 [^522]: Las recomendaciones se encuentran en negrita.
 [^523]: 5 al 23 de agosto de 2002, Suplemento No. 38 (A/57/38)

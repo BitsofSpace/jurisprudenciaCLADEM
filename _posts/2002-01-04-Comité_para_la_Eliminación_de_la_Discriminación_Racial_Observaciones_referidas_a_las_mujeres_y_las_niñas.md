@@ -52,7 +52,7 @@ marzo de 1979 relativo a los descendientes de los mapuches.
 
     _No se observan recomendaciones con perspectiva de género._
 
-## 5º Observaciones finales sobre el quinto informe presentado por el Estado adoptadas en 1981. ^[234]
+## 5º Observaciones finales sobre el quinto informe presentado por el Estado adoptadas en 1981.[^234]
 
 260. El quinto informe periódico de Chile (CERD/C/65/Add.3) fue examinado
 por el Comité tras una breve declaración introductoria formulada por el

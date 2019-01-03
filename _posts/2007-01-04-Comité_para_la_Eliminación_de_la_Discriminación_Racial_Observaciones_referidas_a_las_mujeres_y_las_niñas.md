@@ -165,3 +165,11 @@ adoptadas para mejorarlos (artículo 5 (e.).
 	niños indígenas.**
 
 	(…)
+
+[^514]: Suplemento No. 18 (A/39/18), 1984
+[^515]: Suplemento No. 18 (A/50/18), 1996
+[^516]: CERD/C/304/Add.21, 23 de abril de 1997
+[^517]: CERD/C/GTM/CO/11, 21 de marzo de 2006
+[^518]: Las recomendaciones se encuentran en negrita.
+[^519]: CERD/C/GTM/CO/12-13, 16 de marzo de 2010
+[^520]: Las recomendaciones se encuentran en negrita.

@@ -759,3 +759,4 @@ años de edad o incapaz. Y reformas al Código Procesal Penal.
 de 25 de febrero de 2004, publicado en el Diario Oficial Nº 57 Tomo Nº 362
 de fecha 23 de marzo de 2004.
 [^496]: CRC/C/SLV/CO/3-4, 17 de febrero de 2010
+[^497]: Las recomendaciones se encuentran en negrita.

@@ -249,3 +249,4 @@ niñez en la búsqueda de niñas y niños que quedaron separados
 involuntariamente de sus familiares; y propiciar el reencuentro con sus
 familiares consanguíneos, partiendo del interés primario del niño o niña”.
 [^444]: CCPR/C/SLV/CO/6, 27 de octubre de 2010
+[^445]: Las recomendaciones se encuentran en negrita.

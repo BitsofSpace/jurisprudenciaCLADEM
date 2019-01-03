@@ -395,7 +395,6 @@ informe sobre El Salvador.
 
      105.61 **Asegurar que todas las mujeres, especialmente las jóvenes, tengan acceso a métodos anticonceptivos y a servicios de salud sexual y reproductiva de manera anónima, no discriminatoria y confidencial (Reino Unido de Gran Bretaña e Irlanda del Norte);**
 
-[^497]: Las recomendaciones se encuentran en negrita.
 [^498]: A/HRC/14/5, 18 de marzo de 2010
 [^499]: Las recomendaciones se encuentran en negrita.
 [^500]: A/HRC/28/5, 17 de diciembre de 2014

@@ -63,6 +63,5 @@ víctimas de una violación que voluntariamente decidan interrumpir su
 embarazo tengan acceso a abortos legales y en condiciones seguras.
 
 
-[^410]: Las recomendaciones se encuentran en negrita.
 [^411]: CAT/C/ECU/CO/7, 11 de enero de 2017
 [^412]: Las recomendaciones se encuentran en negrita.
